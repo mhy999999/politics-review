@@ -1,0 +1,545 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="2027 考研政治错题知识库：90 页练习册 + 甄选题集 746 道结构化题目、105 个考点、五门课体系化复习。手机友好。">
+  <meta name="theme-color" content="#8f1d2c">
+  <title>政治 · 错题知识库</title>
+  <link rel="stylesheet" href="assets/style.css?v=20261202">
+</head>
+<body>
+  <a class="skip-link" href="#main">跳到主要内容</a>
+
+  <header class="site-header">
+    <div class="header-inner">
+      <a class="brand" href="#/overview" aria-label="回到总览">
+        <span class="brand-mark" aria-hidden="true">政</span>
+        <span class="brand-text">
+          <strong>错题知识库</strong>
+          <small>2027 考研政治</small>
+        </span>
+      </a>
+      <nav class="tabs" id="tabs" aria-label="主导航">
+        <a href="#/overview" data-tab="overview" class="active">总览</a>
+        <a href="#/notes" data-tab="notes">笔记对比</a>
+        <a href="#/tree" data-tab="tree">知识树</a>
+        <a href="#/bank" data-tab="bank">题库</a>
+        <a href="#/wrong" data-tab="wrong">错题本</a>
+        <a href="#/more" data-tab="more">更多</a>
+      </nav>
+      <button class="icon-btn" id="printBtn" type="button" aria-label="打印当前页" title="打印当前页">
+        <span aria-hidden="true">⎙</span>
+      </button>
+      <button class="icon-btn" id="themeToggle" type="button" aria-label="切换深色模式" title="切换深色模式">
+        <span aria-hidden="true">◐</span>
+      </button>
+    </div>
+  </header>
+
+  <nav class="bottom-nav" id="bottomNav" aria-label="底部导航">
+    <a href="#/overview" data-tab="overview">总览</a>
+    <a href="#/notes" data-tab="notes">笔记</a>
+    <a href="#/tree" data-tab="tree">知识树</a>
+    <a href="#/bank" data-tab="bank">题库</a>
+    <a href="#/wrong" data-tab="wrong">错题本</a>
+    <a href="#/more" data-tab="more">更多</a>
+  </nav>
+
+  <main id="main">
+    <section class="view active" id="view-overview" aria-labelledby="overviewTitle">
+      <div class="hero">
+        <div class="hero-copy">
+          <p class="eyebrow">90 页练习册 · 甄选题集 · 两轮测验 · 五门课</p>
+          <h1 id="overviewTitle">把错过的题，变成<span>不会再错</span>的知识点。</h1>
+          <p class="lede">从照片里的手写批改、两轮测验和《甄选题集》132 道带解析的题目中，整理出真正薄弱、反复出错、考得最多的考点。文字总结 + 90 页 OCR 题目文字版，不含原图。</p>
+          <div class="hero-actions">
+            <a class="btn primary" href="#/tree">进入知识树</a>
+            <a class="btn ghost" href="#/cards">开始抽认卡</a>
+          </div>
+        </div>
+        <div class="hero-stats" id="heroStats" aria-live="polite"></div>
+      </div>
+
+      <div class="section-head">
+        <div>
+          <p class="eyebrow">今天先学</p>
+          <h2>3 个最该补的点</h2>
+        </div>
+        <p class="section-note">点开直接看考点卡；学完再做关联题，不要一次看太多。</p>
+      </div>
+      <div id="todayFocus" class="today-focus"></div>
+
+      <div class="section-head">
+        <div>
+          <p class="eyebrow">先看哪里</p>
+          <h2>五门课的薄弱地图</h2>
+        </div>
+        <p class="section-note">颜色越深，代表弱项越集中。点击模块直接筛选知识树。</p>
+      </div>
+      <div class="module-grid" id="moduleGrid"></div>
+
+    </section>
+
+    <section class="view" id="view-notes" aria-labelledby="notesTitle">
+      <div class="section-head">
+        <div>
+          <p class="eyebrow">从题边笔记提炼</p>
+          <h2 id="notesTitle">笔记知识点</h2>
+        </div>
+        <p class="section-note">把 82 条手写旁注压缩成 20 个知识点，再做横向和纵向对比；每条都能回到原笔记。</p>
+      </div>
+      <div class="segmented" id="notesTabs" role="tablist" aria-label="笔记视图">
+        <button class="active" type="button" data-notes-tab="knowledge" role="tab">笔记知识点</button>
+        <button type="button" data-notes-tab="horizontal" role="tab">横向对比</button>
+        <button type="button" data-notes-tab="vertical" role="tab">纵向链条</button>
+      </div>
+      <div id="notesContent" class="notes-content"></div>
+    </section>
+
+    <section class="view" id="view-stats" aria-labelledby="statsTitle">
+      <div class="section-head">
+        <div>
+          <p class="eyebrow">90 页全量统计</p>
+          <h2 id="statsTitle">题库统计</h2>
+        </div>
+        <p class="section-note">统计全部题目、考点频次、题边笔记和错题，不是只统计错题。</p>
+      </div>
+      <div class="stats-hero" id="statsHero"></div>
+      <div class="dashboard-grid">
+        <section class="panel">
+          <div class="panel-head">
+            <div>
+              <p class="eyebrow">分布</p>
+              <h3>五门课题目量</h3>
+            </div>
+            <span class="pill">按逐页计数</span>
+          </div>
+          <div id="statsModuleBars" class="module-bars"></div>
+        </section>
+        <section class="panel">
+          <div class="panel-head">
+            <div>
+              <p class="eyebrow">统计口径</p>
+              <h3>题型与覆盖范围</h3>
+            </div>
+          </div>
+          <div id="statsType" class="stats-type"></div>
+        </section>
+      </div>
+      <section class="panel stats-panel">
+        <div class="panel-head">
+          <div>
+            <p class="eyebrow">考什么最多</p>
+            <h3>考点频次 Top 50</h3>
+          </div>
+          <span class="pill" id="statsTopicCount">—</span>
+        </div>
+        <div class="table-wrap">
+          <table class="data-table" id="statsTopicTable">
+            <thead>
+              <tr>
+                <th>#</th>
+                <th>考点</th>
+                <th>模块</th>
+                <th>出现次数</th>
+                <th>关联错题</th>
+                <th>错题率</th>
+              </tr>
+            </thead>
+            <tbody></tbody>
+          </table>
+        </div>
+      </section>
+      <section class="panel stats-panel">
+        <div class="panel-head">
+          <div>
+            <p class="eyebrow">逐页明细</p>
+            <h3>90 页题目 / 笔记 / 错题</h3>
+          </div>
+          <span class="pill">计数为逐页约数</span>
+        </div>
+        <div class="table-wrap stats-page-wrap">
+          <table class="data-table" id="statsPageTable">
+            <thead>
+              <tr>
+                <th>页面</th>
+                <th>模块</th>
+                <th>部分</th>
+                <th>题目</th>
+                <th>笔记/知识点</th>
+                <th>错题</th>
+                <th>来源</th>
+              </tr>
+            </thead>
+            <tbody></tbody>
+          </table>
+        </div>
+      </section>
+      <section class="panel notes-panel">
+        <div class="panel-head">
+          <div>
+            <p class="eyebrow">全部手写</p>
+            <h3>题边笔记</h3>
+          </div>
+          <span class="pill" id="statsNotesCount">—</span>
+        </div>
+        <div class="chips" id="statsNoteChips" role="group" aria-label="按模块筛选笔记" style="margin-bottom:12px"></div>
+        <div id="statsNotesList" class="notes-grid"></div>
+      </section>
+    </section>
+
+    <section class="view" id="view-pages" aria-labelledby="pagesTitle">
+      <div class="section-head">
+        <div>
+          <p class="eyebrow">90 页文字版</p>
+          <h2 id="pagesTitle">题目页</h2>
+        </div>
+        <p class="section-note">按页查看 OCR 文字版题目内容；不含原图，附本页题目数、考点、错题与旁注。</p>
+      </div>
+      <div class="toolbar">
+        <div class="chips" id="pageChips" role="group" aria-label="按模块筛选题目页"></div>
+        <span class="pill" id="pageCount">—</span>
+      </div>
+      <div id="pageGrid" class="page-grid"></div>
+    </section>
+
+    <section class="view" id="view-bank" aria-labelledby="bankTitle">
+      <div class="section-head">
+        <div>
+          <p class="eyebrow">结构化题库</p>
+          <h2 id="bankTitle">题库</h2>
+        </div>
+        <p class="section-note">题干、ABCD 选项、学生答案、标准答案、考点和解析；支持按题册、模块筛选与全文搜索。</p>
+      </div>
+      <div class="chips bank-books" id="bankBookChips" role="group" aria-label="按题册筛选题目"></div>
+      <div class="toolbar">
+        <div class="chips" id="bankChips" role="group" aria-label="按模块筛选题目"></div>
+        <div class="search-wrap">
+          <label class="sr-only" for="bankSearch">搜索题目</label>
+          <input id="bankSearch" type="search" placeholder="搜索题干、选项、考点…" autocomplete="off">
+          <span class="search-hint" id="bankCount"></span>
+        </div>
+      </div>
+      <div id="bankList" class="bank-list"></div>
+    </section>
+
+    <section class="view" id="view-tree" aria-labelledby="treeTitle">
+      <div class="section-head">
+        <div>
+          <p class="eyebrow">体系化</p>
+          <h2 id="treeTitle">五门课知识树</h2>
+        </div>
+        <p class="section-note">按“模块 → 专题 → 考点”组织；点击考点查看完整卡片。</p>
+      </div>
+      <div class="toolbar">
+        <div class="chips" id="moduleChips" role="group" aria-label="按模块筛选"></div>
+        <div class="search-wrap">
+          <label class="sr-only" for="searchInput">搜索考点</label>
+          <input id="searchInput" type="search" placeholder="搜索考点、关键词、易错点…" autocomplete="off">
+          <span class="search-hint" id="searchHint"></span>
+        </div>
+      </div>
+      <div id="treeContent" class="tree-content"></div>
+    </section>
+
+    <section class="view" id="view-deep" aria-labelledby="deepTitle">
+      <div class="section-head">
+        <div>
+          <p class="eyebrow">不只记答案</p>
+          <h2 id="deepTitle">深度错点卡</h2>
+        </div>
+        <p class="section-note">每张卡回答四件事：为什么错、正确逻辑是什么、最容易和什么混淆、怎么记。</p>
+      </div>
+      <div class="toolbar">
+        <div class="chips" id="deepChips" role="group" aria-label="按模块筛选错点卡"></div>
+        <span class="pill" id="deepCount">—</span>
+      </div>
+      <div id="deepList" class="deep-grid"></div>
+    </section>
+
+    <section class="view" id="view-wrong" aria-labelledby="wrongTitle">
+      <div class="section-head">
+        <div>
+          <p class="eyebrow">照片里的批改</p>
+          <h2 id="wrongTitle">错题本</h2>
+        </div>
+        <p class="section-note">只收录照片中有明确批改证据的题；看不清的标为“未知”，不臆造答案。</p>
+      </div>
+      <div class="toolbar">
+        <div class="chips" id="wrongChips" role="group" aria-label="按模块筛选错题"></div>
+        <span class="pill" id="wrongCount">—</span>
+      </div>
+      <div id="wrongList" class="wrong-list"></div>
+    </section>
+
+    <section class="view" id="view-ranking" aria-labelledby="rankingTitle">
+      <div class="section-head">
+        <div>
+          <p class="eyebrow">多错 + 多考</p>
+          <h2 id="rankingTitle">高频易错榜</h2>
+        </div>
+        <p class="section-note">考频是相对值：综合两轮测验题量、照片出现次数与讲义强调程度，不等同于真题考频。</p>
+      </div>
+      <div class="panel ranking-panel">
+        <div class="quadrant-wrap large">
+          <svg id="quadrantLarge" role="img" aria-label="高频易错榜四象限图"></svg>
+        </div>
+        <div class="chart-legend" aria-hidden="true">
+          <span><i class="legend-dot persistent"></i>持续薄弱</span>
+          <span><i class="legend-dot weak"></i>弱项 / 多题错</span>
+          <span><i class="legend-dot improved"></i>已改善</span>
+          <span><i class="legend-dot good"></i>掌握良好</span>
+        </div>
+      </div>
+      <div class="table-wrap">
+        <table class="data-table" id="rankingTable">
+          <thead>
+            <tr>
+              <th>考点</th>
+              <th>模块</th>
+              <th>考频</th>
+              <th>错误率</th>
+              <th>状态</th>
+              <th>为什么值得先看</th>
+            </tr>
+          </thead>
+          <tbody></tbody>
+        </table>
+      </div>
+    </section>
+
+    <section class="view" id="view-compare" aria-labelledby="compareTitle">
+      <div class="section-head">
+        <div>
+          <p class="eyebrow">横向辨析 · 纵向串联</p>
+          <h2 id="compareTitle">对比记忆</h2>
+        </div>
+        <p class="section-note">横向看易混概念的边界，纵向看知识链条的先后；先记差别，再记顺序。</p>
+      </div>
+      <div class="toolbar">
+        <div class="chips" id="compareChips" role="group" aria-label="按模块筛选对比"></div>
+        <span class="pill" id="compareCount">—</span>
+      </div>
+      <section class="compare-section">
+        <div class="compare-head">
+          <div>
+            <p class="eyebrow">横向 · 易混辨析</p>
+            <h3>易混概念对照</h3>
+          </div>
+          <p class="section-note">同一层级、最容易混在一起的概念并排看。</p>
+        </div>
+        <div id="horizontalList" class="compare-grid"></div>
+      </section>
+      <section class="compare-section">
+        <div class="compare-head">
+          <div>
+            <p class="eyebrow">纵向</p>
+            <h3>知识链条</h3>
+          </div>
+          <p class="section-note">按时间或逻辑顺序串起来，避免只记碎片。</p>
+        </div>
+        <div id="verticalList" class="timeline-grid"></div>
+      </section>
+      <section class="panel notes-panel">
+        <div class="panel-head">
+          <div>
+            <p class="eyebrow">照片里的手写</p>
+            <h3>题边旁注摘录</h3>
+          </div>
+          <span class="pill" id="notesCount">—</span>
+        </div>
+        <p class="section-note" style="text-align:left;max-width:none;margin-bottom:12px">从错题照片中提取的题边笔记与批注，按模块整理；看不清的没有收录。</p>
+        <div id="notesList" class="notes-grid"></div>
+      </section>
+    </section>
+
+    <section class="view" id="view-cards" aria-labelledby="cardsTitle">
+      <div class="section-head">
+        <div>
+          <p class="eyebrow">主动回忆</p>
+          <h2 id="cardsTitle">抽认卡</h2>
+        </div>
+        <p class="section-note">先自己回答，再翻面核对；进度保存在本机浏览器。</p>
+      </div>
+      <div class="card-toolbar">
+        <div class="chips" id="cardChips" role="group" aria-label="抽认卡范围"></div>
+        <button class="btn small ghost" id="shuffleCards" type="button">换一张</button>
+      </div>
+      <div class="flashcard-stage">
+        <button class="flashcard" id="flashcard" type="button" aria-label="点击翻面">
+          <div class="flashcard-inner">
+            <div class="flashcard-face front">
+              <span class="flashcard-kicker" id="cardKicker">考点</span>
+              <h3 id="cardFrontTitle">正在加载…</h3>
+              <p id="cardFrontPrompt">点击卡片查看答案</p>
+            </div>
+            <div class="flashcard-face back">
+              <h3 id="cardBackTitle">答案</h3>
+              <div id="cardBackBody"></div>
+            </div>
+          </div>
+        </button>
+      </div>
+      <div class="card-actions">
+        <button class="btn ghost" data-grade="again" type="button">不熟</button>
+        <button class="btn ghost" data-grade="learning" type="button">一般</button>
+        <button class="btn primary" data-grade="mastered" type="button">掌握</button>
+      </div>
+      <div class="card-progress" id="cardProgress" aria-live="polite"></div>
+    </section>
+
+    <section class="view" id="view-method" aria-labelledby="methodTitle">
+      <div class="section-head">
+        <div>
+          <p class="eyebrow">可追溯</p>
+          <h2 id="methodTitle">数据与方法</h2>
+        </div>
+        <p class="section-note">知道结论从哪里来，也知道它不能证明什么。</p>
+      </div>
+      <div class="method-grid">
+        <section class="panel">
+          <h3>素材</h3>
+          <ul class="method-list">
+            <li><strong>90 张照片</strong>：2027 考研政治综合练习册，覆盖马原、毛中特、新思想、史纲、思道法五部分。</li>
+            <li><strong>两轮测验</strong>：<code>营地.txt</code> 与 <code>营地后.txt</code>，共 105 个模块级唯一考点。</li>
+            <li><strong>讲义</strong>：马原、史纲、思道法 PDF，2027 新思想 PPT，徐涛/曹老师笔记。</li>
+            <li><strong>排除</strong>：所有英语讲义、翻译、作文、完型、阅读材料。</li>
+          </ul>
+        </section>
+        <section class="panel">
+          <h3>处理</h3>
+          <ul class="method-list">
+            <li>照片经 EXIF 方向校正、降采样，再用本地 <strong>RapidOCR ONNX</strong> 逐页识别。</li>
+            <li>多模态逐页读取手写答案、红笔批改、圈选与排除符号；透印和字迹不清的题标为“未知”。</li>
+            <li>所有考点统一显示为“模块·考点号”（如 马原·考点46、新思想·考点46），数据键也是模块级唯一 ID；同号已通过前缀解决，不再需要按数字区分。</li>
+            <li>五名模块教研员整理考点卡，阅卷代理逐题推断错题答案并提取题边旁注，最后跑确定性数据校验。</li>
+            <li>90 页全量统计：约 628 道题、82 条题边笔记、42 道明确错题；12 个缺计数页单独逐题补齐。</li>
+            <li><strong>甄选题集·第一部分</strong>：四卷各 33 题，共 132 道马原选择题；试题页逐题识读手写答案与红笔批改，解析册提取标准答案速查表和逐题解析，答案来源标为“题集解析”。</li>
+            <li>结构化题库：746 道题（练习册 614 + 甄选 132），每题含题干、ABCD 选项、学生答案、标准答案、考点和解析；题库支持按题册、模块筛选；考点详情里的“相关题目”可直接打开具体题目。</li>
+          </ul>
+        </section>
+        <section class="panel">
+          <h3>怎么读指标</h3>
+          <ul class="method-list">
+            <li><strong>错误率</strong>：两轮测验中该考点的实际错误比例；题量小，不能等同于考试概率。</li>
+            <li><strong>考频</strong>：1–5 的相对值，综合测验题量、照片出现次数和讲义强调程度。</li>
+            <li><strong>持续薄弱</strong>：两轮都出现且正确率为 0。</li>
+            <li><strong>多题错</strong>：该考点累计至少 2 题且未全对。</li>
+            <li><strong>AI 推断答案</strong>：练习册没有答案页，正确答案由题干、选项、批改痕迹和考研政治知识点推断，标为“AI推断”，不等同官方答案。</li>
+            <li><strong>题边旁注</strong>：从照片中提取的手写笔记/红笔批注，附在错题卡和考点详情里。</li>
+          </ul>
+        </section>
+        <section class="panel">
+          <h3>边界</h3>
+          <ul class="method-list">
+            <li>手写批改存在遮挡、透印和字迹不清，部分题只能标为“未知”；推断答案也可能有误，请以教材和老师讲解为准。</li>
+            <li>毛中特没有专门讲义 PDF，主要依据照片与笔记交叉整理，置信度较低。</li>
+            <li>两轮测验题量很小，统计结论只用于安排复习顺序，不预测分数。</li>
+            <li>网站只发布 OCR 题目文字版和派生文字，不含原图、PDF、长段教材原文或个人信息。</li>
+          </ul>
+        </section>
+      </div>
+      <div class="panel sources-panel">
+        <h3>数据文件</h3>
+        <p>站点数据位于 <code>data/knowledge.json</code> 与 <code>data/quiz_stats.json</code>，可直接查看或导出。</p>
+        <div class="hero-actions">
+          <a class="btn ghost" href="data/knowledge.json" download>下载知识库 JSON</a>
+          <a class="btn ghost" href="data/quiz_stats.json" download>下载测验统计 JSON</a>
+        </div>
+      </div>
+    </section>
+    <section class="view" id="view-more" aria-labelledby="moreTitle">
+      <div class="section-head">
+        <div>
+          <p class="eyebrow">全部功能</p>
+          <h2 id="moreTitle">更多</h2>
+        </div>
+        <p class="section-note">主页面只保留 5 个高频入口，其余功能收在这里。</p>
+      </div>
+      <div class="more-grid">
+        <a class="more-card" href="#/pages"><span class="more-mark">页</span><h3>题目页</h3><p>90 页 OCR 文字版，按页看题目、考点、错题和笔记。</p></a>
+        <a class="more-card" href="#/stats"><span class="more-mark">统</span><h3>题库统计</h3><p>746 道题、82 条笔记、考点频次和逐页明细。</p></a>
+        <a class="more-card" href="#/deep"><span class="more-mark">卡</span><h3>错点卡</h3><p>45 张深度错点卡：为什么错、正确逻辑、易混对照。</p></a>
+        <a class="more-card" href="#/ranking"><span class="more-mark">榜</span><h3>高频易错</h3><p>考频 × 错误率四象限和 Top 50 榜单。</p></a>
+        <a class="more-card" href="#/compare"><span class="more-mark">比</span><h3>知识卡对比</h3><p>18 组横向易混对照 + 5 条纵向知识链。</p></a>
+        <a class="more-card" href="#/cards"><span class="more-mark">记</span><h3>抽认卡</h3><p>主动回忆，本机记录掌握进度。</p></a>
+        <a class="more-card" href="#/method"><span class="more-mark">法</span><h3>方法与来源</h3><p>数据来源、OCR 流程、指标解释和边界。</p></a>
+      </div>
+    </section>
+  </main>
+
+  <footer class="site-footer">
+    <p>2027 考研政治 · 个人错题知识库</p>
+    <p>纯静态站点 · 无后端 · 无 CDN · 进度仅保存在本机</p>
+  </footer>
+
+  <div class="drawer-backdrop" id="drawerBackdrop" hidden></div>
+  <aside class="drawer" id="detailDrawer" aria-hidden="true" aria-labelledby="drawerTitle">
+    <div class="drawer-head">
+      <span class="pill" id="drawerModule">考点</span>
+      <button class="icon-btn" id="drawerClose" type="button" aria-label="关闭详情">×</button>
+    </div>
+    <div class="drawer-body" id="drawerContent"></div>
+  </aside>
+
+  <div class="page-viewer" id="pageViewer" hidden>
+    <div class="page-viewer-panel">
+      <div class="page-viewer-head">
+        <div>
+          <p class="eyebrow" id="pageViewerKicker">题目页</p>
+          <h3 id="pageViewerTitle">—</h3>
+        </div>
+        <div class="page-viewer-tools">
+          <button class="icon-btn" id="pageViewerClose" type="button" aria-label="关闭题目页">×</button>
+        </div>
+      </div>
+      <div class="page-viewer-body text-only">
+        <div class="page-viewer-text">
+          <h4 class="page-viewer-subtitle">结构化题目</h4>
+          <div id="pageViewerQuestions" class="page-question-list"></div>
+          <details class="ocr-details">
+            <summary>OCR 原文</summary>
+            <pre id="pageViewerText"></pre>
+          </details>
+        </div>
+        <aside class="page-viewer-info" id="pageViewerInfo"></aside>
+      </div>
+      <div class="page-viewer-nav">
+        <button class="btn ghost" id="pagePrev" type="button">← 上一页</button>
+        <span id="pagePosition">—</span>
+        <button class="btn ghost" id="pageNext" type="button">下一页 →</button>
+      </div>
+    </div>
+  </div>
+
+  <div class="question-viewer" id="questionViewer" hidden>
+    <div class="question-viewer-panel">
+      <div class="question-viewer-head">
+        <div>
+          <p class="eyebrow" id="qKicker">题目</p>
+          <h3 id="qTitle">—</h3>
+        </div>
+        <button class="icon-btn" id="qClose" type="button" aria-label="关闭题目">×</button>
+      </div>
+      <div class="question-viewer-body">
+        <p class="q-stem" id="qStem"></p>
+        <div class="q-options" id="qOptions"></div>
+        <div class="q-answer" id="qAnswer"></div>
+        <div class="q-note" id="qNote"></div>
+        <div class="q-meta" id="qMeta"></div>
+      </div>
+      <div class="question-viewer-nav">
+        <button class="btn ghost" id="qPrev" type="button">← 上一题</button>
+        <span id="qPosition">—</span>
+        <button class="btn ghost" id="qNext" type="button">下一题 →</button>
+        <button class="btn ghost" id="qPage" type="button">查看题目页</button>
+      </div>
+    </div>
+  </div>
+
+  <div class="toast" id="toast" role="status" aria-live="polite"></div>
+
+  <script src="assets/app.js?v=20261202"></script>
+</body>
+</html>

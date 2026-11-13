@@ -1,0 +1,3978 @@
+{
+  "source": "营地.txt + 营地后.txt",
+  "note": "考点号按模块独立编号，统计键为 模块|完整考点标题，禁止仅按数字合并。",
+  "rounds": [
+    {
+      "file": "营地.txt",
+      "counts": {
+        "存在弱项": 38,
+        "掌握良好": 22
+      },
+      "entries": [
+        {
+          "index": 1,
+          "title": "考点10 运动和静止",
+          "total": 1,
+          "correct": 0,
+          "rate": 0.0,
+          "errorRate": 1.0,
+          "module": "马原",
+          "section": "weak"
+        },
+        {
+          "index": 2,
+          "title": "考点20 否定之否定规律",
+          "total": 1,
+          "correct": 0,
+          "rate": 0.0,
+          "errorRate": 1.0,
+          "module": "马原",
+          "section": "weak"
+        },
+        {
+          "index": 3,
+          "title": "考点55 关于历史创造者问题",
+          "total": 1,
+          "correct": 0,
+          "rate": 0.0,
+          "errorRate": 1.0,
+          "module": "马原",
+          "section": "weak"
+        },
+        {
+          "index": 4,
+          "title": "考点45 社会存在和社会意识及其辩证关系",
+          "total": 1,
+          "correct": 0,
+          "rate": 0.0,
+          "errorRate": 1.0,
+          "module": "马原",
+          "section": "weak"
+        },
+        {
+          "index": 5,
+          "title": "考点77 经济全球化及其影响",
+          "total": 1,
+          "correct": 0,
+          "rate": 0.0,
+          "errorRate": 1.0,
+          "module": "马原",
+          "section": "weak"
+        },
+        {
+          "index": 6,
+          "title": "考点3 习近平新时代中国特色社会主义思想是完整的科学体系",
+          "total": 2,
+          "correct": 0,
+          "rate": 0.0,
+          "errorRate": 1.0,
+          "module": "新思想",
+          "section": "weak"
+        },
+        {
+          "index": 7,
+          "title": "考点54 加快农业农村现代化，扎实推进乡村振兴",
+          "total": 1,
+          "correct": 0,
+          "rate": 0.0,
+          "errorRate": 1.0,
+          "module": "新思想",
+          "section": "weak"
+        },
+        {
+          "index": 8,
+          "title": "考点27 辛亥革命的历史意义",
+          "total": 1,
+          "correct": 0,
+          "rate": 0.0,
+          "errorRate": 1.0,
+          "module": "史纲",
+          "section": "weak"
+        },
+        {
+          "index": 9,
+          "title": "考点23 三民主义学说和资产阶级共和国方案",
+          "total": 2,
+          "correct": 0,
+          "rate": 0.0,
+          "errorRate": 1.0,
+          "module": "史纲",
+          "section": "weak"
+        },
+        {
+          "index": 10,
+          "title": "考点67 抗日战争胜利的原因和意义",
+          "total": 1,
+          "correct": 0,
+          "rate": 0.0,
+          "errorRate": 1.0,
+          "module": "史纲",
+          "section": "weak"
+        },
+        {
+          "index": 11,
+          "title": "考点39 什么是道德",
+          "total": 2,
+          "correct": 0,
+          "rate": 0.0,
+          "errorRate": 1.0,
+          "module": "思道法",
+          "section": "weak"
+        },
+        {
+          "index": 12,
+          "title": "考点61 依法行使权利与履行义务",
+          "total": 1,
+          "correct": 0,
+          "rate": 0.0,
+          "errorRate": 1.0,
+          "module": "思道法",
+          "section": "weak"
+        },
+        {
+          "index": 13,
+          "title": "考点42 传承中华传统美德",
+          "total": 1,
+          "correct": 0,
+          "rate": 0.0,
+          "errorRate": 1.0,
+          "module": "思道法",
+          "section": "weak"
+        },
+        {
+          "index": 14,
+          "title": "考点2 马克思主义的基本立场、基本观点和基本方法",
+          "total": 1,
+          "correct": 0,
+          "rate": 0.0,
+          "errorRate": 1.0,
+          "module": "马原",
+          "section": "weak"
+        },
+        {
+          "index": 15,
+          "title": "考点7 哲学基本问题及不同哲学流派",
+          "total": 1,
+          "correct": 0,
+          "rate": 0.0,
+          "errorRate": 1.0,
+          "module": "马原",
+          "section": "weak"
+        },
+        {
+          "index": 16,
+          "title": "考点19 量变质变规律",
+          "total": 1,
+          "correct": 0,
+          "rate": 0.0,
+          "errorRate": 1.0,
+          "module": "马原",
+          "section": "weak"
+        },
+        {
+          "index": 17,
+          "title": "考点63 马克思劳动价值论的意义",
+          "total": 1,
+          "correct": 0,
+          "rate": 0.0,
+          "errorRate": 1.0,
+          "module": "马原",
+          "section": "weak"
+        },
+        {
+          "index": 18,
+          "title": "考点2 习近平新时代中国特色社会主义思想是“两个结合”的重大成果",
+          "total": 1,
+          "correct": 0,
+          "rate": 0.0,
+          "errorRate": 1.0,
+          "module": "新思想",
+          "section": "weak"
+        },
+        {
+          "index": 19,
+          "title": "考点10 社会主要矛盾变化是关系全局的历史性变化",
+          "total": 1,
+          "correct": 0,
+          "rate": 0.0,
+          "errorRate": 1.0,
+          "module": "新思想",
+          "section": "weak"
+        },
+        {
+          "index": 20,
+          "title": "考点18 中国式现代化的中国特色",
+          "total": 1,
+          "correct": 0,
+          "rate": 0.0,
+          "errorRate": 1.0,
+          "module": "新思想",
+          "section": "weak"
+        },
+        {
+          "index": 21,
+          "title": "考点24 中国共产党领导是中国特色社会主义制度的最大优势",
+          "total": 1,
+          "correct": 0,
+          "rate": 0.0,
+          "errorRate": 1.0,
+          "module": "新思想",
+          "section": "weak"
+        },
+        {
+          "index": 22,
+          "title": "考点23 中国最大的国情就是中国共产党的领导",
+          "total": 1,
+          "correct": 0,
+          "rate": 0.0,
+          "errorRate": 1.0,
+          "module": "新思想",
+          "section": "weak"
+        },
+        {
+          "index": 23,
+          "title": "考点51 以新发展理念引领高质量发展",
+          "total": 1,
+          "correct": 0,
+          "rate": 0.0,
+          "errorRate": 1.0,
+          "module": "新思想",
+          "section": "weak"
+        },
+        {
+          "index": 24,
+          "title": "考点50 建设强大国内市场，构建新发展格局",
+          "total": 1,
+          "correct": 0,
+          "rate": 0.0,
+          "errorRate": 1.0,
+          "module": "新思想",
+          "section": "weak"
+        },
+        {
+          "index": 25,
+          "title": "考点46 所有制：“坚持两个毫不动摇”",
+          "total": 1,
+          "correct": 0,
+          "rate": 0.0,
+          "errorRate": 1.0,
+          "module": "新思想",
+          "section": "weak"
+        },
+        {
+          "index": 26,
+          "title": "考点113 把生态文明建设摆在全局工作的突出位置",
+          "total": 1,
+          "correct": 0,
+          "rate": 0.0,
+          "errorRate": 1.0,
+          "module": "新思想",
+          "section": "weak"
+        },
+        {
+          "index": 27,
+          "title": "考点15 太平天国农民战争",
+          "total": 1,
+          "correct": 0,
+          "rate": 0.0,
+          "errorRate": 1.0,
+          "module": "史纲",
+          "section": "weak"
+        },
+        {
+          "index": 28,
+          "title": "考点86 社会主义基本制度在中国的全面确立及其意义",
+          "total": 1,
+          "correct": 0,
+          "rate": 0.0,
+          "errorRate": 1.0,
+          "module": "史纲",
+          "section": "weak"
+        },
+        {
+          "index": 29,
+          "title": "考点62 “马克思主义的中国化”命题的提出",
+          "total": 1,
+          "correct": 0,
+          "rate": 0.0,
+          "errorRate": 1.0,
+          "module": "史纲",
+          "section": "weak"
+        },
+        {
+          "index": 30,
+          "title": "考点78 中国革命胜利的原因、意义和基本经验",
+          "total": 1,
+          "correct": 0,
+          "rate": 0.0,
+          "errorRate": 1.0,
+          "module": "史纲",
+          "section": "weak"
+        },
+        {
+          "index": 31,
+          "title": "考点21 调动一切积极因素为社会主义事业服务",
+          "total": 1,
+          "correct": 0,
+          "rate": 0.0,
+          "errorRate": 1.0,
+          "module": "毛中特",
+          "section": "weak"
+        },
+        {
+          "index": 32,
+          "title": "考点22 正确认识和处理社会主义社会矛盾的思想",
+          "total": 1,
+          "correct": 0,
+          "rate": 0.0,
+          "errorRate": 1.0,
+          "module": "毛中特",
+          "section": "weak"
+        },
+        {
+          "index": 33,
+          "title": "考点22 坚持个人理想与社会理想的统一",
+          "total": 1,
+          "correct": 0,
+          "rate": 0.0,
+          "errorRate": 1.0,
+          "module": "思道法",
+          "section": "weak"
+        },
+        {
+          "index": 34,
+          "title": "考点32 价值观与社会主义核心价值观",
+          "total": 1,
+          "correct": 0,
+          "rate": 0.0,
+          "errorRate": 1.0,
+          "module": "思道法",
+          "section": "weak"
+        },
+        {
+          "index": 35,
+          "title": "考点67 剩余价值的生产",
+          "total": 2,
+          "correct": 1,
+          "rate": 0.33,
+          "errorRate": 0.67,
+          "module": "马原",
+          "section": "weak"
+        },
+        {
+          "index": 36,
+          "title": "考点37 社会主义改革开放和社会主义市场经济理论",
+          "total": 2,
+          "correct": 1,
+          "rate": 0.33,
+          "errorRate": 0.67,
+          "module": "毛中特",
+          "section": "weak"
+        },
+        {
+          "index": 37,
+          "title": "考点39 全面深化改革的正确方向",
+          "total": 2,
+          "correct": 1,
+          "rate": 0.33,
+          "errorRate": 0.67,
+          "module": "新思想",
+          "section": "weak"
+        },
+        {
+          "index": 38,
+          "title": "考点15 新民主主义社会的性质和特点",
+          "total": 2,
+          "correct": 1,
+          "rate": 0.5,
+          "errorRate": 0.5,
+          "module": "毛中特",
+          "section": "weak"
+        },
+        {
+          "index": 1,
+          "title": "考点3 马克思主义的创立",
+          "total": 1,
+          "correct": 1,
+          "rate": 1.0,
+          "errorRate": 0.0,
+          "module": "马原",
+          "section": "good"
+        },
+        {
+          "index": 2,
+          "title": "考点13 物质与意识的辩证关系",
+          "total": 1,
+          "correct": 1,
+          "rate": 1.0,
+          "errorRate": 0.0,
+          "module": "马原",
+          "section": "good"
+        },
+        {
+          "index": 3,
+          "title": "考点21 内容和形式",
+          "total": 1,
+          "correct": 1,
+          "rate": 1.0,
+          "errorRate": 0.0,
+          "module": "马原",
+          "section": "good"
+        },
+        {
+          "index": 4,
+          "title": "考点4 毛泽东思想形成和发展的过程",
+          "total": 1,
+          "correct": 1,
+          "rate": 1.0,
+          "errorRate": 0.0,
+          "module": "毛中特",
+          "section": "good"
+        },
+        {
+          "index": 5,
+          "title": "考点10 新民主主义革命的总路线",
+          "total": 1,
+          "correct": 1,
+          "rate": 1.0,
+          "errorRate": 0.0,
+          "module": "毛中特",
+          "section": "good"
+        },
+        {
+          "index": 6,
+          "title": "考点12 全面贯彻党的基本理论、基本路线、基本方略",
+          "total": 1,
+          "correct": 1,
+          "rate": 1.0,
+          "errorRate": 0.0,
+          "module": "新思想",
+          "section": "good"
+        },
+        {
+          "index": 7,
+          "title": "考点73 加强人民当家作主制度保障",
+          "total": 1,
+          "correct": 1,
+          "rate": 1.0,
+          "errorRate": 0.0,
+          "module": "新思想",
+          "section": "good"
+        },
+        {
+          "index": 8,
+          "title": "考点97 传承发展中华优秀传统文化",
+          "total": 1,
+          "correct": 1,
+          "rate": 1.0,
+          "errorRate": 0.0,
+          "module": "新思想",
+          "section": "good"
+        },
+        {
+          "index": 9,
+          "title": "考点31 十月革命对中国先进分子的影响",
+          "total": 1,
+          "correct": 1,
+          "rate": 1.0,
+          "errorRate": 0.0,
+          "module": "史纲",
+          "section": "good"
+        },
+        {
+          "index": 10,
+          "title": "考点30 新文化运动与思想解放的潮流",
+          "total": 1,
+          "correct": 1,
+          "rate": 1.0,
+          "errorRate": 0.0,
+          "module": "史纲",
+          "section": "good"
+        },
+        {
+          "index": 11,
+          "title": "考点19 戊戌维新运动的开展",
+          "total": 1,
+          "correct": 1,
+          "rate": 1.0,
+          "errorRate": 0.0,
+          "module": "史纲",
+          "section": "good"
+        },
+        {
+          "index": 12,
+          "title": "考点15 理想信念",
+          "total": 1,
+          "correct": 1,
+          "rate": 1.0,
+          "errorRate": 0.0,
+          "module": "思道法",
+          "section": "good"
+        },
+        {
+          "index": 13,
+          "title": "考点57 建设法治中国",
+          "total": 1,
+          "correct": 1,
+          "rate": 1.0,
+          "errorRate": 0.0,
+          "module": "新思想",
+          "section": "good"
+        },
+        {
+          "index": 14,
+          "title": "考点39 真理的检验标准",
+          "total": 1,
+          "correct": 1,
+          "rate": 1.0,
+          "errorRate": 0.0,
+          "module": "马原",
+          "section": "good"
+        },
+        {
+          "index": 15,
+          "title": "考点46 生产力和生产关系矛盾运动的规律",
+          "total": 1,
+          "correct": 1,
+          "rate": 1.0,
+          "errorRate": 0.0,
+          "module": "马原",
+          "section": "good"
+        },
+        {
+          "index": 16,
+          "title": "考点52 改革在社会发展中的作用",
+          "total": 1,
+          "correct": 1,
+          "rate": 1.0,
+          "errorRate": 0.0,
+          "module": "马原",
+          "section": "good"
+        },
+        {
+          "index": 17,
+          "title": "考点73 资本主义的国家、民主制度及其本质",
+          "total": 1,
+          "correct": 1,
+          "rate": 1.0,
+          "errorRate": 0.0,
+          "module": "马原",
+          "section": "good"
+        },
+        {
+          "index": 18,
+          "title": "考点88 社会主义在苏联的实践",
+          "total": 1,
+          "correct": 1,
+          "rate": 1.0,
+          "errorRate": 0.0,
+          "module": "马原",
+          "section": "good"
+        },
+        {
+          "index": 19,
+          "title": "考点13 新民主主义革命的三大法宝",
+          "total": 1,
+          "correct": 1,
+          "rate": 1.0,
+          "errorRate": 0.0,
+          "module": "毛中特",
+          "section": "good"
+        },
+        {
+          "index": 20,
+          "title": "考点42 土地革命战争的兴起",
+          "total": 1,
+          "correct": 1,
+          "rate": 1.0,
+          "errorRate": 0.0,
+          "module": "史纲",
+          "section": "good"
+        },
+        {
+          "index": 21,
+          "title": "考点45 遵义会议与中国革命的历史性转折",
+          "total": 1,
+          "correct": 1,
+          "rate": 1.0,
+          "errorRate": 0.0,
+          "module": "史纲",
+          "section": "good"
+        },
+        {
+          "index": 22,
+          "title": "考点25 中国精神的丰富内涵",
+          "total": 1,
+          "correct": 1,
+          "rate": 1.0,
+          "errorRate": 0.0,
+          "module": "思道法",
+          "section": "good"
+        }
+      ]
+    },
+    {
+      "file": "营地后.txt",
+      "counts": {
+        "存在弱项": 28,
+        "掌握良好": 33
+      },
+      "entries": [
+        {
+          "index": 1,
+          "title": "考点29 实践的本质和基本特征",
+          "total": 1,
+          "correct": 0,
+          "rate": 0.0,
+          "errorRate": 1.0,
+          "module": "马原",
+          "section": "weak"
+        },
+        {
+          "index": 2,
+          "title": "导论 马克思主义是关于无产阶级和人类解放的科学",
+          "total": 1,
+          "correct": 0,
+          "rate": 0.0,
+          "errorRate": 1.0,
+          "module": "马原",
+          "section": "weak"
+        },
+        {
+          "index": 3,
+          "title": "考点72 资本主义的基本矛盾与经济危机",
+          "total": 1,
+          "correct": 0,
+          "rate": 0.0,
+          "errorRate": 1.0,
+          "module": "马原",
+          "section": "weak"
+        },
+        {
+          "index": 4,
+          "title": "考点13 统筹推进“五位一体”总体布局和协调推进“四个全面”战略布局",
+          "total": 1,
+          "correct": 0,
+          "rate": 0.0,
+          "errorRate": 1.0,
+          "module": "新思想",
+          "section": "weak"
+        },
+        {
+          "index": 5,
+          "title": "考点16 全面建成社会主义现代化强国",
+          "total": 1,
+          "correct": 0,
+          "rate": 0.0,
+          "errorRate": 1.0,
+          "module": "新思想",
+          "section": "weak"
+        },
+        {
+          "index": 6,
+          "title": "考点24 关于革命与改良的辩论",
+          "total": 1,
+          "correct": 0,
+          "rate": 0.0,
+          "errorRate": 1.0,
+          "module": "史纲",
+          "section": "weak"
+        },
+        {
+          "index": 7,
+          "title": "考点57 建设法治中国",
+          "total": 1,
+          "correct": 0,
+          "rate": 0.0,
+          "errorRate": 1.0,
+          "module": "新思想",
+          "section": "weak"
+        },
+        {
+          "index": 8,
+          "title": "考点7 哲学基本问题及不同哲学流派",
+          "total": 1,
+          "correct": 0,
+          "rate": 0.0,
+          "errorRate": 1.0,
+          "module": "马原",
+          "section": "weak"
+        },
+        {
+          "index": 9,
+          "title": "考点46 生产力和生产关系矛盾运动的规律",
+          "total": 1,
+          "correct": 0,
+          "rate": 0.0,
+          "errorRate": 1.0,
+          "module": "马原",
+          "section": "weak"
+        },
+        {
+          "index": 10,
+          "title": "考点69 资本的循环周转与再生产",
+          "total": 1,
+          "correct": 0,
+          "rate": 0.0,
+          "errorRate": 1.0,
+          "module": "马原",
+          "section": "weak"
+        },
+        {
+          "index": 11,
+          "title": "考点92 社会主义建设的曲折发展与不断完善",
+          "total": 1,
+          "correct": 0,
+          "rate": 0.0,
+          "errorRate": 1.0,
+          "module": "史纲",
+          "section": "weak"
+        },
+        {
+          "index": 12,
+          "title": "考点86 第一国际和巴黎公社",
+          "total": 1,
+          "correct": 0,
+          "rate": 0.0,
+          "errorRate": 1.0,
+          "module": "马原",
+          "section": "weak"
+        },
+        {
+          "index": 13,
+          "title": "考点20 确立社会主义基本制度的重大意义",
+          "total": 1,
+          "correct": 0,
+          "rate": 0.0,
+          "errorRate": 1.0,
+          "module": "毛中特",
+          "section": "weak"
+        },
+        {
+          "index": 14,
+          "title": "考点29 邓小平理论：中国特色社会主义理论体系的形成",
+          "total": 1,
+          "correct": 0,
+          "rate": 0.0,
+          "errorRate": 1.0,
+          "module": "毛中特",
+          "section": "weak"
+        },
+        {
+          "index": 15,
+          "title": "考点46 所有制：“坚持两个毫不动摇”",
+          "total": 1,
+          "correct": 0,
+          "rate": 0.0,
+          "errorRate": 1.0,
+          "module": "新思想",
+          "section": "weak"
+        },
+        {
+          "index": 16,
+          "title": "考点21 推进中国式现代化需要牢牢把握的重大原则",
+          "total": 1,
+          "correct": 0,
+          "rate": 0.0,
+          "errorRate": 1.0,
+          "module": "新思想",
+          "section": "weak"
+        },
+        {
+          "index": 17,
+          "title": "考点74 全面发展协商民主",
+          "total": 1,
+          "correct": 0,
+          "rate": 0.0,
+          "errorRate": 1.0,
+          "module": "新思想",
+          "section": "weak"
+        },
+        {
+          "index": 18,
+          "title": "考点113 把生态文明建设摆在全局工作的突出位置",
+          "total": 1,
+          "correct": 0,
+          "rate": 0.0,
+          "errorRate": 1.0,
+          "module": "新思想",
+          "section": "weak"
+        },
+        {
+          "index": 19,
+          "title": "考点12 列强瓜分中国图谋的破产",
+          "total": 1,
+          "correct": 0,
+          "rate": 0.0,
+          "errorRate": 1.0,
+          "module": "史纲",
+          "section": "weak"
+        },
+        {
+          "index": 20,
+          "title": "考点40 大革命失败的经验教训与大革命的意义",
+          "total": 1,
+          "correct": 0,
+          "rate": 0.0,
+          "errorRate": 1.0,
+          "module": "史纲",
+          "section": "weak"
+        },
+        {
+          "index": 21,
+          "title": "考点4 思想道德和法律的关系",
+          "total": 1,
+          "correct": 0,
+          "rate": 0.0,
+          "errorRate": 1.0,
+          "module": "思道法",
+          "section": "weak"
+        },
+        {
+          "index": 22,
+          "title": "考点40 道德的功能与作用",
+          "total": 1,
+          "correct": 0,
+          "rate": 0.0,
+          "errorRate": 1.0,
+          "module": "思道法",
+          "section": "weak"
+        },
+        {
+          "index": 23,
+          "title": "考点16 理想信念是精神之“钙”（理想信念的作用）",
+          "total": 1,
+          "correct": 0,
+          "rate": 0.0,
+          "errorRate": 1.0,
+          "module": "思道法",
+          "section": "weak"
+        },
+        {
+          "index": 24,
+          "title": "考点62 我国宪法法律规定的权利",
+          "total": 1,
+          "correct": 0,
+          "rate": 0.0,
+          "errorRate": 1.0,
+          "module": "思道法",
+          "section": "weak"
+        },
+        {
+          "index": 25,
+          "title": "考点33 五四运动的历史特点及其意义",
+          "total": 2,
+          "correct": 1,
+          "rate": 0.33,
+          "errorRate": 0.67,
+          "module": "史纲",
+          "section": "weak"
+        },
+        {
+          "index": 26,
+          "title": "考点64 延安整风运动与中共七大",
+          "total": 2,
+          "correct": 1,
+          "rate": 0.33,
+          "errorRate": 0.67,
+          "module": "史纲",
+          "section": "weak"
+        },
+        {
+          "index": 27,
+          "title": "考点58 价值是什么",
+          "total": 2,
+          "correct": 1,
+          "rate": 0.5,
+          "errorRate": 0.5,
+          "module": "马原",
+          "section": "weak"
+        },
+        {
+          "index": 28,
+          "title": "考点70 工资与剩余价值的分配",
+          "total": 2,
+          "correct": 1,
+          "rate": 0.5,
+          "errorRate": 0.5,
+          "module": "马原",
+          "section": "weak"
+        },
+        {
+          "index": 1,
+          "title": "考点15 意识与人工智能",
+          "total": 1,
+          "correct": 1,
+          "rate": 1.0,
+          "errorRate": 0.0,
+          "module": "马原",
+          "section": "good"
+        },
+        {
+          "index": 2,
+          "title": "考点12 物质世界的二重化",
+          "total": 1,
+          "correct": 1,
+          "rate": 1.0,
+          "errorRate": 0.0,
+          "module": "马原",
+          "section": "good"
+        },
+        {
+          "index": 3,
+          "title": "考点47 经济基础和上层建筑矛盾运动的规律",
+          "total": 1,
+          "correct": 1,
+          "rate": 1.0,
+          "errorRate": 0.0,
+          "module": "马原",
+          "section": "good"
+        },
+        {
+          "index": 4,
+          "title": "考点75 资本主义从自由竞争到垄断",
+          "total": 1,
+          "correct": 1,
+          "rate": 1.0,
+          "errorRate": 0.0,
+          "module": "马原",
+          "section": "good"
+        },
+        {
+          "index": 5,
+          "title": "考点1 马克思主义中国化时代化的内涵",
+          "total": 1,
+          "correct": 1,
+          "rate": 1.0,
+          "errorRate": 0.0,
+          "module": "新思想",
+          "section": "good"
+        },
+        {
+          "index": 6,
+          "title": "考点4 毛泽东思想形成和发展的过程",
+          "total": 2,
+          "correct": 2,
+          "rate": 1.0,
+          "errorRate": 0.0,
+          "module": "毛中特",
+          "section": "good"
+        },
+        {
+          "index": 7,
+          "title": "考点37 社会主义改革开放和社会主义市场经济理论",
+          "total": 1,
+          "correct": 1,
+          "rate": 1.0,
+          "errorRate": 0.0,
+          "module": "毛中特",
+          "section": "good"
+        },
+        {
+          "index": 8,
+          "title": "考点18 中国式现代化的中国特色",
+          "total": 1,
+          "correct": 1,
+          "rate": 1.0,
+          "errorRate": 0.0,
+          "module": "新思想",
+          "section": "good"
+        },
+        {
+          "index": 9,
+          "title": "考点49 立足新发展阶段，贯彻新发展理念",
+          "total": 1,
+          "correct": 1,
+          "rate": 1.0,
+          "errorRate": 0.0,
+          "module": "新思想",
+          "section": "good"
+        },
+        {
+          "index": 10,
+          "title": "考点48 资源配置体制机制：构建高水平社会主义市场经济体制",
+          "total": 1,
+          "correct": 1,
+          "rate": 1.0,
+          "errorRate": 0.0,
+          "module": "新思想",
+          "section": "good"
+        },
+        {
+          "index": 11,
+          "title": "考点61 办好人民满意的教育",
+          "total": 1,
+          "correct": 1,
+          "rate": 1.0,
+          "errorRate": 0.0,
+          "module": "新思想",
+          "section": "good"
+        },
+        {
+          "index": 12,
+          "title": "考点150 构建人类命运共同体是世界各国人民前途所在",
+          "total": 1,
+          "correct": 1,
+          "rate": 1.0,
+          "errorRate": 0.0,
+          "module": "新思想",
+          "section": "good"
+        },
+        {
+          "index": 13,
+          "title": "考点18 洋务运动的历史作用及其失败原因",
+          "total": 1,
+          "correct": 1,
+          "rate": 1.0,
+          "errorRate": 0.0,
+          "module": "史纲",
+          "section": "good"
+        },
+        {
+          "index": 14,
+          "title": "考点25 辛亥革命的爆发与清王朝覆灭",
+          "total": 1,
+          "correct": 1,
+          "rate": 1.0,
+          "errorRate": 0.0,
+          "module": "史纲",
+          "section": "good"
+        },
+        {
+          "index": 15,
+          "title": "考点58 敌后战场的开辟与游击战争的发展",
+          "total": 1,
+          "correct": 1,
+          "rate": 1.0,
+          "errorRate": 0.0,
+          "module": "史纲",
+          "section": "good"
+        },
+        {
+          "index": 16,
+          "title": "考点43 农村包围城市、武装夺取政权的道路",
+          "total": 1,
+          "correct": 1,
+          "rate": 1.0,
+          "errorRate": 0.0,
+          "module": "毛中特",
+          "section": "good"
+        },
+        {
+          "index": 17,
+          "title": "考点45 遵义会议与中国革命的历史性转折",
+          "total": 1,
+          "correct": 1,
+          "rate": 1.0,
+          "errorRate": 0.0,
+          "module": "史纲",
+          "section": "good"
+        },
+        {
+          "index": 18,
+          "title": "考点7 人生观的主要内容",
+          "total": 1,
+          "correct": 1,
+          "rate": 1.0,
+          "errorRate": 0.0,
+          "module": "思道法",
+          "section": "good"
+        },
+        {
+          "index": 19,
+          "title": "考点39 什么是道德",
+          "total": 1,
+          "correct": 1,
+          "rate": 1.0,
+          "errorRate": 0.0,
+          "module": "思道法",
+          "section": "good"
+        },
+        {
+          "index": 20,
+          "title": "考点25 中国精神的丰富内涵",
+          "total": 1,
+          "correct": 1,
+          "rate": 1.0,
+          "errorRate": 0.0,
+          "module": "思道法",
+          "section": "good"
+        },
+        {
+          "index": 21,
+          "title": "考点22 坚持个人理想与社会理想的统一",
+          "total": 1,
+          "correct": 1,
+          "rate": 1.0,
+          "errorRate": 0.0,
+          "module": "思道法",
+          "section": "good"
+        },
+        {
+          "index": 22,
+          "title": "考点43 从必然走向自由",
+          "total": 1,
+          "correct": 1,
+          "rate": 1.0,
+          "errorRate": 0.0,
+          "module": "马原",
+          "section": "good"
+        },
+        {
+          "index": 23,
+          "title": "考点56 人民群众创造历史",
+          "total": 1,
+          "correct": 1,
+          "rate": 1.0,
+          "errorRate": 0.0,
+          "module": "马原",
+          "section": "good"
+        },
+        {
+          "index": 24,
+          "title": "考点94 共产主义社会的基本特征",
+          "total": 1,
+          "correct": 1,
+          "rate": 1.0,
+          "errorRate": 0.0,
+          "module": "马原",
+          "section": "good"
+        },
+        {
+          "index": 25,
+          "title": "考点13 新民主主义革命的三大法宝",
+          "total": 1,
+          "correct": 1,
+          "rate": 1.0,
+          "errorRate": 0.0,
+          "module": "毛中特",
+          "section": "good"
+        },
+        {
+          "index": 26,
+          "title": "考点20 中国式现代化创造了人类文明新形态",
+          "total": 1,
+          "correct": 1,
+          "rate": 1.0,
+          "errorRate": 0.0,
+          "module": "新思想",
+          "section": "good"
+        },
+        {
+          "index": 27,
+          "title": "考点24 中国共产党领导是中国特色社会主义制度的最大优势",
+          "total": 1,
+          "correct": 1,
+          "rate": 1.0,
+          "errorRate": 0.0,
+          "module": "新思想",
+          "section": "good"
+        },
+        {
+          "index": 28,
+          "title": "考点161 腐败是党长期执政面临的最大威胁",
+          "total": 1,
+          "correct": 1,
+          "rate": 1.0,
+          "errorRate": 0.0,
+          "module": "新思想",
+          "section": "good"
+        },
+        {
+          "index": 29,
+          "title": "考点17 洋务事业的兴办",
+          "total": 1,
+          "correct": 1,
+          "rate": 1.0,
+          "errorRate": 0.0,
+          "module": "史纲",
+          "section": "good"
+        },
+        {
+          "index": 30,
+          "title": "考点19 戊戌维新运动的开展",
+          "total": 1,
+          "correct": 1,
+          "rate": 1.0,
+          "errorRate": 0.0,
+          "module": "史纲",
+          "section": "good"
+        },
+        {
+          "index": 31,
+          "title": "考点37 制定革命纲领，发动工农运动",
+          "total": 1,
+          "correct": 1,
+          "rate": 1.0,
+          "errorRate": 0.0,
+          "module": "史纲",
+          "section": "good"
+        },
+        {
+          "index": 32,
+          "title": "考点59 坚持抗战、团结、进步的方针",
+          "total": 1,
+          "correct": 1,
+          "rate": 1.0,
+          "errorRate": 0.0,
+          "module": "史纲",
+          "section": "good"
+        }
+      ]
+    }
+  ],
+  "topics": [
+    {
+      "key": "史纲|考点12 列强瓜分中国图谋的破产",
+      "module": "史纲",
+      "title": "考点12 列强瓜分中国图谋的破产",
+      "rounds": [
+        {
+          "file": "营地后.txt",
+          "section": "weak",
+          "total": 1,
+          "correct": 0,
+          "rate": 0.0,
+          "errorRate": 1.0
+        }
+      ],
+      "total": 1,
+      "correct": 0,
+      "rate": 0.0,
+      "errorRate": 1.0,
+      "frequency": 1,
+      "weakRounds": 1,
+      "persistentWeak": false,
+      "multiWrong": false,
+      "trend": "single_round",
+      "displayTitle": "史纲·考点12 列强瓜分中国图谋的破产"
+    },
+    {
+      "key": "史纲|考点15 太平天国农民战争",
+      "module": "史纲",
+      "title": "考点15 太平天国农民战争",
+      "rounds": [
+        {
+          "file": "营地.txt",
+          "section": "weak",
+          "total": 1,
+          "correct": 0,
+          "rate": 0.0,
+          "errorRate": 1.0
+        }
+      ],
+      "total": 1,
+      "correct": 0,
+      "rate": 0.0,
+      "errorRate": 1.0,
+      "frequency": 1,
+      "weakRounds": 1,
+      "persistentWeak": false,
+      "multiWrong": false,
+      "trend": "single_round",
+      "displayTitle": "史纲·考点15 太平天国农民战争"
+    },
+    {
+      "key": "史纲|考点17 洋务事业的兴办",
+      "module": "史纲",
+      "title": "考点17 洋务事业的兴办",
+      "rounds": [
+        {
+          "file": "营地后.txt",
+          "section": "good",
+          "total": 1,
+          "correct": 1,
+          "rate": 1.0,
+          "errorRate": 0.0
+        }
+      ],
+      "total": 1,
+      "correct": 1,
+      "rate": 1.0,
+      "errorRate": 0.0,
+      "frequency": 1,
+      "weakRounds": 0,
+      "persistentWeak": false,
+      "multiWrong": false,
+      "trend": "single_round",
+      "displayTitle": "史纲·考点17 洋务事业的兴办"
+    },
+    {
+      "key": "史纲|考点18 洋务运动的历史作用及其失败原因",
+      "module": "史纲",
+      "title": "考点18 洋务运动的历史作用及其失败原因",
+      "rounds": [
+        {
+          "file": "营地后.txt",
+          "section": "good",
+          "total": 1,
+          "correct": 1,
+          "rate": 1.0,
+          "errorRate": 0.0
+        }
+      ],
+      "total": 1,
+      "correct": 1,
+      "rate": 1.0,
+      "errorRate": 0.0,
+      "frequency": 1,
+      "weakRounds": 0,
+      "persistentWeak": false,
+      "multiWrong": false,
+      "trend": "single_round",
+      "displayTitle": "史纲·考点18 洋务运动的历史作用及其失败原因"
+    },
+    {
+      "key": "史纲|考点19 戊戌维新运动的开展",
+      "module": "史纲",
+      "title": "考点19 戊戌维新运动的开展",
+      "rounds": [
+        {
+          "file": "营地.txt",
+          "section": "good",
+          "total": 1,
+          "correct": 1,
+          "rate": 1.0,
+          "errorRate": 0.0
+        },
+        {
+          "file": "营地后.txt",
+          "section": "good",
+          "total": 1,
+          "correct": 1,
+          "rate": 1.0,
+          "errorRate": 0.0
+        }
+      ],
+      "total": 2,
+      "correct": 2,
+      "rate": 1.0,
+      "errorRate": 0.0,
+      "frequency": 2,
+      "weakRounds": 0,
+      "persistentWeak": false,
+      "multiWrong": false,
+      "trend": "stable_good",
+      "displayTitle": "史纲·考点19 戊戌维新运动的开展"
+    },
+    {
+      "key": "史纲|考点23 三民主义学说和资产阶级共和国方案",
+      "module": "史纲",
+      "title": "考点23 三民主义学说和资产阶级共和国方案",
+      "rounds": [
+        {
+          "file": "营地.txt",
+          "section": "weak",
+          "total": 2,
+          "correct": 0,
+          "rate": 0.0,
+          "errorRate": 1.0
+        }
+      ],
+      "total": 2,
+      "correct": 0,
+      "rate": 0.0,
+      "errorRate": 1.0,
+      "frequency": 2,
+      "weakRounds": 1,
+      "persistentWeak": false,
+      "multiWrong": true,
+      "trend": "single_round",
+      "displayTitle": "史纲·考点23 三民主义学说和资产阶级共和国方案"
+    },
+    {
+      "key": "史纲|考点24 关于革命与改良的辩论",
+      "module": "史纲",
+      "title": "考点24 关于革命与改良的辩论",
+      "rounds": [
+        {
+          "file": "营地后.txt",
+          "section": "weak",
+          "total": 1,
+          "correct": 0,
+          "rate": 0.0,
+          "errorRate": 1.0
+        }
+      ],
+      "total": 1,
+      "correct": 0,
+      "rate": 0.0,
+      "errorRate": 1.0,
+      "frequency": 1,
+      "weakRounds": 1,
+      "persistentWeak": false,
+      "multiWrong": false,
+      "trend": "single_round",
+      "displayTitle": "史纲·考点24 关于革命与改良的辩论"
+    },
+    {
+      "key": "史纲|考点25 辛亥革命的爆发与清王朝覆灭",
+      "module": "史纲",
+      "title": "考点25 辛亥革命的爆发与清王朝覆灭",
+      "rounds": [
+        {
+          "file": "营地后.txt",
+          "section": "good",
+          "total": 1,
+          "correct": 1,
+          "rate": 1.0,
+          "errorRate": 0.0
+        }
+      ],
+      "total": 1,
+      "correct": 1,
+      "rate": 1.0,
+      "errorRate": 0.0,
+      "frequency": 1,
+      "weakRounds": 0,
+      "persistentWeak": false,
+      "multiWrong": false,
+      "trend": "single_round",
+      "displayTitle": "史纲·考点25 辛亥革命的爆发与清王朝覆灭"
+    },
+    {
+      "key": "史纲|考点27 辛亥革命的历史意义",
+      "module": "史纲",
+      "title": "考点27 辛亥革命的历史意义",
+      "rounds": [
+        {
+          "file": "营地.txt",
+          "section": "weak",
+          "total": 1,
+          "correct": 0,
+          "rate": 0.0,
+          "errorRate": 1.0
+        }
+      ],
+      "total": 1,
+      "correct": 0,
+      "rate": 0.0,
+      "errorRate": 1.0,
+      "frequency": 1,
+      "weakRounds": 1,
+      "persistentWeak": false,
+      "multiWrong": false,
+      "trend": "single_round",
+      "displayTitle": "史纲·考点27 辛亥革命的历史意义"
+    },
+    {
+      "key": "史纲|考点30 新文化运动与思想解放的潮流",
+      "module": "史纲",
+      "title": "考点30 新文化运动与思想解放的潮流",
+      "rounds": [
+        {
+          "file": "营地.txt",
+          "section": "good",
+          "total": 1,
+          "correct": 1,
+          "rate": 1.0,
+          "errorRate": 0.0
+        }
+      ],
+      "total": 1,
+      "correct": 1,
+      "rate": 1.0,
+      "errorRate": 0.0,
+      "frequency": 1,
+      "weakRounds": 0,
+      "persistentWeak": false,
+      "multiWrong": false,
+      "trend": "single_round",
+      "displayTitle": "史纲·考点30 新文化运动与思想解放的潮流"
+    },
+    {
+      "key": "史纲|考点31 十月革命对中国先进分子的影响",
+      "module": "史纲",
+      "title": "考点31 十月革命对中国先进分子的影响",
+      "rounds": [
+        {
+          "file": "营地.txt",
+          "section": "good",
+          "total": 1,
+          "correct": 1,
+          "rate": 1.0,
+          "errorRate": 0.0
+        }
+      ],
+      "total": 1,
+      "correct": 1,
+      "rate": 1.0,
+      "errorRate": 0.0,
+      "frequency": 1,
+      "weakRounds": 0,
+      "persistentWeak": false,
+      "multiWrong": false,
+      "trend": "single_round",
+      "displayTitle": "史纲·考点31 十月革命对中国先进分子的影响"
+    },
+    {
+      "key": "史纲|考点33 五四运动的历史特点及其意义",
+      "module": "史纲",
+      "title": "考点33 五四运动的历史特点及其意义",
+      "rounds": [
+        {
+          "file": "营地后.txt",
+          "section": "weak",
+          "total": 2,
+          "correct": 1,
+          "rate": 0.33,
+          "errorRate": 0.67
+        }
+      ],
+      "total": 2,
+      "correct": 1,
+      "rate": 0.5,
+      "errorRate": 0.5,
+      "frequency": 2,
+      "weakRounds": 1,
+      "persistentWeak": false,
+      "multiWrong": true,
+      "trend": "single_round",
+      "displayTitle": "史纲·考点33 五四运动的历史特点及其意义"
+    },
+    {
+      "key": "史纲|考点37 制定革命纲领，发动工农运动",
+      "module": "史纲",
+      "title": "考点37 制定革命纲领，发动工农运动",
+      "rounds": [
+        {
+          "file": "营地后.txt",
+          "section": "good",
+          "total": 1,
+          "correct": 1,
+          "rate": 1.0,
+          "errorRate": 0.0
+        }
+      ],
+      "total": 1,
+      "correct": 1,
+      "rate": 1.0,
+      "errorRate": 0.0,
+      "frequency": 1,
+      "weakRounds": 0,
+      "persistentWeak": false,
+      "multiWrong": false,
+      "trend": "single_round",
+      "displayTitle": "史纲·考点37 制定革命纲领，发动工农运动"
+    },
+    {
+      "key": "史纲|考点40 大革命失败的经验教训与大革命的意义",
+      "module": "史纲",
+      "title": "考点40 大革命失败的经验教训与大革命的意义",
+      "rounds": [
+        {
+          "file": "营地后.txt",
+          "section": "weak",
+          "total": 1,
+          "correct": 0,
+          "rate": 0.0,
+          "errorRate": 1.0
+        }
+      ],
+      "total": 1,
+      "correct": 0,
+      "rate": 0.0,
+      "errorRate": 1.0,
+      "frequency": 1,
+      "weakRounds": 1,
+      "persistentWeak": false,
+      "multiWrong": false,
+      "trend": "single_round",
+      "displayTitle": "史纲·考点40 大革命失败的经验教训与大革命的意义"
+    },
+    {
+      "key": "史纲|考点42 土地革命战争的兴起",
+      "module": "史纲",
+      "title": "考点42 土地革命战争的兴起",
+      "rounds": [
+        {
+          "file": "营地.txt",
+          "section": "good",
+          "total": 1,
+          "correct": 1,
+          "rate": 1.0,
+          "errorRate": 0.0
+        }
+      ],
+      "total": 1,
+      "correct": 1,
+      "rate": 1.0,
+      "errorRate": 0.0,
+      "frequency": 1,
+      "weakRounds": 0,
+      "persistentWeak": false,
+      "multiWrong": false,
+      "trend": "single_round",
+      "displayTitle": "史纲·考点42 土地革命战争的兴起"
+    },
+    {
+      "key": "史纲|考点45 遵义会议与中国革命的历史性转折",
+      "module": "史纲",
+      "title": "考点45 遵义会议与中国革命的历史性转折",
+      "rounds": [
+        {
+          "file": "营地.txt",
+          "section": "good",
+          "total": 1,
+          "correct": 1,
+          "rate": 1.0,
+          "errorRate": 0.0
+        },
+        {
+          "file": "营地后.txt",
+          "section": "good",
+          "total": 1,
+          "correct": 1,
+          "rate": 1.0,
+          "errorRate": 0.0
+        }
+      ],
+      "total": 2,
+      "correct": 2,
+      "rate": 1.0,
+      "errorRate": 0.0,
+      "frequency": 2,
+      "weakRounds": 0,
+      "persistentWeak": false,
+      "multiWrong": false,
+      "trend": "stable_good",
+      "displayTitle": "史纲·考点45 遵义会议与中国革命的历史性转折"
+    },
+    {
+      "key": "史纲|考点58 敌后战场的开辟与游击战争的发展",
+      "module": "史纲",
+      "title": "考点58 敌后战场的开辟与游击战争的发展",
+      "rounds": [
+        {
+          "file": "营地后.txt",
+          "section": "good",
+          "total": 1,
+          "correct": 1,
+          "rate": 1.0,
+          "errorRate": 0.0
+        }
+      ],
+      "total": 1,
+      "correct": 1,
+      "rate": 1.0,
+      "errorRate": 0.0,
+      "frequency": 1,
+      "weakRounds": 0,
+      "persistentWeak": false,
+      "multiWrong": false,
+      "trend": "single_round",
+      "displayTitle": "史纲·考点58 敌后战场的开辟与游击战争的发展"
+    },
+    {
+      "key": "史纲|考点59 坚持抗战、团结、进步的方针",
+      "module": "史纲",
+      "title": "考点59 坚持抗战、团结、进步的方针",
+      "rounds": [
+        {
+          "file": "营地后.txt",
+          "section": "good",
+          "total": 1,
+          "correct": 1,
+          "rate": 1.0,
+          "errorRate": 0.0
+        }
+      ],
+      "total": 1,
+      "correct": 1,
+      "rate": 1.0,
+      "errorRate": 0.0,
+      "frequency": 1,
+      "weakRounds": 0,
+      "persistentWeak": false,
+      "multiWrong": false,
+      "trend": "single_round",
+      "displayTitle": "史纲·考点59 坚持抗战、团结、进步的方针"
+    },
+    {
+      "key": "史纲|考点62 “马克思主义的中国化”命题的提出",
+      "module": "史纲",
+      "title": "考点62 “马克思主义的中国化”命题的提出",
+      "rounds": [
+        {
+          "file": "营地.txt",
+          "section": "weak",
+          "total": 1,
+          "correct": 0,
+          "rate": 0.0,
+          "errorRate": 1.0
+        }
+      ],
+      "total": 1,
+      "correct": 0,
+      "rate": 0.0,
+      "errorRate": 1.0,
+      "frequency": 1,
+      "weakRounds": 1,
+      "persistentWeak": false,
+      "multiWrong": false,
+      "trend": "single_round",
+      "displayTitle": "史纲·考点62 “马克思主义的中国化”命题的提出"
+    },
+    {
+      "key": "史纲|考点64 延安整风运动与中共七大",
+      "module": "史纲",
+      "title": "考点64 延安整风运动与中共七大",
+      "rounds": [
+        {
+          "file": "营地后.txt",
+          "section": "weak",
+          "total": 2,
+          "correct": 1,
+          "rate": 0.33,
+          "errorRate": 0.67
+        }
+      ],
+      "total": 2,
+      "correct": 1,
+      "rate": 0.5,
+      "errorRate": 0.5,
+      "frequency": 2,
+      "weakRounds": 1,
+      "persistentWeak": false,
+      "multiWrong": true,
+      "trend": "single_round",
+      "displayTitle": "史纲·考点64 延安整风运动与中共七大"
+    },
+    {
+      "key": "史纲|考点67 抗日战争胜利的原因和意义",
+      "module": "史纲",
+      "title": "考点67 抗日战争胜利的原因和意义",
+      "rounds": [
+        {
+          "file": "营地.txt",
+          "section": "weak",
+          "total": 1,
+          "correct": 0,
+          "rate": 0.0,
+          "errorRate": 1.0
+        }
+      ],
+      "total": 1,
+      "correct": 0,
+      "rate": 0.0,
+      "errorRate": 1.0,
+      "frequency": 1,
+      "weakRounds": 1,
+      "persistentWeak": false,
+      "multiWrong": false,
+      "trend": "single_round",
+      "displayTitle": "史纲·考点67 抗日战争胜利的原因和意义"
+    },
+    {
+      "key": "史纲|考点78 中国革命胜利的原因、意义和基本经验",
+      "module": "史纲",
+      "title": "考点78 中国革命胜利的原因、意义和基本经验",
+      "rounds": [
+        {
+          "file": "营地.txt",
+          "section": "weak",
+          "total": 1,
+          "correct": 0,
+          "rate": 0.0,
+          "errorRate": 1.0
+        }
+      ],
+      "total": 1,
+      "correct": 0,
+      "rate": 0.0,
+      "errorRate": 1.0,
+      "frequency": 1,
+      "weakRounds": 1,
+      "persistentWeak": false,
+      "multiWrong": false,
+      "trend": "single_round",
+      "displayTitle": "史纲·考点78 中国革命胜利的原因、意义和基本经验"
+    },
+    {
+      "key": "史纲|考点86 社会主义基本制度在中国的全面确立及其意义",
+      "module": "史纲",
+      "title": "考点86 社会主义基本制度在中国的全面确立及其意义",
+      "rounds": [
+        {
+          "file": "营地.txt",
+          "section": "weak",
+          "total": 1,
+          "correct": 0,
+          "rate": 0.0,
+          "errorRate": 1.0
+        }
+      ],
+      "total": 1,
+      "correct": 0,
+      "rate": 0.0,
+      "errorRate": 1.0,
+      "frequency": 1,
+      "weakRounds": 1,
+      "persistentWeak": false,
+      "multiWrong": false,
+      "trend": "single_round",
+      "displayTitle": "史纲·考点86 社会主义基本制度在中国的全面确立及其意义"
+    },
+    {
+      "key": "史纲|考点92 社会主义建设的曲折发展与不断完善",
+      "module": "史纲",
+      "title": "考点92 社会主义建设的曲折发展与不断完善",
+      "rounds": [
+        {
+          "file": "营地后.txt",
+          "section": "weak",
+          "total": 1,
+          "correct": 0,
+          "rate": 0.0,
+          "errorRate": 1.0
+        }
+      ],
+      "total": 1,
+      "correct": 0,
+      "rate": 0.0,
+      "errorRate": 1.0,
+      "frequency": 1,
+      "weakRounds": 1,
+      "persistentWeak": false,
+      "multiWrong": false,
+      "trend": "single_round",
+      "displayTitle": "史纲·考点92 社会主义建设的曲折发展与不断完善"
+    },
+    {
+      "key": "思道法|考点15 理想信念",
+      "module": "思道法",
+      "title": "考点15 理想信念",
+      "rounds": [
+        {
+          "file": "营地.txt",
+          "section": "good",
+          "total": 1,
+          "correct": 1,
+          "rate": 1.0,
+          "errorRate": 0.0
+        }
+      ],
+      "total": 1,
+      "correct": 1,
+      "rate": 1.0,
+      "errorRate": 0.0,
+      "frequency": 1,
+      "weakRounds": 0,
+      "persistentWeak": false,
+      "multiWrong": false,
+      "trend": "single_round",
+      "displayTitle": "思道法·考点15 理想信念"
+    },
+    {
+      "key": "思道法|考点16 理想信念是精神之“钙”（理想信念的作用）",
+      "module": "思道法",
+      "title": "考点16 理想信念是精神之“钙”（理想信念的作用）",
+      "rounds": [
+        {
+          "file": "营地后.txt",
+          "section": "weak",
+          "total": 1,
+          "correct": 0,
+          "rate": 0.0,
+          "errorRate": 1.0
+        }
+      ],
+      "total": 1,
+      "correct": 0,
+      "rate": 0.0,
+      "errorRate": 1.0,
+      "frequency": 1,
+      "weakRounds": 1,
+      "persistentWeak": false,
+      "multiWrong": false,
+      "trend": "single_round",
+      "displayTitle": "思道法·考点16 理想信念是精神之“钙”（理想信念的作用）"
+    },
+    {
+      "key": "思道法|考点22 坚持个人理想与社会理想的统一",
+      "module": "思道法",
+      "title": "考点22 坚持个人理想与社会理想的统一",
+      "rounds": [
+        {
+          "file": "营地.txt",
+          "section": "weak",
+          "total": 1,
+          "correct": 0,
+          "rate": 0.0,
+          "errorRate": 1.0
+        },
+        {
+          "file": "营地后.txt",
+          "section": "good",
+          "total": 1,
+          "correct": 1,
+          "rate": 1.0,
+          "errorRate": 0.0
+        }
+      ],
+      "total": 2,
+      "correct": 1,
+      "rate": 0.5,
+      "errorRate": 0.5,
+      "frequency": 2,
+      "weakRounds": 1,
+      "persistentWeak": false,
+      "multiWrong": true,
+      "trend": "improved",
+      "displayTitle": "思道法·考点22 坚持个人理想与社会理想的统一"
+    },
+    {
+      "key": "思道法|考点25 中国精神的丰富内涵",
+      "module": "思道法",
+      "title": "考点25 中国精神的丰富内涵",
+      "rounds": [
+        {
+          "file": "营地.txt",
+          "section": "good",
+          "total": 1,
+          "correct": 1,
+          "rate": 1.0,
+          "errorRate": 0.0
+        },
+        {
+          "file": "营地后.txt",
+          "section": "good",
+          "total": 1,
+          "correct": 1,
+          "rate": 1.0,
+          "errorRate": 0.0
+        }
+      ],
+      "total": 2,
+      "correct": 2,
+      "rate": 1.0,
+      "errorRate": 0.0,
+      "frequency": 2,
+      "weakRounds": 0,
+      "persistentWeak": false,
+      "multiWrong": false,
+      "trend": "stable_good",
+      "displayTitle": "思道法·考点25 中国精神的丰富内涵"
+    },
+    {
+      "key": "思道法|考点32 价值观与社会主义核心价值观",
+      "module": "思道法",
+      "title": "考点32 价值观与社会主义核心价值观",
+      "rounds": [
+        {
+          "file": "营地.txt",
+          "section": "weak",
+          "total": 1,
+          "correct": 0,
+          "rate": 0.0,
+          "errorRate": 1.0
+        }
+      ],
+      "total": 1,
+      "correct": 0,
+      "rate": 0.0,
+      "errorRate": 1.0,
+      "frequency": 1,
+      "weakRounds": 1,
+      "persistentWeak": false,
+      "multiWrong": false,
+      "trend": "single_round",
+      "displayTitle": "思道法·考点32 价值观与社会主义核心价值观"
+    },
+    {
+      "key": "思道法|考点39 什么是道德",
+      "module": "思道法",
+      "title": "考点39 什么是道德",
+      "rounds": [
+        {
+          "file": "营地.txt",
+          "section": "weak",
+          "total": 2,
+          "correct": 0,
+          "rate": 0.0,
+          "errorRate": 1.0
+        },
+        {
+          "file": "营地后.txt",
+          "section": "good",
+          "total": 1,
+          "correct": 1,
+          "rate": 1.0,
+          "errorRate": 0.0
+        }
+      ],
+      "total": 3,
+      "correct": 1,
+      "rate": 0.3333,
+      "errorRate": 0.6667,
+      "frequency": 3,
+      "weakRounds": 1,
+      "persistentWeak": false,
+      "multiWrong": true,
+      "trend": "improved",
+      "displayTitle": "思道法·考点39 什么是道德"
+    },
+    {
+      "key": "思道法|考点4 思想道德和法律的关系",
+      "module": "思道法",
+      "title": "考点4 思想道德和法律的关系",
+      "rounds": [
+        {
+          "file": "营地后.txt",
+          "section": "weak",
+          "total": 1,
+          "correct": 0,
+          "rate": 0.0,
+          "errorRate": 1.0
+        }
+      ],
+      "total": 1,
+      "correct": 0,
+      "rate": 0.0,
+      "errorRate": 1.0,
+      "frequency": 1,
+      "weakRounds": 1,
+      "persistentWeak": false,
+      "multiWrong": false,
+      "trend": "single_round",
+      "displayTitle": "思道法·考点4 思想道德和法律的关系"
+    },
+    {
+      "key": "思道法|考点40 道德的功能与作用",
+      "module": "思道法",
+      "title": "考点40 道德的功能与作用",
+      "rounds": [
+        {
+          "file": "营地后.txt",
+          "section": "weak",
+          "total": 1,
+          "correct": 0,
+          "rate": 0.0,
+          "errorRate": 1.0
+        }
+      ],
+      "total": 1,
+      "correct": 0,
+      "rate": 0.0,
+      "errorRate": 1.0,
+      "frequency": 1,
+      "weakRounds": 1,
+      "persistentWeak": false,
+      "multiWrong": false,
+      "trend": "single_round",
+      "displayTitle": "思道法·考点40 道德的功能与作用"
+    },
+    {
+      "key": "思道法|考点42 传承中华传统美德",
+      "module": "思道法",
+      "title": "考点42 传承中华传统美德",
+      "rounds": [
+        {
+          "file": "营地.txt",
+          "section": "weak",
+          "total": 1,
+          "correct": 0,
+          "rate": 0.0,
+          "errorRate": 1.0
+        }
+      ],
+      "total": 1,
+      "correct": 0,
+      "rate": 0.0,
+      "errorRate": 1.0,
+      "frequency": 1,
+      "weakRounds": 1,
+      "persistentWeak": false,
+      "multiWrong": false,
+      "trend": "single_round",
+      "displayTitle": "思道法·考点42 传承中华传统美德"
+    },
+    {
+      "key": "思道法|考点61 依法行使权利与履行义务",
+      "module": "思道法",
+      "title": "考点61 依法行使权利与履行义务",
+      "rounds": [
+        {
+          "file": "营地.txt",
+          "section": "weak",
+          "total": 1,
+          "correct": 0,
+          "rate": 0.0,
+          "errorRate": 1.0
+        }
+      ],
+      "total": 1,
+      "correct": 0,
+      "rate": 0.0,
+      "errorRate": 1.0,
+      "frequency": 1,
+      "weakRounds": 1,
+      "persistentWeak": false,
+      "multiWrong": false,
+      "trend": "single_round",
+      "displayTitle": "思道法·考点61 依法行使权利与履行义务"
+    },
+    {
+      "key": "思道法|考点62 我国宪法法律规定的权利",
+      "module": "思道法",
+      "title": "考点62 我国宪法法律规定的权利",
+      "rounds": [
+        {
+          "file": "营地后.txt",
+          "section": "weak",
+          "total": 1,
+          "correct": 0,
+          "rate": 0.0,
+          "errorRate": 1.0
+        }
+      ],
+      "total": 1,
+      "correct": 0,
+      "rate": 0.0,
+      "errorRate": 1.0,
+      "frequency": 1,
+      "weakRounds": 1,
+      "persistentWeak": false,
+      "multiWrong": false,
+      "trend": "single_round",
+      "displayTitle": "思道法·考点62 我国宪法法律规定的权利"
+    },
+    {
+      "key": "思道法|考点7 人生观的主要内容",
+      "module": "思道法",
+      "title": "考点7 人生观的主要内容",
+      "rounds": [
+        {
+          "file": "营地后.txt",
+          "section": "good",
+          "total": 1,
+          "correct": 1,
+          "rate": 1.0,
+          "errorRate": 0.0
+        }
+      ],
+      "total": 1,
+      "correct": 1,
+      "rate": 1.0,
+      "errorRate": 0.0,
+      "frequency": 1,
+      "weakRounds": 0,
+      "persistentWeak": false,
+      "multiWrong": false,
+      "trend": "single_round",
+      "displayTitle": "思道法·考点7 人生观的主要内容"
+    },
+    {
+      "key": "新思想|考点1 马克思主义中国化时代化的内涵",
+      "module": "新思想",
+      "title": "考点1 马克思主义中国化时代化的内涵",
+      "rounds": [
+        {
+          "file": "营地后.txt",
+          "section": "good",
+          "total": 1,
+          "correct": 1,
+          "rate": 1.0,
+          "errorRate": 0.0
+        }
+      ],
+      "total": 1,
+      "correct": 1,
+      "rate": 1.0,
+      "errorRate": 0.0,
+      "frequency": 1,
+      "weakRounds": 0,
+      "persistentWeak": false,
+      "multiWrong": false,
+      "trend": "single_round",
+      "displayTitle": "新思想·考点1 马克思主义中国化时代化的内涵"
+    },
+    {
+      "key": "新思想|考点10 社会主要矛盾变化是关系全局的历史性变化",
+      "module": "新思想",
+      "title": "考点10 社会主要矛盾变化是关系全局的历史性变化",
+      "rounds": [
+        {
+          "file": "营地.txt",
+          "section": "weak",
+          "total": 1,
+          "correct": 0,
+          "rate": 0.0,
+          "errorRate": 1.0
+        }
+      ],
+      "total": 1,
+      "correct": 0,
+      "rate": 0.0,
+      "errorRate": 1.0,
+      "frequency": 1,
+      "weakRounds": 1,
+      "persistentWeak": false,
+      "multiWrong": false,
+      "trend": "single_round",
+      "displayTitle": "新思想·考点10 社会主要矛盾变化是关系全局的历史性变化"
+    },
+    {
+      "key": "新思想|考点113 把生态文明建设摆在全局工作的突出位置",
+      "module": "新思想",
+      "title": "考点113 把生态文明建设摆在全局工作的突出位置",
+      "rounds": [
+        {
+          "file": "营地.txt",
+          "section": "weak",
+          "total": 1,
+          "correct": 0,
+          "rate": 0.0,
+          "errorRate": 1.0
+        },
+        {
+          "file": "营地后.txt",
+          "section": "weak",
+          "total": 1,
+          "correct": 0,
+          "rate": 0.0,
+          "errorRate": 1.0
+        }
+      ],
+      "total": 2,
+      "correct": 0,
+      "rate": 0.0,
+      "errorRate": 1.0,
+      "frequency": 2,
+      "weakRounds": 2,
+      "persistentWeak": true,
+      "multiWrong": true,
+      "trend": "persistent_weak",
+      "displayTitle": "新思想·考点113 把生态文明建设摆在全局工作的突出位置"
+    },
+    {
+      "key": "新思想|考点12 全面贯彻党的基本理论、基本路线、基本方略",
+      "module": "新思想",
+      "title": "考点12 全面贯彻党的基本理论、基本路线、基本方略",
+      "rounds": [
+        {
+          "file": "营地.txt",
+          "section": "good",
+          "total": 1,
+          "correct": 1,
+          "rate": 1.0,
+          "errorRate": 0.0
+        }
+      ],
+      "total": 1,
+      "correct": 1,
+      "rate": 1.0,
+      "errorRate": 0.0,
+      "frequency": 1,
+      "weakRounds": 0,
+      "persistentWeak": false,
+      "multiWrong": false,
+      "trend": "single_round",
+      "displayTitle": "新思想·考点12 全面贯彻党的基本理论、基本路线、基本方略"
+    },
+    {
+      "key": "新思想|考点13 统筹推进“五位一体”总体布局和协调推进“四个全面”战略布局",
+      "module": "新思想",
+      "title": "考点13 统筹推进“五位一体”总体布局和协调推进“四个全面”战略布局",
+      "rounds": [
+        {
+          "file": "营地后.txt",
+          "section": "weak",
+          "total": 1,
+          "correct": 0,
+          "rate": 0.0,
+          "errorRate": 1.0
+        }
+      ],
+      "total": 1,
+      "correct": 0,
+      "rate": 0.0,
+      "errorRate": 1.0,
+      "frequency": 1,
+      "weakRounds": 1,
+      "persistentWeak": false,
+      "multiWrong": false,
+      "trend": "single_round",
+      "displayTitle": "新思想·考点13 统筹推进“五位一体”总体布局和协调推进“四个全面”战略布局"
+    },
+    {
+      "key": "新思想|考点150 构建人类命运共同体是世界各国人民前途所在",
+      "module": "新思想",
+      "title": "考点150 构建人类命运共同体是世界各国人民前途所在",
+      "rounds": [
+        {
+          "file": "营地后.txt",
+          "section": "good",
+          "total": 1,
+          "correct": 1,
+          "rate": 1.0,
+          "errorRate": 0.0
+        }
+      ],
+      "total": 1,
+      "correct": 1,
+      "rate": 1.0,
+      "errorRate": 0.0,
+      "frequency": 1,
+      "weakRounds": 0,
+      "persistentWeak": false,
+      "multiWrong": false,
+      "trend": "single_round",
+      "displayTitle": "新思想·考点150 构建人类命运共同体是世界各国人民前途所在"
+    },
+    {
+      "key": "新思想|考点16 全面建成社会主义现代化强国",
+      "module": "新思想",
+      "title": "考点16 全面建成社会主义现代化强国",
+      "rounds": [
+        {
+          "file": "营地后.txt",
+          "section": "weak",
+          "total": 1,
+          "correct": 0,
+          "rate": 0.0,
+          "errorRate": 1.0
+        }
+      ],
+      "total": 1,
+      "correct": 0,
+      "rate": 0.0,
+      "errorRate": 1.0,
+      "frequency": 1,
+      "weakRounds": 1,
+      "persistentWeak": false,
+      "multiWrong": false,
+      "trend": "single_round",
+      "displayTitle": "新思想·考点16 全面建成社会主义现代化强国"
+    },
+    {
+      "key": "新思想|考点161 腐败是党长期执政面临的最大威胁",
+      "module": "新思想",
+      "title": "考点161 腐败是党长期执政面临的最大威胁",
+      "rounds": [
+        {
+          "file": "营地后.txt",
+          "section": "good",
+          "total": 1,
+          "correct": 1,
+          "rate": 1.0,
+          "errorRate": 0.0
+        }
+      ],
+      "total": 1,
+      "correct": 1,
+      "rate": 1.0,
+      "errorRate": 0.0,
+      "frequency": 1,
+      "weakRounds": 0,
+      "persistentWeak": false,
+      "multiWrong": false,
+      "trend": "single_round",
+      "displayTitle": "新思想·考点161 腐败是党长期执政面临的最大威胁"
+    },
+    {
+      "key": "新思想|考点18 中国式现代化的中国特色",
+      "module": "新思想",
+      "title": "考点18 中国式现代化的中国特色",
+      "rounds": [
+        {
+          "file": "营地.txt",
+          "section": "weak",
+          "total": 1,
+          "correct": 0,
+          "rate": 0.0,
+          "errorRate": 1.0
+        },
+        {
+          "file": "营地后.txt",
+          "section": "good",
+          "total": 1,
+          "correct": 1,
+          "rate": 1.0,
+          "errorRate": 0.0
+        }
+      ],
+      "total": 2,
+      "correct": 1,
+      "rate": 0.5,
+      "errorRate": 0.5,
+      "frequency": 2,
+      "weakRounds": 1,
+      "persistentWeak": false,
+      "multiWrong": true,
+      "trend": "improved",
+      "displayTitle": "新思想·考点18 中国式现代化的中国特色"
+    },
+    {
+      "key": "新思想|考点2 习近平新时代中国特色社会主义思想是“两个结合”的重大成果",
+      "module": "新思想",
+      "title": "考点2 习近平新时代中国特色社会主义思想是“两个结合”的重大成果",
+      "rounds": [
+        {
+          "file": "营地.txt",
+          "section": "weak",
+          "total": 1,
+          "correct": 0,
+          "rate": 0.0,
+          "errorRate": 1.0
+        }
+      ],
+      "total": 1,
+      "correct": 0,
+      "rate": 0.0,
+      "errorRate": 1.0,
+      "frequency": 1,
+      "weakRounds": 1,
+      "persistentWeak": false,
+      "multiWrong": false,
+      "trend": "single_round",
+      "displayTitle": "新思想·考点2 习近平新时代中国特色社会主义思想是“两个结合”的重大成果"
+    },
+    {
+      "key": "新思想|考点20 中国式现代化创造了人类文明新形态",
+      "module": "新思想",
+      "title": "考点20 中国式现代化创造了人类文明新形态",
+      "rounds": [
+        {
+          "file": "营地后.txt",
+          "section": "good",
+          "total": 1,
+          "correct": 1,
+          "rate": 1.0,
+          "errorRate": 0.0
+        }
+      ],
+      "total": 1,
+      "correct": 1,
+      "rate": 1.0,
+      "errorRate": 0.0,
+      "frequency": 1,
+      "weakRounds": 0,
+      "persistentWeak": false,
+      "multiWrong": false,
+      "trend": "single_round",
+      "displayTitle": "新思想·考点20 中国式现代化创造了人类文明新形态"
+    },
+    {
+      "key": "新思想|考点21 推进中国式现代化需要牢牢把握的重大原则",
+      "module": "新思想",
+      "title": "考点21 推进中国式现代化需要牢牢把握的重大原则",
+      "rounds": [
+        {
+          "file": "营地后.txt",
+          "section": "weak",
+          "total": 1,
+          "correct": 0,
+          "rate": 0.0,
+          "errorRate": 1.0
+        }
+      ],
+      "total": 1,
+      "correct": 0,
+      "rate": 0.0,
+      "errorRate": 1.0,
+      "frequency": 1,
+      "weakRounds": 1,
+      "persistentWeak": false,
+      "multiWrong": false,
+      "trend": "single_round",
+      "displayTitle": "新思想·考点21 推进中国式现代化需要牢牢把握的重大原则"
+    },
+    {
+      "key": "新思想|考点23 中国最大的国情就是中国共产党的领导",
+      "module": "新思想",
+      "title": "考点23 中国最大的国情就是中国共产党的领导",
+      "rounds": [
+        {
+          "file": "营地.txt",
+          "section": "weak",
+          "total": 1,
+          "correct": 0,
+          "rate": 0.0,
+          "errorRate": 1.0
+        }
+      ],
+      "total": 1,
+      "correct": 0,
+      "rate": 0.0,
+      "errorRate": 1.0,
+      "frequency": 1,
+      "weakRounds": 1,
+      "persistentWeak": false,
+      "multiWrong": false,
+      "trend": "single_round",
+      "displayTitle": "新思想·考点23 中国最大的国情就是中国共产党的领导"
+    },
+    {
+      "key": "新思想|考点24 中国共产党领导是中国特色社会主义制度的最大优势",
+      "module": "新思想",
+      "title": "考点24 中国共产党领导是中国特色社会主义制度的最大优势",
+      "rounds": [
+        {
+          "file": "营地.txt",
+          "section": "weak",
+          "total": 1,
+          "correct": 0,
+          "rate": 0.0,
+          "errorRate": 1.0
+        },
+        {
+          "file": "营地后.txt",
+          "section": "good",
+          "total": 1,
+          "correct": 1,
+          "rate": 1.0,
+          "errorRate": 0.0
+        }
+      ],
+      "total": 2,
+      "correct": 1,
+      "rate": 0.5,
+      "errorRate": 0.5,
+      "frequency": 2,
+      "weakRounds": 1,
+      "persistentWeak": false,
+      "multiWrong": true,
+      "trend": "improved",
+      "displayTitle": "新思想·考点24 中国共产党领导是中国特色社会主义制度的最大优势"
+    },
+    {
+      "key": "新思想|考点3 习近平新时代中国特色社会主义思想是完整的科学体系",
+      "module": "新思想",
+      "title": "考点3 习近平新时代中国特色社会主义思想是完整的科学体系",
+      "rounds": [
+        {
+          "file": "营地.txt",
+          "section": "weak",
+          "total": 2,
+          "correct": 0,
+          "rate": 0.0,
+          "errorRate": 1.0
+        }
+      ],
+      "total": 2,
+      "correct": 0,
+      "rate": 0.0,
+      "errorRate": 1.0,
+      "frequency": 2,
+      "weakRounds": 1,
+      "persistentWeak": false,
+      "multiWrong": true,
+      "trend": "single_round",
+      "displayTitle": "新思想·考点3 习近平新时代中国特色社会主义思想是完整的科学体系"
+    },
+    {
+      "key": "新思想|考点39 全面深化改革的正确方向",
+      "module": "新思想",
+      "title": "考点39 全面深化改革的正确方向",
+      "rounds": [
+        {
+          "file": "营地.txt",
+          "section": "weak",
+          "total": 2,
+          "correct": 1,
+          "rate": 0.33,
+          "errorRate": 0.67
+        }
+      ],
+      "total": 2,
+      "correct": 1,
+      "rate": 0.5,
+      "errorRate": 0.5,
+      "frequency": 2,
+      "weakRounds": 1,
+      "persistentWeak": false,
+      "multiWrong": true,
+      "trend": "single_round",
+      "displayTitle": "新思想·考点39 全面深化改革的正确方向"
+    },
+    {
+      "key": "新思想|考点46 所有制：“坚持两个毫不动摇”",
+      "module": "新思想",
+      "title": "考点46 所有制：“坚持两个毫不动摇”",
+      "rounds": [
+        {
+          "file": "营地.txt",
+          "section": "weak",
+          "total": 1,
+          "correct": 0,
+          "rate": 0.0,
+          "errorRate": 1.0
+        },
+        {
+          "file": "营地后.txt",
+          "section": "weak",
+          "total": 1,
+          "correct": 0,
+          "rate": 0.0,
+          "errorRate": 1.0
+        }
+      ],
+      "total": 2,
+      "correct": 0,
+      "rate": 0.0,
+      "errorRate": 1.0,
+      "frequency": 2,
+      "weakRounds": 2,
+      "persistentWeak": true,
+      "multiWrong": true,
+      "trend": "persistent_weak",
+      "displayTitle": "新思想·考点46 所有制：“坚持两个毫不动摇”"
+    },
+    {
+      "key": "新思想|考点48 资源配置体制机制：构建高水平社会主义市场经济体制",
+      "module": "新思想",
+      "title": "考点48 资源配置体制机制：构建高水平社会主义市场经济体制",
+      "rounds": [
+        {
+          "file": "营地后.txt",
+          "section": "good",
+          "total": 1,
+          "correct": 1,
+          "rate": 1.0,
+          "errorRate": 0.0
+        }
+      ],
+      "total": 1,
+      "correct": 1,
+      "rate": 1.0,
+      "errorRate": 0.0,
+      "frequency": 1,
+      "weakRounds": 0,
+      "persistentWeak": false,
+      "multiWrong": false,
+      "trend": "single_round",
+      "displayTitle": "新思想·考点48 资源配置体制机制：构建高水平社会主义市场经济体制"
+    },
+    {
+      "key": "新思想|考点49 立足新发展阶段，贯彻新发展理念",
+      "module": "新思想",
+      "title": "考点49 立足新发展阶段，贯彻新发展理念",
+      "rounds": [
+        {
+          "file": "营地后.txt",
+          "section": "good",
+          "total": 1,
+          "correct": 1,
+          "rate": 1.0,
+          "errorRate": 0.0
+        }
+      ],
+      "total": 1,
+      "correct": 1,
+      "rate": 1.0,
+      "errorRate": 0.0,
+      "frequency": 1,
+      "weakRounds": 0,
+      "persistentWeak": false,
+      "multiWrong": false,
+      "trend": "single_round",
+      "displayTitle": "新思想·考点49 立足新发展阶段，贯彻新发展理念"
+    },
+    {
+      "key": "新思想|考点50 建设强大国内市场，构建新发展格局",
+      "module": "新思想",
+      "title": "考点50 建设强大国内市场，构建新发展格局",
+      "rounds": [
+        {
+          "file": "营地.txt",
+          "section": "weak",
+          "total": 1,
+          "correct": 0,
+          "rate": 0.0,
+          "errorRate": 1.0
+        }
+      ],
+      "total": 1,
+      "correct": 0,
+      "rate": 0.0,
+      "errorRate": 1.0,
+      "frequency": 1,
+      "weakRounds": 1,
+      "persistentWeak": false,
+      "multiWrong": false,
+      "trend": "single_round",
+      "displayTitle": "新思想·考点50 建设强大国内市场，构建新发展格局"
+    },
+    {
+      "key": "新思想|考点51 以新发展理念引领高质量发展",
+      "module": "新思想",
+      "title": "考点51 以新发展理念引领高质量发展",
+      "rounds": [
+        {
+          "file": "营地.txt",
+          "section": "weak",
+          "total": 1,
+          "correct": 0,
+          "rate": 0.0,
+          "errorRate": 1.0
+        }
+      ],
+      "total": 1,
+      "correct": 0,
+      "rate": 0.0,
+      "errorRate": 1.0,
+      "frequency": 1,
+      "weakRounds": 1,
+      "persistentWeak": false,
+      "multiWrong": false,
+      "trend": "single_round",
+      "displayTitle": "新思想·考点51 以新发展理念引领高质量发展"
+    },
+    {
+      "key": "新思想|考点54 加快农业农村现代化，扎实推进乡村振兴",
+      "module": "新思想",
+      "title": "考点54 加快农业农村现代化，扎实推进乡村振兴",
+      "rounds": [
+        {
+          "file": "营地.txt",
+          "section": "weak",
+          "total": 1,
+          "correct": 0,
+          "rate": 0.0,
+          "errorRate": 1.0
+        }
+      ],
+      "total": 1,
+      "correct": 0,
+      "rate": 0.0,
+      "errorRate": 1.0,
+      "frequency": 1,
+      "weakRounds": 1,
+      "persistentWeak": false,
+      "multiWrong": false,
+      "trend": "single_round",
+      "displayTitle": "新思想·考点54 加快农业农村现代化，扎实推进乡村振兴"
+    },
+    {
+      "key": "新思想|考点57 建设法治中国",
+      "module": "新思想",
+      "title": "考点57 建设法治中国",
+      "rounds": [
+        {
+          "file": "营地.txt",
+          "section": "good",
+          "total": 1,
+          "correct": 1,
+          "rate": 1.0,
+          "errorRate": 0.0
+        },
+        {
+          "file": "营地后.txt",
+          "section": "weak",
+          "total": 1,
+          "correct": 0,
+          "rate": 0.0,
+          "errorRate": 1.0
+        }
+      ],
+      "total": 2,
+      "correct": 1,
+      "rate": 0.5,
+      "errorRate": 0.5,
+      "frequency": 2,
+      "weakRounds": 1,
+      "persistentWeak": false,
+      "multiWrong": true,
+      "trend": "worsened",
+      "displayTitle": "新思想·考点57 建设法治中国"
+    },
+    {
+      "key": "新思想|考点61 办好人民满意的教育",
+      "module": "新思想",
+      "title": "考点61 办好人民满意的教育",
+      "rounds": [
+        {
+          "file": "营地后.txt",
+          "section": "good",
+          "total": 1,
+          "correct": 1,
+          "rate": 1.0,
+          "errorRate": 0.0
+        }
+      ],
+      "total": 1,
+      "correct": 1,
+      "rate": 1.0,
+      "errorRate": 0.0,
+      "frequency": 1,
+      "weakRounds": 0,
+      "persistentWeak": false,
+      "multiWrong": false,
+      "trend": "single_round",
+      "displayTitle": "新思想·考点61 办好人民满意的教育"
+    },
+    {
+      "key": "新思想|考点73 加强人民当家作主制度保障",
+      "module": "新思想",
+      "title": "考点73 加强人民当家作主制度保障",
+      "rounds": [
+        {
+          "file": "营地.txt",
+          "section": "good",
+          "total": 1,
+          "correct": 1,
+          "rate": 1.0,
+          "errorRate": 0.0
+        }
+      ],
+      "total": 1,
+      "correct": 1,
+      "rate": 1.0,
+      "errorRate": 0.0,
+      "frequency": 1,
+      "weakRounds": 0,
+      "persistentWeak": false,
+      "multiWrong": false,
+      "trend": "single_round",
+      "displayTitle": "新思想·考点73 加强人民当家作主制度保障"
+    },
+    {
+      "key": "新思想|考点74 全面发展协商民主",
+      "module": "新思想",
+      "title": "考点74 全面发展协商民主",
+      "rounds": [
+        {
+          "file": "营地后.txt",
+          "section": "weak",
+          "total": 1,
+          "correct": 0,
+          "rate": 0.0,
+          "errorRate": 1.0
+        }
+      ],
+      "total": 1,
+      "correct": 0,
+      "rate": 0.0,
+      "errorRate": 1.0,
+      "frequency": 1,
+      "weakRounds": 1,
+      "persistentWeak": false,
+      "multiWrong": false,
+      "trend": "single_round",
+      "displayTitle": "新思想·考点74 全面发展协商民主"
+    },
+    {
+      "key": "新思想|考点97 传承发展中华优秀传统文化",
+      "module": "新思想",
+      "title": "考点97 传承发展中华优秀传统文化",
+      "rounds": [
+        {
+          "file": "营地.txt",
+          "section": "good",
+          "total": 1,
+          "correct": 1,
+          "rate": 1.0,
+          "errorRate": 0.0
+        }
+      ],
+      "total": 1,
+      "correct": 1,
+      "rate": 1.0,
+      "errorRate": 0.0,
+      "frequency": 1,
+      "weakRounds": 0,
+      "persistentWeak": false,
+      "multiWrong": false,
+      "trend": "single_round",
+      "displayTitle": "新思想·考点97 传承发展中华优秀传统文化"
+    },
+    {
+      "key": "毛中特|考点10 新民主主义革命的总路线",
+      "module": "毛中特",
+      "title": "考点10 新民主主义革命的总路线",
+      "rounds": [
+        {
+          "file": "营地.txt",
+          "section": "good",
+          "total": 1,
+          "correct": 1,
+          "rate": 1.0,
+          "errorRate": 0.0
+        }
+      ],
+      "total": 1,
+      "correct": 1,
+      "rate": 1.0,
+      "errorRate": 0.0,
+      "frequency": 1,
+      "weakRounds": 0,
+      "persistentWeak": false,
+      "multiWrong": false,
+      "trend": "single_round",
+      "displayTitle": "毛中特·考点10 新民主主义革命的总路线"
+    },
+    {
+      "key": "毛中特|考点13 新民主主义革命的三大法宝",
+      "module": "毛中特",
+      "title": "考点13 新民主主义革命的三大法宝",
+      "rounds": [
+        {
+          "file": "营地.txt",
+          "section": "good",
+          "total": 1,
+          "correct": 1,
+          "rate": 1.0,
+          "errorRate": 0.0
+        },
+        {
+          "file": "营地后.txt",
+          "section": "good",
+          "total": 1,
+          "correct": 1,
+          "rate": 1.0,
+          "errorRate": 0.0
+        }
+      ],
+      "total": 2,
+      "correct": 2,
+      "rate": 1.0,
+      "errorRate": 0.0,
+      "frequency": 2,
+      "weakRounds": 0,
+      "persistentWeak": false,
+      "multiWrong": false,
+      "trend": "stable_good",
+      "displayTitle": "毛中特·考点13 新民主主义革命的三大法宝"
+    },
+    {
+      "key": "毛中特|考点15 新民主主义社会的性质和特点",
+      "module": "毛中特",
+      "title": "考点15 新民主主义社会的性质和特点",
+      "rounds": [
+        {
+          "file": "营地.txt",
+          "section": "weak",
+          "total": 2,
+          "correct": 1,
+          "rate": 0.5,
+          "errorRate": 0.5
+        }
+      ],
+      "total": 2,
+      "correct": 1,
+      "rate": 0.5,
+      "errorRate": 0.5,
+      "frequency": 2,
+      "weakRounds": 1,
+      "persistentWeak": false,
+      "multiWrong": true,
+      "trend": "single_round",
+      "displayTitle": "毛中特·考点15 新民主主义社会的性质和特点"
+    },
+    {
+      "key": "毛中特|考点20 确立社会主义基本制度的重大意义",
+      "module": "毛中特",
+      "title": "考点20 确立社会主义基本制度的重大意义",
+      "rounds": [
+        {
+          "file": "营地后.txt",
+          "section": "weak",
+          "total": 1,
+          "correct": 0,
+          "rate": 0.0,
+          "errorRate": 1.0
+        }
+      ],
+      "total": 1,
+      "correct": 0,
+      "rate": 0.0,
+      "errorRate": 1.0,
+      "frequency": 1,
+      "weakRounds": 1,
+      "persistentWeak": false,
+      "multiWrong": false,
+      "trend": "single_round",
+      "displayTitle": "毛中特·考点20 确立社会主义基本制度的重大意义"
+    },
+    {
+      "key": "毛中特|考点21 调动一切积极因素为社会主义事业服务",
+      "module": "毛中特",
+      "title": "考点21 调动一切积极因素为社会主义事业服务",
+      "rounds": [
+        {
+          "file": "营地.txt",
+          "section": "weak",
+          "total": 1,
+          "correct": 0,
+          "rate": 0.0,
+          "errorRate": 1.0
+        }
+      ],
+      "total": 1,
+      "correct": 0,
+      "rate": 0.0,
+      "errorRate": 1.0,
+      "frequency": 1,
+      "weakRounds": 1,
+      "persistentWeak": false,
+      "multiWrong": false,
+      "trend": "single_round",
+      "displayTitle": "毛中特·考点21 调动一切积极因素为社会主义事业服务"
+    },
+    {
+      "key": "毛中特|考点22 正确认识和处理社会主义社会矛盾的思想",
+      "module": "毛中特",
+      "title": "考点22 正确认识和处理社会主义社会矛盾的思想",
+      "rounds": [
+        {
+          "file": "营地.txt",
+          "section": "weak",
+          "total": 1,
+          "correct": 0,
+          "rate": 0.0,
+          "errorRate": 1.0
+        }
+      ],
+      "total": 1,
+      "correct": 0,
+      "rate": 0.0,
+      "errorRate": 1.0,
+      "frequency": 1,
+      "weakRounds": 1,
+      "persistentWeak": false,
+      "multiWrong": false,
+      "trend": "single_round",
+      "displayTitle": "毛中特·考点22 正确认识和处理社会主义社会矛盾的思想"
+    },
+    {
+      "key": "毛中特|考点29 邓小平理论：中国特色社会主义理论体系的形成",
+      "module": "毛中特",
+      "title": "考点29 邓小平理论：中国特色社会主义理论体系的形成",
+      "rounds": [
+        {
+          "file": "营地后.txt",
+          "section": "weak",
+          "total": 1,
+          "correct": 0,
+          "rate": 0.0,
+          "errorRate": 1.0
+        }
+      ],
+      "total": 1,
+      "correct": 0,
+      "rate": 0.0,
+      "errorRate": 1.0,
+      "frequency": 1,
+      "weakRounds": 1,
+      "persistentWeak": false,
+      "multiWrong": false,
+      "trend": "single_round",
+      "displayTitle": "毛中特·考点29 邓小平理论：中国特色社会主义理论体系的形成"
+    },
+    {
+      "key": "毛中特|考点37 社会主义改革开放和社会主义市场经济理论",
+      "module": "毛中特",
+      "title": "考点37 社会主义改革开放和社会主义市场经济理论",
+      "rounds": [
+        {
+          "file": "营地.txt",
+          "section": "weak",
+          "total": 2,
+          "correct": 1,
+          "rate": 0.33,
+          "errorRate": 0.67
+        },
+        {
+          "file": "营地后.txt",
+          "section": "good",
+          "total": 1,
+          "correct": 1,
+          "rate": 1.0,
+          "errorRate": 0.0
+        }
+      ],
+      "total": 3,
+      "correct": 2,
+      "rate": 0.6667,
+      "errorRate": 0.3333,
+      "frequency": 3,
+      "weakRounds": 1,
+      "persistentWeak": false,
+      "multiWrong": true,
+      "trend": "improved",
+      "displayTitle": "毛中特·考点37 社会主义改革开放和社会主义市场经济理论"
+    },
+    {
+      "key": "毛中特|考点4 毛泽东思想形成和发展的过程",
+      "module": "毛中特",
+      "title": "考点4 毛泽东思想形成和发展的过程",
+      "rounds": [
+        {
+          "file": "营地.txt",
+          "section": "good",
+          "total": 1,
+          "correct": 1,
+          "rate": 1.0,
+          "errorRate": 0.0
+        },
+        {
+          "file": "营地后.txt",
+          "section": "good",
+          "total": 2,
+          "correct": 2,
+          "rate": 1.0,
+          "errorRate": 0.0
+        }
+      ],
+      "total": 3,
+      "correct": 3,
+      "rate": 1.0,
+      "errorRate": 0.0,
+      "frequency": 3,
+      "weakRounds": 0,
+      "persistentWeak": false,
+      "multiWrong": false,
+      "trend": "stable_good",
+      "displayTitle": "毛中特·考点4 毛泽东思想形成和发展的过程"
+    },
+    {
+      "key": "毛中特|考点43 农村包围城市、武装夺取政权的道路",
+      "module": "毛中特",
+      "title": "考点43 农村包围城市、武装夺取政权的道路",
+      "rounds": [
+        {
+          "file": "营地后.txt",
+          "section": "good",
+          "total": 1,
+          "correct": 1,
+          "rate": 1.0,
+          "errorRate": 0.0
+        }
+      ],
+      "total": 1,
+      "correct": 1,
+      "rate": 1.0,
+      "errorRate": 0.0,
+      "frequency": 1,
+      "weakRounds": 0,
+      "persistentWeak": false,
+      "multiWrong": false,
+      "trend": "single_round",
+      "displayTitle": "毛中特·考点43 农村包围城市、武装夺取政权的道路"
+    },
+    {
+      "key": "马原|导论 马克思主义是关于无产阶级和人类解放的科学",
+      "module": "马原",
+      "title": "导论 马克思主义是关于无产阶级和人类解放的科学",
+      "rounds": [
+        {
+          "file": "营地后.txt",
+          "section": "weak",
+          "total": 1,
+          "correct": 0,
+          "rate": 0.0,
+          "errorRate": 1.0
+        }
+      ],
+      "total": 1,
+      "correct": 0,
+      "rate": 0.0,
+      "errorRate": 1.0,
+      "frequency": 1,
+      "weakRounds": 1,
+      "persistentWeak": false,
+      "multiWrong": false,
+      "trend": "single_round",
+      "displayTitle": "马原·导论 马克思主义是关于无产阶级和人类解放的科学"
+    },
+    {
+      "key": "马原|考点10 运动和静止",
+      "module": "马原",
+      "title": "考点10 运动和静止",
+      "rounds": [
+        {
+          "file": "营地.txt",
+          "section": "weak",
+          "total": 1,
+          "correct": 0,
+          "rate": 0.0,
+          "errorRate": 1.0
+        }
+      ],
+      "total": 1,
+      "correct": 0,
+      "rate": 0.0,
+      "errorRate": 1.0,
+      "frequency": 1,
+      "weakRounds": 1,
+      "persistentWeak": false,
+      "multiWrong": false,
+      "trend": "single_round",
+      "displayTitle": "马原·考点10 运动和静止"
+    },
+    {
+      "key": "马原|考点12 物质世界的二重化",
+      "module": "马原",
+      "title": "考点12 物质世界的二重化",
+      "rounds": [
+        {
+          "file": "营地后.txt",
+          "section": "good",
+          "total": 1,
+          "correct": 1,
+          "rate": 1.0,
+          "errorRate": 0.0
+        }
+      ],
+      "total": 1,
+      "correct": 1,
+      "rate": 1.0,
+      "errorRate": 0.0,
+      "frequency": 1,
+      "weakRounds": 0,
+      "persistentWeak": false,
+      "multiWrong": false,
+      "trend": "single_round",
+      "displayTitle": "马原·考点12 物质世界的二重化"
+    },
+    {
+      "key": "马原|考点13 物质与意识的辩证关系",
+      "module": "马原",
+      "title": "考点13 物质与意识的辩证关系",
+      "rounds": [
+        {
+          "file": "营地.txt",
+          "section": "good",
+          "total": 1,
+          "correct": 1,
+          "rate": 1.0,
+          "errorRate": 0.0
+        }
+      ],
+      "total": 1,
+      "correct": 1,
+      "rate": 1.0,
+      "errorRate": 0.0,
+      "frequency": 1,
+      "weakRounds": 0,
+      "persistentWeak": false,
+      "multiWrong": false,
+      "trend": "single_round",
+      "displayTitle": "马原·考点13 物质与意识的辩证关系"
+    },
+    {
+      "key": "马原|考点15 意识与人工智能",
+      "module": "马原",
+      "title": "考点15 意识与人工智能",
+      "rounds": [
+        {
+          "file": "营地后.txt",
+          "section": "good",
+          "total": 1,
+          "correct": 1,
+          "rate": 1.0,
+          "errorRate": 0.0
+        }
+      ],
+      "total": 1,
+      "correct": 1,
+      "rate": 1.0,
+      "errorRate": 0.0,
+      "frequency": 1,
+      "weakRounds": 0,
+      "persistentWeak": false,
+      "multiWrong": false,
+      "trend": "single_round",
+      "displayTitle": "马原·考点15 意识与人工智能"
+    },
+    {
+      "key": "马原|考点19 量变质变规律",
+      "module": "马原",
+      "title": "考点19 量变质变规律",
+      "rounds": [
+        {
+          "file": "营地.txt",
+          "section": "weak",
+          "total": 1,
+          "correct": 0,
+          "rate": 0.0,
+          "errorRate": 1.0
+        }
+      ],
+      "total": 1,
+      "correct": 0,
+      "rate": 0.0,
+      "errorRate": 1.0,
+      "frequency": 1,
+      "weakRounds": 1,
+      "persistentWeak": false,
+      "multiWrong": false,
+      "trend": "single_round",
+      "displayTitle": "马原·考点19 量变质变规律"
+    },
+    {
+      "key": "马原|考点2 马克思主义的基本立场、基本观点和基本方法",
+      "module": "马原",
+      "title": "考点2 马克思主义的基本立场、基本观点和基本方法",
+      "rounds": [
+        {
+          "file": "营地.txt",
+          "section": "weak",
+          "total": 1,
+          "correct": 0,
+          "rate": 0.0,
+          "errorRate": 1.0
+        }
+      ],
+      "total": 1,
+      "correct": 0,
+      "rate": 0.0,
+      "errorRate": 1.0,
+      "frequency": 1,
+      "weakRounds": 1,
+      "persistentWeak": false,
+      "multiWrong": false,
+      "trend": "single_round",
+      "displayTitle": "马原·考点2 马克思主义的基本立场、基本观点和基本方法"
+    },
+    {
+      "key": "马原|考点20 否定之否定规律",
+      "module": "马原",
+      "title": "考点20 否定之否定规律",
+      "rounds": [
+        {
+          "file": "营地.txt",
+          "section": "weak",
+          "total": 1,
+          "correct": 0,
+          "rate": 0.0,
+          "errorRate": 1.0
+        }
+      ],
+      "total": 1,
+      "correct": 0,
+      "rate": 0.0,
+      "errorRate": 1.0,
+      "frequency": 1,
+      "weakRounds": 1,
+      "persistentWeak": false,
+      "multiWrong": false,
+      "trend": "single_round",
+      "displayTitle": "马原·考点20 否定之否定规律"
+    },
+    {
+      "key": "马原|考点21 内容和形式",
+      "module": "马原",
+      "title": "考点21 内容和形式",
+      "rounds": [
+        {
+          "file": "营地.txt",
+          "section": "good",
+          "total": 1,
+          "correct": 1,
+          "rate": 1.0,
+          "errorRate": 0.0
+        }
+      ],
+      "total": 1,
+      "correct": 1,
+      "rate": 1.0,
+      "errorRate": 0.0,
+      "frequency": 1,
+      "weakRounds": 0,
+      "persistentWeak": false,
+      "multiWrong": false,
+      "trend": "single_round",
+      "displayTitle": "马原·考点21 内容和形式"
+    },
+    {
+      "key": "马原|考点29 实践的本质和基本特征",
+      "module": "马原",
+      "title": "考点29 实践的本质和基本特征",
+      "rounds": [
+        {
+          "file": "营地后.txt",
+          "section": "weak",
+          "total": 1,
+          "correct": 0,
+          "rate": 0.0,
+          "errorRate": 1.0
+        }
+      ],
+      "total": 1,
+      "correct": 0,
+      "rate": 0.0,
+      "errorRate": 1.0,
+      "frequency": 1,
+      "weakRounds": 1,
+      "persistentWeak": false,
+      "multiWrong": false,
+      "trend": "single_round",
+      "displayTitle": "马原·考点29 实践的本质和基本特征"
+    },
+    {
+      "key": "马原|考点3 马克思主义的创立",
+      "module": "马原",
+      "title": "考点3 马克思主义的创立",
+      "rounds": [
+        {
+          "file": "营地.txt",
+          "section": "good",
+          "total": 1,
+          "correct": 1,
+          "rate": 1.0,
+          "errorRate": 0.0
+        }
+      ],
+      "total": 1,
+      "correct": 1,
+      "rate": 1.0,
+      "errorRate": 0.0,
+      "frequency": 1,
+      "weakRounds": 0,
+      "persistentWeak": false,
+      "multiWrong": false,
+      "trend": "single_round",
+      "displayTitle": "马原·考点3 马克思主义的创立"
+    },
+    {
+      "key": "马原|考点39 真理的检验标准",
+      "module": "马原",
+      "title": "考点39 真理的检验标准",
+      "rounds": [
+        {
+          "file": "营地.txt",
+          "section": "good",
+          "total": 1,
+          "correct": 1,
+          "rate": 1.0,
+          "errorRate": 0.0
+        }
+      ],
+      "total": 1,
+      "correct": 1,
+      "rate": 1.0,
+      "errorRate": 0.0,
+      "frequency": 1,
+      "weakRounds": 0,
+      "persistentWeak": false,
+      "multiWrong": false,
+      "trend": "single_round",
+      "displayTitle": "马原·考点39 真理的检验标准"
+    },
+    {
+      "key": "马原|考点43 从必然走向自由",
+      "module": "马原",
+      "title": "考点43 从必然走向自由",
+      "rounds": [
+        {
+          "file": "营地后.txt",
+          "section": "good",
+          "total": 1,
+          "correct": 1,
+          "rate": 1.0,
+          "errorRate": 0.0
+        }
+      ],
+      "total": 1,
+      "correct": 1,
+      "rate": 1.0,
+      "errorRate": 0.0,
+      "frequency": 1,
+      "weakRounds": 0,
+      "persistentWeak": false,
+      "multiWrong": false,
+      "trend": "single_round",
+      "displayTitle": "马原·考点43 从必然走向自由"
+    },
+    {
+      "key": "马原|考点45 社会存在和社会意识及其辩证关系",
+      "module": "马原",
+      "title": "考点45 社会存在和社会意识及其辩证关系",
+      "rounds": [
+        {
+          "file": "营地.txt",
+          "section": "weak",
+          "total": 1,
+          "correct": 0,
+          "rate": 0.0,
+          "errorRate": 1.0
+        }
+      ],
+      "total": 1,
+      "correct": 0,
+      "rate": 0.0,
+      "errorRate": 1.0,
+      "frequency": 1,
+      "weakRounds": 1,
+      "persistentWeak": false,
+      "multiWrong": false,
+      "trend": "single_round",
+      "displayTitle": "马原·考点45 社会存在和社会意识及其辩证关系"
+    },
+    {
+      "key": "马原|考点46 生产力和生产关系矛盾运动的规律",
+      "module": "马原",
+      "title": "考点46 生产力和生产关系矛盾运动的规律",
+      "rounds": [
+        {
+          "file": "营地.txt",
+          "section": "good",
+          "total": 1,
+          "correct": 1,
+          "rate": 1.0,
+          "errorRate": 0.0
+        },
+        {
+          "file": "营地后.txt",
+          "section": "weak",
+          "total": 1,
+          "correct": 0,
+          "rate": 0.0,
+          "errorRate": 1.0
+        }
+      ],
+      "total": 2,
+      "correct": 1,
+      "rate": 0.5,
+      "errorRate": 0.5,
+      "frequency": 2,
+      "weakRounds": 1,
+      "persistentWeak": false,
+      "multiWrong": true,
+      "trend": "worsened",
+      "displayTitle": "马原·考点46 生产力和生产关系矛盾运动的规律"
+    },
+    {
+      "key": "马原|考点47 经济基础和上层建筑矛盾运动的规律",
+      "module": "马原",
+      "title": "考点47 经济基础和上层建筑矛盾运动的规律",
+      "rounds": [
+        {
+          "file": "营地后.txt",
+          "section": "good",
+          "total": 1,
+          "correct": 1,
+          "rate": 1.0,
+          "errorRate": 0.0
+        }
+      ],
+      "total": 1,
+      "correct": 1,
+      "rate": 1.0,
+      "errorRate": 0.0,
+      "frequency": 1,
+      "weakRounds": 0,
+      "persistentWeak": false,
+      "multiWrong": false,
+      "trend": "single_round",
+      "displayTitle": "马原·考点47 经济基础和上层建筑矛盾运动的规律"
+    },
+    {
+      "key": "马原|考点52 改革在社会发展中的作用",
+      "module": "马原",
+      "title": "考点52 改革在社会发展中的作用",
+      "rounds": [
+        {
+          "file": "营地.txt",
+          "section": "good",
+          "total": 1,
+          "correct": 1,
+          "rate": 1.0,
+          "errorRate": 0.0
+        }
+      ],
+      "total": 1,
+      "correct": 1,
+      "rate": 1.0,
+      "errorRate": 0.0,
+      "frequency": 1,
+      "weakRounds": 0,
+      "persistentWeak": false,
+      "multiWrong": false,
+      "trend": "single_round",
+      "displayTitle": "马原·考点52 改革在社会发展中的作用"
+    },
+    {
+      "key": "马原|考点55 关于历史创造者问题",
+      "module": "马原",
+      "title": "考点55 关于历史创造者问题",
+      "rounds": [
+        {
+          "file": "营地.txt",
+          "section": "weak",
+          "total": 1,
+          "correct": 0,
+          "rate": 0.0,
+          "errorRate": 1.0
+        }
+      ],
+      "total": 1,
+      "correct": 0,
+      "rate": 0.0,
+      "errorRate": 1.0,
+      "frequency": 1,
+      "weakRounds": 1,
+      "persistentWeak": false,
+      "multiWrong": false,
+      "trend": "single_round",
+      "displayTitle": "马原·考点55 关于历史创造者问题"
+    },
+    {
+      "key": "马原|考点56 人民群众创造历史",
+      "module": "马原",
+      "title": "考点56 人民群众创造历史",
+      "rounds": [
+        {
+          "file": "营地后.txt",
+          "section": "good",
+          "total": 1,
+          "correct": 1,
+          "rate": 1.0,
+          "errorRate": 0.0
+        }
+      ],
+      "total": 1,
+      "correct": 1,
+      "rate": 1.0,
+      "errorRate": 0.0,
+      "frequency": 1,
+      "weakRounds": 0,
+      "persistentWeak": false,
+      "multiWrong": false,
+      "trend": "single_round",
+      "displayTitle": "马原·考点56 人民群众创造历史"
+    },
+    {
+      "key": "马原|考点58 价值是什么",
+      "module": "马原",
+      "title": "考点58 价值是什么",
+      "rounds": [
+        {
+          "file": "营地后.txt",
+          "section": "weak",
+          "total": 2,
+          "correct": 1,
+          "rate": 0.5,
+          "errorRate": 0.5
+        }
+      ],
+      "total": 2,
+      "correct": 1,
+      "rate": 0.5,
+      "errorRate": 0.5,
+      "frequency": 2,
+      "weakRounds": 1,
+      "persistentWeak": false,
+      "multiWrong": true,
+      "trend": "single_round",
+      "displayTitle": "马原·考点58 价值是什么"
+    },
+    {
+      "key": "马原|考点63 马克思劳动价值论的意义",
+      "module": "马原",
+      "title": "考点63 马克思劳动价值论的意义",
+      "rounds": [
+        {
+          "file": "营地.txt",
+          "section": "weak",
+          "total": 1,
+          "correct": 0,
+          "rate": 0.0,
+          "errorRate": 1.0
+        }
+      ],
+      "total": 1,
+      "correct": 0,
+      "rate": 0.0,
+      "errorRate": 1.0,
+      "frequency": 1,
+      "weakRounds": 1,
+      "persistentWeak": false,
+      "multiWrong": false,
+      "trend": "single_round",
+      "displayTitle": "马原·考点63 马克思劳动价值论的意义"
+    },
+    {
+      "key": "马原|考点67 剩余价值的生产",
+      "module": "马原",
+      "title": "考点67 剩余价值的生产",
+      "rounds": [
+        {
+          "file": "营地.txt",
+          "section": "weak",
+          "total": 2,
+          "correct": 1,
+          "rate": 0.33,
+          "errorRate": 0.67
+        }
+      ],
+      "total": 2,
+      "correct": 1,
+      "rate": 0.5,
+      "errorRate": 0.5,
+      "frequency": 2,
+      "weakRounds": 1,
+      "persistentWeak": false,
+      "multiWrong": true,
+      "trend": "single_round",
+      "displayTitle": "马原·考点67 剩余价值的生产"
+    },
+    {
+      "key": "马原|考点69 资本的循环周转与再生产",
+      "module": "马原",
+      "title": "考点69 资本的循环周转与再生产",
+      "rounds": [
+        {
+          "file": "营地后.txt",
+          "section": "weak",
+          "total": 1,
+          "correct": 0,
+          "rate": 0.0,
+          "errorRate": 1.0
+        }
+      ],
+      "total": 1,
+      "correct": 0,
+      "rate": 0.0,
+      "errorRate": 1.0,
+      "frequency": 1,
+      "weakRounds": 1,
+      "persistentWeak": false,
+      "multiWrong": false,
+      "trend": "single_round",
+      "displayTitle": "马原·考点69 资本的循环周转与再生产"
+    },
+    {
+      "key": "马原|考点7 哲学基本问题及不同哲学流派",
+      "module": "马原",
+      "title": "考点7 哲学基本问题及不同哲学流派",
+      "rounds": [
+        {
+          "file": "营地.txt",
+          "section": "weak",
+          "total": 1,
+          "correct": 0,
+          "rate": 0.0,
+          "errorRate": 1.0
+        },
+        {
+          "file": "营地后.txt",
+          "section": "weak",
+          "total": 1,
+          "correct": 0,
+          "rate": 0.0,
+          "errorRate": 1.0
+        }
+      ],
+      "total": 2,
+      "correct": 0,
+      "rate": 0.0,
+      "errorRate": 1.0,
+      "frequency": 2,
+      "weakRounds": 2,
+      "persistentWeak": true,
+      "multiWrong": true,
+      "trend": "persistent_weak",
+      "displayTitle": "马原·考点7 哲学基本问题及不同哲学流派"
+    },
+    {
+      "key": "马原|考点70 工资与剩余价值的分配",
+      "module": "马原",
+      "title": "考点70 工资与剩余价值的分配",
+      "rounds": [
+        {
+          "file": "营地后.txt",
+          "section": "weak",
+          "total": 2,
+          "correct": 1,
+          "rate": 0.5,
+          "errorRate": 0.5
+        }
+      ],
+      "total": 2,
+      "correct": 1,
+      "rate": 0.5,
+      "errorRate": 0.5,
+      "frequency": 2,
+      "weakRounds": 1,
+      "persistentWeak": false,
+      "multiWrong": true,
+      "trend": "single_round",
+      "displayTitle": "马原·考点70 工资与剩余价值的分配"
+    },
+    {
+      "key": "马原|考点72 资本主义的基本矛盾与经济危机",
+      "module": "马原",
+      "title": "考点72 资本主义的基本矛盾与经济危机",
+      "rounds": [
+        {
+          "file": "营地后.txt",
+          "section": "weak",
+          "total": 1,
+          "correct": 0,
+          "rate": 0.0,
+          "errorRate": 1.0
+        }
+      ],
+      "total": 1,
+      "correct": 0,
+      "rate": 0.0,
+      "errorRate": 1.0,
+      "frequency": 1,
+      "weakRounds": 1,
+      "persistentWeak": false,
+      "multiWrong": false,
+      "trend": "single_round",
+      "displayTitle": "马原·考点72 资本主义的基本矛盾与经济危机"
+    },
+    {
+      "key": "马原|考点73 资本主义的国家、民主制度及其本质",
+      "module": "马原",
+      "title": "考点73 资本主义的国家、民主制度及其本质",
+      "rounds": [
+        {
+          "file": "营地.txt",
+          "section": "good",
+          "total": 1,
+          "correct": 1,
+          "rate": 1.0,
+          "errorRate": 0.0
+        }
+      ],
+      "total": 1,
+      "correct": 1,
+      "rate": 1.0,
+      "errorRate": 0.0,
+      "frequency": 1,
+      "weakRounds": 0,
+      "persistentWeak": false,
+      "multiWrong": false,
+      "trend": "single_round",
+      "displayTitle": "马原·考点73 资本主义的国家、民主制度及其本质"
+    },
+    {
+      "key": "马原|考点75 资本主义从自由竞争到垄断",
+      "module": "马原",
+      "title": "考点75 资本主义从自由竞争到垄断",
+      "rounds": [
+        {
+          "file": "营地后.txt",
+          "section": "good",
+          "total": 1,
+          "correct": 1,
+          "rate": 1.0,
+          "errorRate": 0.0
+        }
+      ],
+      "total": 1,
+      "correct": 1,
+      "rate": 1.0,
+      "errorRate": 0.0,
+      "frequency": 1,
+      "weakRounds": 0,
+      "persistentWeak": false,
+      "multiWrong": false,
+      "trend": "single_round",
+      "displayTitle": "马原·考点75 资本主义从自由竞争到垄断"
+    },
+    {
+      "key": "马原|考点77 经济全球化及其影响",
+      "module": "马原",
+      "title": "考点77 经济全球化及其影响",
+      "rounds": [
+        {
+          "file": "营地.txt",
+          "section": "weak",
+          "total": 1,
+          "correct": 0,
+          "rate": 0.0,
+          "errorRate": 1.0
+        }
+      ],
+      "total": 1,
+      "correct": 0,
+      "rate": 0.0,
+      "errorRate": 1.0,
+      "frequency": 1,
+      "weakRounds": 1,
+      "persistentWeak": false,
+      "multiWrong": false,
+      "trend": "single_round",
+      "displayTitle": "马原·考点77 经济全球化及其影响"
+    },
+    {
+      "key": "马原|考点86 第一国际和巴黎公社",
+      "module": "马原",
+      "title": "考点86 第一国际和巴黎公社",
+      "rounds": [
+        {
+          "file": "营地后.txt",
+          "section": "weak",
+          "total": 1,
+          "correct": 0,
+          "rate": 0.0,
+          "errorRate": 1.0
+        }
+      ],
+      "total": 1,
+      "correct": 0,
+      "rate": 0.0,
+      "errorRate": 1.0,
+      "frequency": 1,
+      "weakRounds": 1,
+      "persistentWeak": false,
+      "multiWrong": false,
+      "trend": "single_round",
+      "displayTitle": "马原·考点86 第一国际和巴黎公社"
+    },
+    {
+      "key": "马原|考点88 社会主义在苏联的实践",
+      "module": "马原",
+      "title": "考点88 社会主义在苏联的实践",
+      "rounds": [
+        {
+          "file": "营地.txt",
+          "section": "good",
+          "total": 1,
+          "correct": 1,
+          "rate": 1.0,
+          "errorRate": 0.0
+        }
+      ],
+      "total": 1,
+      "correct": 1,
+      "rate": 1.0,
+      "errorRate": 0.0,
+      "frequency": 1,
+      "weakRounds": 0,
+      "persistentWeak": false,
+      "multiWrong": false,
+      "trend": "single_round",
+      "displayTitle": "马原·考点88 社会主义在苏联的实践"
+    },
+    {
+      "key": "马原|考点94 共产主义社会的基本特征",
+      "module": "马原",
+      "title": "考点94 共产主义社会的基本特征",
+      "rounds": [
+        {
+          "file": "营地后.txt",
+          "section": "good",
+          "total": 1,
+          "correct": 1,
+          "rate": 1.0,
+          "errorRate": 0.0
+        }
+      ],
+      "total": 1,
+      "correct": 1,
+      "rate": 1.0,
+      "errorRate": 0.0,
+      "frequency": 1,
+      "weakRounds": 0,
+      "persistentWeak": false,
+      "multiWrong": false,
+      "trend": "single_round",
+      "displayTitle": "马原·考点94 共产主义社会的基本特征"
+    }
+  ],
+  "summary": {
+    "uniqueTopics": 105,
+    "weakTopics": 63,
+    "persistentWeak": 3,
+    "multiWrong": 19,
+    "unclassified": 0
+  }
+}

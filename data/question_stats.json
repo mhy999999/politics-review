@@ -1,0 +1,7272 @@
+{
+  "generatedAt": "2026-11-11",
+  "totalQuestions": 628,
+  "totalNotes": 82,
+  "totalKnowledgePoints": 29,
+  "totalPhotoKnowledgePoints": 174,
+  "totalWrongQuestions": 42,
+  "pages": 90,
+  "filledPages": 12,
+  "singleChoice": 46,
+  "multipleChoice": 45,
+  "byModule": [
+    {
+      "module": "马原",
+      "questions": 190
+    },
+    {
+      "module": "毛中特",
+      "questions": 66
+    },
+    {
+      "module": "新思想",
+      "questions": 145
+    },
+    {
+      "module": "史纲",
+      "questions": 143
+    },
+    {
+      "module": "思道法",
+      "questions": 84
+    }
+  ],
+  "bySection": [
+    {
+      "section": "综合测试四",
+      "questions": 44
+    },
+    {
+      "section": "优题库拔高题篇·第一部分",
+      "questions": 27
+    },
+    {
+      "section": "综合测试三",
+      "questions": 27
+    },
+    {
+      "section": "优题库拔高题篇",
+      "questions": 25
+    },
+    {
+      "section": "综合测试二",
+      "questions": 24
+    },
+    {
+      "section": "优题库·拔高题篇（第一部分）",
+      "questions": 24
+    },
+    {
+      "section": "第四部分 中国近现代史纲要·优题库拔高题篇",
+      "questions": 24
+    },
+    {
+      "section": "第四部分·综合测试四",
+      "questions": 23
+    },
+    {
+      "section": "综合测试一",
+      "questions": 20
+    },
+    {
+      "section": "第四部分 中国近现代史纲要·优题库拔高题篇·多项选择题",
+      "questions": 20
+    },
+    {
+      "section": "优题库 拔高题篇（第一部分）",
+      "questions": 18
+    },
+    {
+      "section": "综合测试一（新思想）",
+      "questions": 18
+    },
+    {
+      "section": "第三部分 优题库·拔高题篇",
+      "questions": 18
+    },
+    {
+      "section": "综合测试五",
+      "questions": 16
+    },
+    {
+      "section": "优题库·拔高题篇（第三部分）",
+      "questions": 16
+    },
+    {
+      "section": "优题库 拔高题篇",
+      "questions": 14
+    },
+    {
+      "section": "第四部分 综合测试一（单项选择题）",
+      "questions": 14
+    },
+    {
+      "section": "第五部分·综合测试二",
+      "questions": 14
+    },
+    {
+      "section": "第五部分·综合测试三（续）",
+      "questions": 14
+    },
+    {
+      "section": "综合测试一 单项选择题",
+      "questions": 13
+    },
+    {
+      "section": "优题库拔高题篇 多项选择题",
+      "questions": 12
+    },
+    {
+      "section": "综合测试一（第五部分）",
+      "questions": 11
+    },
+    {
+      "section": "第五部分·综合测试二（续）",
+      "questions": 11
+    },
+    {
+      "section": "第五部分·综合测试二末页+综合测试三",
+      "questions": 11
+    },
+    {
+      "section": "第四部分 优题库·拔高题篇 / 综合测试二",
+      "questions": 10
+    },
+    {
+      "section": "优题库·拔高题篇（第四部分）",
+      "questions": 10
+    },
+    {
+      "section": "第五部分·综合测试三末页",
+      "questions": 10
+    },
+    {
+      "section": "第四部分·优题库拔高题篇末页+综合测试四",
+      "questions": 9
+    },
+    {
+      "section": "第四部分·综合测试五",
+      "questions": 9
+    },
+    {
+      "section": "多项选择题（第五部分）",
+      "questions": 9
+    },
+    {
+      "section": "综合测试三·一、单项选择题（7–14）",
+      "questions": 8
+    },
+    {
+      "section": "第四部分 综合测试一（多项选择题）",
+      "questions": 8
+    },
+    {
+      "section": "096 优题库拔高题篇多选29-30；097 综合测试三·单项选择题1-6",
+      "questions": 8
+    },
+    {
+      "section": "第四部分·综合测试四末题+综合测试五",
+      "questions": 8
+    },
+    {
+      "section": "优题库拔高题篇·多项选择题（续综合测试一第23题）",
+      "questions": 6
+    },
+    {
+      "section": "第一部分·优题库拔高题篇（多项选择题25–30）",
+      "questions": 6
+    },
+    {
+      "section": "综合测试三·一、单项选择题（1–6）",
+      "questions": 6
+    },
+    {
+      "section": "第一部分·优题库拔高题篇（第15题末＋二、多项选择题16–20）",
+      "questions": 6
+    },
+    {
+      "section": "优题库拔高题篇 单项与多项选择题",
+      "questions": 6
+    },
+    {
+      "section": "第二部分·优题库拔高题篇",
+      "questions": 6
+    },
+    {
+      "section": "第三部分 优题库拔高题篇（多选）",
+      "questions": 6
+    },
+    {
+      "section": "综合测试二 一、单项选择题",
+      "questions": 6
+    },
+    {
+      "section": "综合测试一·多项选择题",
+      "questions": 5
+    },
+    {
+      "section": "综合测试六",
+      "questions": 5
+    },
+    {
+      "section": "优题库 拔高题篇（多选22–26）",
+      "questions": 5
+    },
+    {
+      "section": "综合测试二 二、多项选择题",
+      "questions": 5
+    },
+    {
+      "section": "第三部分 习题（多选27–30）",
+      "questions": 4
+    },
+    {
+      "section": "优题库·拔高题篇（第五部分）",
+      "questions": 4
+    },
+    {
+      "section": "第二部分·毛中特习题",
+      "questions": 3
+    },
+    {
+      "section": "第一部分 综合测试一",
+      "questions": 2
+    },
+    {
+      "section": "第一部分·优题库拔高题篇（本套末页）",
+      "questions": 0
+    },
+    {
+      "section": "综合测试五（前隔页）",
+      "questions": 0
+    }
+  ],
+  "moduleStats": [
+    {
+      "module": "马原",
+      "questions": 190,
+      "points": 37,
+      "quizTopics": 32,
+      "weakTopics": 18,
+      "wrongQuestions": 18
+    },
+    {
+      "module": "毛中特",
+      "questions": 66,
+      "points": 31,
+      "quizTopics": 10,
+      "weakTopics": 6,
+      "wrongQuestions": 6
+    },
+    {
+      "module": "新思想",
+      "questions": 145,
+      "points": 29,
+      "quizTopics": 27,
+      "weakTopics": 17,
+      "wrongQuestions": 8
+    },
+    {
+      "module": "史纲",
+      "questions": 143,
+      "points": 38,
+      "quizTopics": 24,
+      "weakTopics": 13,
+      "wrongQuestions": 8
+    },
+    {
+      "module": "思道法",
+      "questions": 84,
+      "points": 30,
+      "quizTopics": 12,
+      "weakTopics": 9,
+      "wrongQuestions": 2
+    }
+  ],
+  "pageStats": [
+    {
+      "page": "p001",
+      "module": "马原",
+      "section": "综合测试一",
+      "questionCount": 5,
+      "singleChoice": 0,
+      "multipleChoice": 0,
+      "topicCount": 5,
+      "notesCount": 2,
+      "wrongCount": 0,
+      "source": "pagefindings",
+      "confidence": "medium"
+    },
+    {
+      "page": "p002",
+      "module": "马原",
+      "section": "综合测试一",
+      "questionCount": 7,
+      "singleChoice": 0,
+      "multipleChoice": 0,
+      "topicCount": 7,
+      "notesCount": 2,
+      "wrongCount": 1,
+      "source": "pagefindings",
+      "confidence": "medium"
+    },
+    {
+      "page": "p003",
+      "module": "马原",
+      "section": "综合测试一",
+      "questionCount": 6,
+      "singleChoice": 0,
+      "multipleChoice": 0,
+      "topicCount": 6,
+      "notesCount": 2,
+      "wrongCount": 1,
+      "source": "pagefindings",
+      "confidence": "medium"
+    },
+    {
+      "page": "p004",
+      "module": "马原",
+      "section": "综合测试一·多项选择题",
+      "questionCount": 5,
+      "singleChoice": 0,
+      "multipleChoice": 0,
+      "topicCount": 5,
+      "notesCount": 2,
+      "wrongCount": 0,
+      "source": "pagefindings",
+      "confidence": "medium"
+    },
+    {
+      "page": "p005",
+      "module": "马原",
+      "section": "优题库拔高题篇·多项选择题（续综合测试一第23题）",
+      "questionCount": 6,
+      "singleChoice": 0,
+      "multipleChoice": 0,
+      "topicCount": 6,
+      "notesCount": 2,
+      "wrongCount": 1,
+      "source": "pagefindings",
+      "confidence": "medium"
+    },
+    {
+      "page": "p006",
+      "module": "马原",
+      "section": "第一部分 综合测试一",
+      "questionCount": 2,
+      "singleChoice": 0,
+      "multipleChoice": 0,
+      "topicCount": 2,
+      "notesCount": 1,
+      "wrongCount": 0,
+      "source": "pagefindings",
+      "confidence": "medium"
+    },
+    {
+      "page": "p007",
+      "module": "马原",
+      "section": "综合测试二",
+      "questionCount": 5,
+      "singleChoice": 0,
+      "multipleChoice": 0,
+      "topicCount": 5,
+      "notesCount": 2,
+      "wrongCount": 0,
+      "source": "pagefindings",
+      "confidence": "medium"
+    },
+    {
+      "page": "p008",
+      "module": "马原",
+      "section": "综合测试二",
+      "questionCount": 7,
+      "singleChoice": 0,
+      "multipleChoice": 0,
+      "topicCount": 7,
+      "notesCount": 2,
+      "wrongCount": 1,
+      "source": "pagefindings",
+      "confidence": "medium"
+    },
+    {
+      "page": "p009",
+      "module": "马原",
+      "section": "优题库 拔高题篇",
+      "questionCount": 8,
+      "singleChoice": 0,
+      "multipleChoice": 0,
+      "topicCount": 8,
+      "notesCount": 2,
+      "wrongCount": 0,
+      "source": "pagefindings",
+      "confidence": "medium"
+    },
+    {
+      "page": "p010",
+      "module": "马原",
+      "section": "优题库 拔高题篇",
+      "questionCount": 6,
+      "singleChoice": 0,
+      "multipleChoice": 0,
+      "topicCount": 6,
+      "notesCount": 2,
+      "wrongCount": 1,
+      "source": "pagefindings",
+      "confidence": "medium"
+    },
+    {
+      "page": "p011",
+      "module": "马原",
+      "section": "第一部分·优题库拔高题篇（多项选择题25–30）",
+      "questionCount": 6,
+      "singleChoice": 0,
+      "multipleChoice": 0,
+      "topicCount": 6,
+      "notesCount": 2,
+      "wrongCount": 0,
+      "source": "pagefindings",
+      "confidence": "medium"
+    },
+    {
+      "page": "p012",
+      "module": "马原",
+      "section": "第一部分·优题库拔高题篇（本套末页）",
+      "questionCount": 0,
+      "singleChoice": 0,
+      "multipleChoice": 0,
+      "topicCount": 0,
+      "notesCount": 1,
+      "wrongCount": 0,
+      "source": "fill",
+      "confidence": "medium"
+    },
+    {
+      "page": "p013",
+      "module": "马原",
+      "section": "综合测试三·一、单项选择题（1–6）",
+      "questionCount": 6,
+      "singleChoice": 0,
+      "multipleChoice": 0,
+      "topicCount": 6,
+      "notesCount": 2,
+      "wrongCount": 0,
+      "source": "pagefindings",
+      "confidence": "medium"
+    },
+    {
+      "page": "p014",
+      "module": "马原",
+      "section": "综合测试三·一、单项选择题（7–14）",
+      "questionCount": 8,
+      "singleChoice": 0,
+      "multipleChoice": 0,
+      "topicCount": 8,
+      "notesCount": 2,
+      "wrongCount": 0,
+      "source": "pagefindings",
+      "confidence": "medium"
+    },
+    {
+      "page": "p015",
+      "module": "马原",
+      "section": "第一部分·优题库拔高题篇（第15题末＋二、多项选择题16–20）",
+      "questionCount": 6,
+      "singleChoice": 0,
+      "multipleChoice": 0,
+      "topicCount": 6,
+      "notesCount": 2,
+      "wrongCount": 1,
+      "source": "pagefindings",
+      "confidence": "medium"
+    },
+    {
+      "page": "p016",
+      "module": "马原",
+      "section": "优题库拔高题篇",
+      "questionCount": 5,
+      "singleChoice": 0,
+      "multipleChoice": 0,
+      "topicCount": 5,
+      "notesCount": 2,
+      "wrongCount": 0,
+      "source": "pagefindings",
+      "confidence": "medium"
+    },
+    {
+      "page": "p017",
+      "module": "马原",
+      "section": "优题库拔高题篇",
+      "questionCount": 6,
+      "singleChoice": 0,
+      "multipleChoice": 0,
+      "topicCount": 6,
+      "notesCount": 2,
+      "wrongCount": 1,
+      "source": "pagefindings",
+      "confidence": "medium"
+    },
+    {
+      "page": "p018",
+      "module": "马原",
+      "section": "优题库拔高题篇",
+      "questionCount": 2,
+      "singleChoice": 0,
+      "multipleChoice": 0,
+      "topicCount": 2,
+      "notesCount": 2,
+      "wrongCount": 0,
+      "source": "pagefindings",
+      "confidence": "medium"
+    },
+    {
+      "page": "p019",
+      "module": "马原",
+      "section": "综合测试四",
+      "questionCount": 7,
+      "singleChoice": 0,
+      "multipleChoice": 0,
+      "topicCount": 7,
+      "notesCount": 2,
+      "wrongCount": 1,
+      "source": "pagefindings",
+      "confidence": "medium"
+    },
+    {
+      "page": "p020",
+      "module": "马原",
+      "section": "综合测试四",
+      "questionCount": 7,
+      "singleChoice": 0,
+      "multipleChoice": 0,
+      "topicCount": 7,
+      "notesCount": 2,
+      "wrongCount": 1,
+      "source": "pagefindings",
+      "confidence": "medium"
+    },
+    {
+      "page": "p021",
+      "module": "马原",
+      "section": "优题库 拔高题篇（第一部分）",
+      "questionCount": 6,
+      "singleChoice": 0,
+      "multipleChoice": 0,
+      "topicCount": 6,
+      "notesCount": 2,
+      "wrongCount": 1,
+      "source": "pagefindings",
+      "confidence": "medium"
+    },
+    {
+      "page": "p022",
+      "module": "马原",
+      "section": "优题库 拔高题篇（第一部分）",
+      "questionCount": 6,
+      "singleChoice": 0,
+      "multipleChoice": 0,
+      "topicCount": 6,
+      "notesCount": 2,
+      "wrongCount": 1,
+      "source": "pagefindings",
+      "confidence": "medium"
+    },
+    {
+      "page": "p023",
+      "module": "马原",
+      "section": "优题库 拔高题篇（第一部分）",
+      "questionCount": 6,
+      "singleChoice": 0,
+      "multipleChoice": 0,
+      "topicCount": 6,
+      "notesCount": 2,
+      "wrongCount": 0,
+      "source": "pagefindings",
+      "confidence": "medium"
+    },
+    {
+      "page": "p024",
+      "module": "马原",
+      "section": "综合测试五（前隔页）",
+      "questionCount": 0,
+      "singleChoice": 0,
+      "multipleChoice": 0,
+      "topicCount": 0,
+      "notesCount": 1,
+      "wrongCount": 0,
+      "source": "fill",
+      "confidence": "high"
+    },
+    {
+      "page": "p025",
+      "module": "马原",
+      "section": "综合测试五",
+      "questionCount": 6,
+      "singleChoice": 0,
+      "multipleChoice": 0,
+      "topicCount": 6,
+      "notesCount": 2,
+      "wrongCount": 0,
+      "source": "pagefindings",
+      "confidence": "medium"
+    },
+    {
+      "page": "p026",
+      "module": "马原",
+      "section": "优题库·拔高题篇（第一部分）",
+      "questionCount": 7,
+      "singleChoice": 0,
+      "multipleChoice": 0,
+      "topicCount": 7,
+      "notesCount": 2,
+      "wrongCount": 0,
+      "source": "pagefindings",
+      "confidence": "medium"
+    },
+    {
+      "page": "p027",
+      "module": "马原",
+      "section": "优题库·拔高题篇（第一部分）",
+      "questionCount": 6,
+      "singleChoice": 0,
+      "multipleChoice": 0,
+      "topicCount": 6,
+      "notesCount": 2,
+      "wrongCount": 0,
+      "source": "pagefindings",
+      "confidence": "medium"
+    },
+    {
+      "page": "p028",
+      "module": "马原",
+      "section": "优题库·拔高题篇（第一部分）",
+      "questionCount": 6,
+      "singleChoice": 0,
+      "multipleChoice": 0,
+      "topicCount": 6,
+      "notesCount": 2,
+      "wrongCount": 1,
+      "source": "pagefindings",
+      "confidence": "medium"
+    },
+    {
+      "page": "p029",
+      "module": "马原",
+      "section": "优题库·拔高题篇（第一部分）",
+      "questionCount": 5,
+      "singleChoice": 0,
+      "multipleChoice": 0,
+      "topicCount": 5,
+      "notesCount": 2,
+      "wrongCount": 0,
+      "source": "pagefindings",
+      "confidence": "medium"
+    },
+    {
+      "page": "p030",
+      "module": "马原",
+      "section": "综合测试六",
+      "questionCount": 5,
+      "singleChoice": 0,
+      "multipleChoice": 0,
+      "topicCount": 5,
+      "notesCount": 2,
+      "wrongCount": 1,
+      "source": "pagefindings",
+      "confidence": "medium"
+    },
+    {
+      "page": "p031",
+      "module": "马原",
+      "section": "优题库拔高题篇·第一部分",
+      "questionCount": 7,
+      "singleChoice": 0,
+      "multipleChoice": 0,
+      "topicCount": 7,
+      "notesCount": 2,
+      "wrongCount": 1,
+      "source": "pagefindings",
+      "confidence": "medium"
+    },
+    {
+      "page": "p032",
+      "module": "马原",
+      "section": "优题库拔高题篇·第一部分",
+      "questionCount": 6,
+      "singleChoice": 0,
+      "multipleChoice": 0,
+      "topicCount": 6,
+      "notesCount": 2,
+      "wrongCount": 1,
+      "source": "pagefindings",
+      "confidence": "medium"
+    },
+    {
+      "page": "p033",
+      "module": "马原",
+      "section": "优题库拔高题篇·第一部分",
+      "questionCount": 7,
+      "singleChoice": 0,
+      "multipleChoice": 0,
+      "topicCount": 7,
+      "notesCount": 2,
+      "wrongCount": 1,
+      "source": "pagefindings",
+      "confidence": "medium"
+    },
+    {
+      "page": "p034",
+      "module": "马原",
+      "section": "优题库拔高题篇·第一部分",
+      "questionCount": 6,
+      "singleChoice": 0,
+      "multipleChoice": 0,
+      "topicCount": 6,
+      "notesCount": 2,
+      "wrongCount": 2,
+      "source": "pagefindings",
+      "confidence": "medium"
+    },
+    {
+      "page": "p035",
+      "module": "马原",
+      "section": "优题库拔高题篇·第一部分",
+      "questionCount": 1,
+      "singleChoice": 0,
+      "multipleChoice": 0,
+      "topicCount": 1,
+      "notesCount": 1,
+      "wrongCount": 0,
+      "source": "pagefindings",
+      "confidence": "medium"
+    },
+    {
+      "page": "p036",
+      "module": "毛中特",
+      "section": "综合测试一 单项选择题",
+      "questionCount": 6,
+      "singleChoice": 6,
+      "multipleChoice": 0,
+      "topicCount": 6,
+      "notesCount": 1,
+      "wrongCount": 0,
+      "source": "fill",
+      "confidence": "high"
+    },
+    {
+      "page": "p037",
+      "module": "毛中特",
+      "section": "综合测试一 单项选择题",
+      "questionCount": 7,
+      "singleChoice": 7,
+      "multipleChoice": 0,
+      "topicCount": 6,
+      "notesCount": 1,
+      "wrongCount": 0,
+      "source": "fill",
+      "confidence": "medium"
+    },
+    {
+      "page": "p038",
+      "module": "毛中特",
+      "section": "优题库拔高题篇 单项与多项选择题",
+      "questionCount": 6,
+      "singleChoice": 4,
+      "multipleChoice": 2,
+      "topicCount": 6,
+      "notesCount": 1,
+      "wrongCount": 0,
+      "source": "fill",
+      "confidence": "medium"
+    },
+    {
+      "page": "p039",
+      "module": "毛中特",
+      "section": "优题库拔高题篇 多项选择题",
+      "questionCount": 6,
+      "singleChoice": 0,
+      "multipleChoice": 6,
+      "topicCount": 6,
+      "notesCount": 5,
+      "wrongCount": 0,
+      "source": "fill",
+      "confidence": "medium"
+    },
+    {
+      "page": "p040",
+      "module": "毛中特",
+      "section": "优题库拔高题篇 多项选择题",
+      "questionCount": 6,
+      "singleChoice": 0,
+      "multipleChoice": 6,
+      "topicCount": 5,
+      "notesCount": 7,
+      "wrongCount": 0,
+      "source": "fill",
+      "confidence": "high"
+    },
+    {
+      "page": "p041",
+      "module": "毛中特",
+      "section": "综合测试一",
+      "questionCount": 2,
+      "singleChoice": 0,
+      "multipleChoice": 0,
+      "topicCount": 2,
+      "notesCount": 2,
+      "wrongCount": 0,
+      "source": "pagefindings",
+      "confidence": "medium"
+    },
+    {
+      "page": "p042",
+      "module": "毛中特",
+      "section": "综合测试二",
+      "questionCount": 5,
+      "singleChoice": 0,
+      "multipleChoice": 0,
+      "topicCount": 5,
+      "notesCount": 2,
+      "wrongCount": 0,
+      "source": "pagefindings",
+      "confidence": "medium"
+    },
+    {
+      "page": "p043",
+      "module": "毛中特",
+      "section": "综合测试二",
+      "questionCount": 7,
+      "singleChoice": 0,
+      "multipleChoice": 0,
+      "topicCount": 7,
+      "notesCount": 2,
+      "wrongCount": 3,
+      "source": "pagefindings",
+      "confidence": "medium"
+    },
+    {
+      "page": "p044",
+      "module": "毛中特",
+      "section": "优题库拔高题篇",
+      "questionCount": 6,
+      "singleChoice": 0,
+      "multipleChoice": 0,
+      "topicCount": 6,
+      "notesCount": 2,
+      "wrongCount": 1,
+      "source": "pagefindings",
+      "confidence": "medium"
+    },
+    {
+      "page": "p045",
+      "module": "毛中特",
+      "section": "优题库拔高题篇",
+      "questionCount": 6,
+      "singleChoice": 0,
+      "multipleChoice": 0,
+      "topicCount": 6,
+      "notesCount": 2,
+      "wrongCount": 1,
+      "source": "pagefindings",
+      "confidence": "medium"
+    },
+    {
+      "page": "p046",
+      "module": "毛中特",
+      "section": "第二部分·优题库拔高题篇",
+      "questionCount": 6,
+      "singleChoice": 0,
+      "multipleChoice": 0,
+      "topicCount": 6,
+      "notesCount": 2,
+      "wrongCount": 1,
+      "source": "pagefindings",
+      "confidence": "medium"
+    },
+    {
+      "page": "p047",
+      "module": "毛中特",
+      "section": "第二部分·毛中特习题",
+      "questionCount": 3,
+      "singleChoice": 0,
+      "multipleChoice": 0,
+      "topicCount": 3,
+      "notesCount": 2,
+      "wrongCount": 0,
+      "source": "pagefindings",
+      "confidence": "medium"
+    },
+    {
+      "page": "p048",
+      "module": "新思想",
+      "section": "综合测试一（新思想）",
+      "questionCount": 6,
+      "singleChoice": 0,
+      "multipleChoice": 0,
+      "topicCount": 6,
+      "notesCount": 2,
+      "wrongCount": 1,
+      "source": "pagefindings",
+      "confidence": "medium"
+    },
+    {
+      "page": "p049",
+      "module": "新思想",
+      "section": "综合测试一（新思想）",
+      "questionCount": 6,
+      "singleChoice": 0,
+      "multipleChoice": 0,
+      "topicCount": 6,
+      "notesCount": 2,
+      "wrongCount": 0,
+      "source": "pagefindings",
+      "confidence": "medium"
+    },
+    {
+      "page": "p050",
+      "module": "新思想",
+      "section": "综合测试一（新思想）",
+      "questionCount": 6,
+      "singleChoice": 0,
+      "multipleChoice": 0,
+      "topicCount": 6,
+      "notesCount": 2,
+      "wrongCount": 1,
+      "source": "pagefindings",
+      "confidence": "medium"
+    },
+    {
+      "page": "p051",
+      "module": "新思想",
+      "section": "第三部分 优题库拔高题篇（多选）",
+      "questionCount": 6,
+      "singleChoice": 0,
+      "multipleChoice": 0,
+      "topicCount": 6,
+      "notesCount": 2,
+      "wrongCount": 0,
+      "source": "pagefindings",
+      "confidence": "medium"
+    },
+    {
+      "page": "p052",
+      "module": "新思想",
+      "section": "优题库 拔高题篇（多选22–26）",
+      "questionCount": 5,
+      "singleChoice": 0,
+      "multipleChoice": 0,
+      "topicCount": 5,
+      "notesCount": 2,
+      "wrongCount": 0,
+      "source": "pagefindings",
+      "confidence": "medium"
+    },
+    {
+      "page": "p053",
+      "module": "新思想",
+      "section": "第三部分 习题（多选27–30）",
+      "questionCount": 4,
+      "singleChoice": 0,
+      "multipleChoice": 0,
+      "topicCount": 4,
+      "notesCount": 2,
+      "wrongCount": 2,
+      "source": "pagefindings",
+      "confidence": "medium"
+    },
+    {
+      "page": "p054",
+      "module": "新思想",
+      "section": "综合测试二 一、单项选择题",
+      "questionCount": 6,
+      "singleChoice": 0,
+      "multipleChoice": 0,
+      "topicCount": 6,
+      "notesCount": 2,
+      "wrongCount": 0,
+      "source": "pagefindings",
+      "confidence": "medium"
+    },
+    {
+      "page": "p055",
+      "module": "新思想",
+      "section": "综合测试二 二、多项选择题",
+      "questionCount": 5,
+      "singleChoice": 0,
+      "multipleChoice": 0,
+      "topicCount": 5,
+      "notesCount": 2,
+      "wrongCount": 0,
+      "source": "pagefindings",
+      "confidence": "medium"
+    },
+    {
+      "page": "p056",
+      "module": "新思想",
+      "section": "优题库·拔高题篇（第三部分）",
+      "questionCount": 8,
+      "singleChoice": 0,
+      "multipleChoice": 0,
+      "topicCount": 8,
+      "notesCount": 2,
+      "wrongCount": 0,
+      "source": "pagefindings",
+      "confidence": "medium"
+    },
+    {
+      "page": "p057",
+      "module": "新思想",
+      "section": "优题库·拔高题篇（第三部分）",
+      "questionCount": 8,
+      "singleChoice": 0,
+      "multipleChoice": 0,
+      "topicCount": 7,
+      "notesCount": 2,
+      "wrongCount": 0,
+      "source": "pagefindings",
+      "confidence": "medium"
+    },
+    {
+      "page": "p058",
+      "module": "新思想",
+      "section": "综合测试三",
+      "questionCount": 10,
+      "singleChoice": 0,
+      "multipleChoice": 0,
+      "topicCount": 9,
+      "notesCount": 2,
+      "wrongCount": 0,
+      "source": "pagefindings",
+      "confidence": "medium"
+    },
+    {
+      "page": "p059",
+      "module": "新思想",
+      "section": "综合测试三",
+      "questionCount": 9,
+      "singleChoice": 0,
+      "multipleChoice": 0,
+      "topicCount": 8,
+      "notesCount": 2,
+      "wrongCount": 0,
+      "source": "pagefindings",
+      "confidence": "medium"
+    },
+    {
+      "page": "p060",
+      "module": "新思想",
+      "section": "综合测试三",
+      "questionCount": 8,
+      "singleChoice": 0,
+      "multipleChoice": 0,
+      "topicCount": 6,
+      "notesCount": 2,
+      "wrongCount": 0,
+      "source": "pagefindings",
+      "confidence": "medium"
+    },
+    {
+      "page": "p061",
+      "module": "新思想",
+      "section": "综合测试四",
+      "questionCount": 4,
+      "singleChoice": 0,
+      "multipleChoice": 0,
+      "topicCount": 4,
+      "notesCount": 2,
+      "wrongCount": 0,
+      "source": "pagefindings",
+      "confidence": "medium"
+    },
+    {
+      "page": "p062",
+      "module": "新思想",
+      "section": "综合测试四",
+      "questionCount": 8,
+      "singleChoice": 0,
+      "multipleChoice": 0,
+      "topicCount": 7,
+      "notesCount": 2,
+      "wrongCount": 0,
+      "source": "pagefindings",
+      "confidence": "medium"
+    },
+    {
+      "page": "p063",
+      "module": "新思想",
+      "section": "综合测试四",
+      "questionCount": 12,
+      "singleChoice": 0,
+      "multipleChoice": 0,
+      "topicCount": 12,
+      "notesCount": 2,
+      "wrongCount": 0,
+      "source": "pagefindings",
+      "confidence": "medium"
+    },
+    {
+      "page": "p064",
+      "module": "新思想",
+      "section": "综合测试四",
+      "questionCount": 6,
+      "singleChoice": 0,
+      "multipleChoice": 0,
+      "topicCount": 5,
+      "notesCount": 2,
+      "wrongCount": 0,
+      "source": "pagefindings",
+      "confidence": "medium"
+    },
+    {
+      "page": "p065",
+      "module": "新思想",
+      "section": "综合测试五",
+      "questionCount": 10,
+      "singleChoice": 0,
+      "multipleChoice": 0,
+      "topicCount": 10,
+      "notesCount": 2,
+      "wrongCount": 0,
+      "source": "pagefindings",
+      "confidence": "medium"
+    },
+    {
+      "page": "p066",
+      "module": "新思想",
+      "section": "第三部分 优题库·拔高题篇",
+      "questionCount": 9,
+      "singleChoice": 0,
+      "multipleChoice": 0,
+      "topicCount": 6,
+      "notesCount": 2,
+      "wrongCount": 2,
+      "source": "pagefindings",
+      "confidence": "medium"
+    },
+    {
+      "page": "p067",
+      "module": "新思想",
+      "section": "第三部分 优题库·拔高题篇",
+      "questionCount": 9,
+      "singleChoice": 0,
+      "multipleChoice": 0,
+      "topicCount": 5,
+      "notesCount": 2,
+      "wrongCount": 2,
+      "source": "pagefindings",
+      "confidence": "medium"
+    },
+    {
+      "page": "p068",
+      "module": "史纲",
+      "section": "第四部分 综合测试一（单项选择题）",
+      "questionCount": 14,
+      "singleChoice": 0,
+      "multipleChoice": 0,
+      "topicCount": 6,
+      "notesCount": 2,
+      "wrongCount": 2,
+      "source": "pagefindings",
+      "confidence": "medium"
+    },
+    {
+      "page": "p069",
+      "module": "史纲",
+      "section": "第四部分 综合测试一（多项选择题）",
+      "questionCount": 8,
+      "singleChoice": 0,
+      "multipleChoice": 0,
+      "topicCount": 6,
+      "notesCount": 2,
+      "wrongCount": 2,
+      "source": "pagefindings",
+      "confidence": "medium"
+    },
+    {
+      "page": "p070",
+      "module": "史纲",
+      "section": "第四部分 优题库·拔高题篇 / 综合测试二",
+      "questionCount": 10,
+      "singleChoice": 0,
+      "multipleChoice": 0,
+      "topicCount": 7,
+      "notesCount": 2,
+      "wrongCount": 2,
+      "source": "pagefindings",
+      "confidence": "medium"
+    },
+    {
+      "page": "p071",
+      "module": "史纲",
+      "section": "第四部分 中国近现代史纲要·优题库拔高题篇",
+      "questionCount": 13,
+      "singleChoice": 0,
+      "multipleChoice": 0,
+      "topicCount": 13,
+      "notesCount": 2,
+      "wrongCount": 0,
+      "source": "pagefindings",
+      "confidence": "medium"
+    },
+    {
+      "page": "p072",
+      "module": "史纲",
+      "section": "第四部分 中国近现代史纲要·优题库拔高题篇·多项选择题",
+      "questionCount": 9,
+      "singleChoice": 0,
+      "multipleChoice": 0,
+      "topicCount": 9,
+      "notesCount": 2,
+      "wrongCount": 0,
+      "source": "pagefindings",
+      "confidence": "medium"
+    },
+    {
+      "page": "p073",
+      "module": "史纲",
+      "section": "096 优题库拔高题篇多选29-30；097 综合测试三·单项选择题1-6",
+      "questionCount": 8,
+      "singleChoice": 0,
+      "multipleChoice": 0,
+      "topicCount": 8,
+      "notesCount": 2,
+      "wrongCount": 0,
+      "source": "pagefindings",
+      "confidence": "medium"
+    },
+    {
+      "page": "p074",
+      "module": "史纲",
+      "section": "第四部分 中国近现代史纲要·优题库拔高题篇",
+      "questionCount": 11,
+      "singleChoice": 0,
+      "multipleChoice": 0,
+      "topicCount": 11,
+      "notesCount": 2,
+      "wrongCount": 0,
+      "source": "pagefindings",
+      "confidence": "medium"
+    },
+    {
+      "page": "p075",
+      "module": "史纲",
+      "section": "第四部分 中国近现代史纲要·优题库拔高题篇·多项选择题",
+      "questionCount": 11,
+      "singleChoice": 0,
+      "multipleChoice": 0,
+      "topicCount": 11,
+      "notesCount": 2,
+      "wrongCount": 0,
+      "source": "pagefindings",
+      "confidence": "medium"
+    },
+    {
+      "page": "p076",
+      "module": "史纲",
+      "section": "第四部分·优题库拔高题篇末页+综合测试四",
+      "questionCount": 9,
+      "singleChoice": 0,
+      "multipleChoice": 0,
+      "topicCount": 5,
+      "notesCount": 2,
+      "wrongCount": 0,
+      "source": "pagefindings",
+      "confidence": "medium"
+    },
+    {
+      "page": "p077",
+      "module": "史纲",
+      "section": "第四部分·综合测试四",
+      "questionCount": 14,
+      "singleChoice": 0,
+      "multipleChoice": 0,
+      "topicCount": 13,
+      "notesCount": 2,
+      "wrongCount": 0,
+      "source": "pagefindings",
+      "confidence": "medium"
+    },
+    {
+      "page": "p078",
+      "module": "史纲",
+      "section": "第四部分·综合测试四",
+      "questionCount": 9,
+      "singleChoice": 0,
+      "multipleChoice": 0,
+      "topicCount": 7,
+      "notesCount": 2,
+      "wrongCount": 0,
+      "source": "pagefindings",
+      "confidence": "medium"
+    },
+    {
+      "page": "p079",
+      "module": "史纲",
+      "section": "第四部分·综合测试四末题+综合测试五",
+      "questionCount": 8,
+      "singleChoice": 0,
+      "multipleChoice": 0,
+      "topicCount": 8,
+      "notesCount": 2,
+      "wrongCount": 0,
+      "source": "pagefindings",
+      "confidence": "medium"
+    },
+    {
+      "page": "p080",
+      "module": "史纲",
+      "section": "第四部分·综合测试五",
+      "questionCount": 9,
+      "singleChoice": 0,
+      "multipleChoice": 0,
+      "topicCount": 8,
+      "notesCount": 2,
+      "wrongCount": 2,
+      "source": "pagefindings",
+      "confidence": "medium"
+    },
+    {
+      "page": "p081",
+      "module": "史纲",
+      "section": "优题库·拔高题篇（第四部分）",
+      "questionCount": 7,
+      "singleChoice": 0,
+      "multipleChoice": 0,
+      "topicCount": 6,
+      "notesCount": 2,
+      "wrongCount": 0,
+      "source": "pagefindings",
+      "confidence": "medium"
+    },
+    {
+      "page": "p082",
+      "module": "史纲",
+      "section": "优题库·拔高题篇（第四部分）",
+      "questionCount": 3,
+      "singleChoice": 0,
+      "multipleChoice": 0,
+      "topicCount": 3,
+      "notesCount": 2,
+      "wrongCount": 0,
+      "source": "pagefindings",
+      "confidence": "medium"
+    },
+    {
+      "page": "p083",
+      "module": "思道法",
+      "section": "综合测试一（第五部分）",
+      "questionCount": 11,
+      "singleChoice": 0,
+      "multipleChoice": 0,
+      "topicCount": 10,
+      "notesCount": 2,
+      "wrongCount": 1,
+      "source": "pagefindings",
+      "confidence": "medium"
+    },
+    {
+      "page": "p084",
+      "module": "思道法",
+      "section": "多项选择题（第五部分）",
+      "questionCount": 9,
+      "singleChoice": 0,
+      "multipleChoice": 0,
+      "topicCount": 8,
+      "notesCount": 2,
+      "wrongCount": 1,
+      "source": "pagefindings",
+      "confidence": "medium"
+    },
+    {
+      "page": "p085",
+      "module": "思道法",
+      "section": "优题库·拔高题篇（第五部分）",
+      "questionCount": 4,
+      "singleChoice": 0,
+      "multipleChoice": 0,
+      "topicCount": 4,
+      "notesCount": 2,
+      "wrongCount": 0,
+      "source": "pagefindings",
+      "confidence": "medium"
+    },
+    {
+      "page": "p086",
+      "module": "思道法",
+      "section": "第五部分·综合测试二",
+      "questionCount": 14,
+      "singleChoice": 14,
+      "multipleChoice": 0,
+      "topicCount": 12,
+      "notesCount": 14,
+      "wrongCount": 0,
+      "source": "fill",
+      "confidence": "high"
+    },
+    {
+      "page": "p087",
+      "module": "思道法",
+      "section": "第五部分·综合测试二（续）",
+      "questionCount": 11,
+      "singleChoice": 0,
+      "multipleChoice": 11,
+      "topicCount": 10,
+      "notesCount": 11,
+      "wrongCount": 0,
+      "source": "fill",
+      "confidence": "high"
+    },
+    {
+      "page": "p088",
+      "module": "思道法",
+      "section": "第五部分·综合测试二末页+综合测试三",
+      "questionCount": 11,
+      "singleChoice": 6,
+      "multipleChoice": 5,
+      "topicCount": 8,
+      "notesCount": 11,
+      "wrongCount": 0,
+      "source": "fill",
+      "confidence": "high"
+    },
+    {
+      "page": "p089",
+      "module": "思道法",
+      "section": "第五部分·综合测试三（续）",
+      "questionCount": 14,
+      "singleChoice": 9,
+      "multipleChoice": 5,
+      "topicCount": 13,
+      "notesCount": 14,
+      "wrongCount": 0,
+      "source": "fill",
+      "confidence": "medium"
+    },
+    {
+      "page": "p090",
+      "module": "思道法",
+      "section": "第五部分·综合测试三末页",
+      "questionCount": 10,
+      "singleChoice": 0,
+      "multipleChoice": 10,
+      "topicCount": 10,
+      "notesCount": 10,
+      "wrongCount": 0,
+      "source": "fill",
+      "confidence": "high"
+    }
+  ],
+  "topicFrequency": [
+    {
+      "topic": "爱国主义",
+      "module": "思道法",
+      "count": 8,
+      "pages": [
+        "p083",
+        "p084",
+        "p087",
+        "p088",
+        "p089"
+      ],
+      "wrongCount": 1,
+      "errorRate": 0.125
+    },
+    {
+      "topic": "洋务运动",
+      "module": "史纲",
+      "count": 8,
+      "pages": [
+        "p068",
+        "p076",
+        "p077",
+        "p079",
+        "p081"
+      ],
+      "wrongCount": 0,
+      "errorRate": 0.0
+    },
+    {
+      "topic": "太平天国农民战争",
+      "module": "史纲",
+      "count": 5,
+      "pages": [
+        "p068",
+        "p070",
+        "p081"
+      ],
+      "wrongCount": 0,
+      "errorRate": 0.0
+    },
+    {
+      "topic": "人生价值",
+      "module": "思道法",
+      "count": 5,
+      "pages": [
+        "p083",
+        "p086",
+        "p088"
+      ],
+      "wrongCount": 0,
+      "errorRate": 0.0
+    },
+    {
+      "topic": "五四运动",
+      "module": "史纲",
+      "count": 4,
+      "pages": [
+        "p069",
+        "p077",
+        "p078"
+      ],
+      "wrongCount": 1,
+      "errorRate": 0.25
+    },
+    {
+      "topic": "戊戌维新运动",
+      "module": "史纲",
+      "count": 4,
+      "pages": [
+        "p068",
+        "p079"
+      ],
+      "wrongCount": 1,
+      "errorRate": 0.25
+    },
+    {
+      "topic": "抗日战争",
+      "module": "史纲",
+      "count": 4,
+      "pages": [
+        "p077",
+        "p078"
+      ],
+      "wrongCount": 1,
+      "errorRate": 0.25
+    },
+    {
+      "topic": "生态文明建设",
+      "module": "新思想",
+      "count": 4,
+      "pages": [
+        "p054",
+        "p067"
+      ],
+      "wrongCount": 1,
+      "errorRate": 0.25
+    },
+    {
+      "topic": "理想信念",
+      "module": "思道法",
+      "count": 4,
+      "pages": [
+        "p086",
+        "p088"
+      ],
+      "wrongCount": 0,
+      "errorRate": 0.0
+    },
+    {
+      "topic": "抗日民族统一战线",
+      "module": "史纲",
+      "count": 3,
+      "pages": [
+        "p070"
+      ],
+      "wrongCount": 1,
+      "errorRate": 0.3333
+    },
+    {
+      "topic": "保障和改善民生",
+      "module": "新思想",
+      "count": 3,
+      "pages": [
+        "p061",
+        "p067"
+      ],
+      "wrongCount": 1,
+      "errorRate": 0.3333
+    },
+    {
+      "topic": "总体国家安全观",
+      "module": "新思想",
+      "count": 3,
+      "pages": [
+        "p053",
+        "p067"
+      ],
+      "wrongCount": 1,
+      "errorRate": 0.3333
+    },
+    {
+      "topic": "构建新发展格局",
+      "module": "新思想",
+      "count": 3,
+      "pages": [
+        "p051",
+        "p066"
+      ],
+      "wrongCount": 1,
+      "errorRate": 0.3333
+    },
+    {
+      "topic": "内容和形式",
+      "module": "马原",
+      "count": 3,
+      "pages": [
+        "p002",
+        "p021",
+        "p022"
+      ],
+      "wrongCount": 1,
+      "errorRate": 0.3333
+    },
+    {
+      "topic": "辛亥革命",
+      "module": "史纲",
+      "count": 3,
+      "pages": [
+        "p068",
+        "p076"
+      ],
+      "wrongCount": 0,
+      "errorRate": 0.0
+    },
+    {
+      "topic": "近代中国社会性质与两大历史任务",
+      "module": "史纲",
+      "count": 3,
+      "pages": [
+        "p068"
+      ],
+      "wrongCount": 0,
+      "errorRate": 0.0
+    },
+    {
+      "topic": "社会主义核心价值观",
+      "module": "思道法",
+      "count": 3,
+      "pages": [
+        "p084",
+        "p087",
+        "p089"
+      ],
+      "wrongCount": 0,
+      "errorRate": 0.0
+    },
+    {
+      "topic": "“一国两制”",
+      "module": "新思想",
+      "count": 3,
+      "pages": [
+        "p057",
+        "p064"
+      ],
+      "wrongCount": 0,
+      "errorRate": 0.0
+    },
+    {
+      "topic": "生态文明制度体系",
+      "module": "新思想",
+      "count": 3,
+      "pages": [
+        "p052",
+        "p060"
+      ],
+      "wrongCount": 0,
+      "errorRate": 0.0
+    },
+    {
+      "topic": "量变与质变",
+      "module": "马原",
+      "count": 3,
+      "pages": [
+        "p008",
+        "p010",
+        "p019"
+      ],
+      "wrongCount": 0,
+      "errorRate": 0.0
+    },
+    {
+      "topic": "抗日战争胜利后的局势",
+      "module": "史纲",
+      "count": 2,
+      "pages": [
+        "p069"
+      ],
+      "wrongCount": 1,
+      "errorRate": 0.5
+    },
+    {
+      "topic": "思想道德与法律",
+      "module": "思道法",
+      "count": 2,
+      "pages": [
+        "p084",
+        "p087"
+      ],
+      "wrongCount": 1,
+      "errorRate": 0.5
+    },
+    {
+      "topic": "社会主义初级阶段",
+      "module": "毛中特",
+      "count": 2,
+      "pages": [
+        "p037"
+      ],
+      "wrongCount": 1,
+      "errorRate": 0.5
+    },
+    {
+      "topic": "真理的检验标准",
+      "module": "马原",
+      "count": 2,
+      "pages": [
+        "p020",
+        "p031"
+      ],
+      "wrongCount": 1,
+      "errorRate": 0.5
+    },
+    {
+      "topic": "七届二中全会",
+      "module": "史纲",
+      "count": 2,
+      "pages": [
+        "p075",
+        "p080"
+      ],
+      "wrongCount": 0,
+      "errorRate": 0.0
+    },
+    {
+      "topic": "五四以前新文化运动的局限",
+      "module": "史纲",
+      "count": 2,
+      "pages": [
+        "p072",
+        "p075"
+      ],
+      "wrongCount": 0,
+      "errorRate": 0.0
+    },
+    {
+      "topic": "八七会议",
+      "module": "史纲",
+      "count": 2,
+      "pages": [
+        "p071",
+        "p077"
+      ],
+      "wrongCount": 0,
+      "errorRate": 0.0
+    },
+    {
+      "topic": "新文化运动",
+      "module": "史纲",
+      "count": 2,
+      "pages": [
+        "p069",
+        "p079"
+      ],
+      "wrongCount": 0,
+      "errorRate": 0.0
+    },
+    {
+      "topic": "新民主主义革命道路",
+      "module": "史纲",
+      "count": 2,
+      "pages": [
+        "p068"
+      ],
+      "wrongCount": 0,
+      "errorRate": 0.0
+    },
+    {
+      "topic": "社会主义建设探索",
+      "module": "史纲",
+      "count": 2,
+      "pages": [
+        "p076"
+      ],
+      "wrongCount": 0,
+      "errorRate": 0.0
+    },
+    {
+      "topic": "西安事变",
+      "module": "史纲",
+      "count": 2,
+      "pages": [
+        "p070",
+        "p077"
+      ],
+      "wrongCount": 0,
+      "errorRate": 0.0
+    },
+    {
+      "topic": "过渡时期总路线与一五计划",
+      "module": "史纲",
+      "count": 2,
+      "pages": [
+        "p069"
+      ],
+      "wrongCount": 0,
+      "errorRate": 0.0
+    },
+    {
+      "topic": "近代中国出路探索",
+      "module": "史纲",
+      "count": 2,
+      "pages": [
+        "p076"
+      ],
+      "wrongCount": 0,
+      "errorRate": 0.0
+    },
+    {
+      "topic": "革命道路",
+      "module": "史纲",
+      "count": 2,
+      "pages": [
+        "p080"
+      ],
+      "wrongCount": 0,
+      "errorRate": 0.0
+    },
+    {
+      "topic": "鸦片战争与中国近代史起点",
+      "module": "史纲",
+      "count": 2,
+      "pages": [
+        "p070"
+      ],
+      "wrongCount": 0,
+      "errorRate": 0.0
+    },
+    {
+      "topic": "个人与社会关系",
+      "module": "思道法",
+      "count": 2,
+      "pages": [
+        "p084"
+      ],
+      "wrongCount": 0,
+      "errorRate": 0.0
+    },
+    {
+      "topic": "个人品德",
+      "module": "思道法",
+      "count": 2,
+      "pages": [
+        "p087",
+        "p089"
+      ],
+      "wrongCount": 0,
+      "errorRate": 0.0
+    },
+    {
+      "topic": "公民权利义务",
+      "module": "思道法",
+      "count": 2,
+      "pages": [
+        "p089"
+      ],
+      "wrongCount": 0,
+      "errorRate": 0.0
+    },
+    {
+      "topic": "法律本质",
+      "module": "思道法",
+      "count": 2,
+      "pages": [
+        "p085",
+        "p090"
+      ],
+      "wrongCount": 0,
+      "errorRate": 0.0
+    },
+    {
+      "topic": "法律运行",
+      "module": "思道法",
+      "count": 2,
+      "pages": [
+        "p083",
+        "p090"
+      ],
+      "wrongCount": 0,
+      "errorRate": 0.0
+    },
+    {
+      "topic": "法治与德治",
+      "module": "思道法",
+      "count": 2,
+      "pages": [
+        "p088",
+        "p090"
+      ],
+      "wrongCount": 0,
+      "errorRate": 0.0
+    },
+    {
+      "topic": "法治体系",
+      "module": "思道法",
+      "count": 2,
+      "pages": [
+        "p085",
+        "p086"
+      ],
+      "wrongCount": 0,
+      "errorRate": 0.0
+    },
+    {
+      "topic": "法治思维",
+      "module": "思道法",
+      "count": 2,
+      "pages": [
+        "p087",
+        "p089"
+      ],
+      "wrongCount": 0,
+      "errorRate": 0.0
+    },
+    {
+      "topic": "“两个结合”",
+      "module": "新思想",
+      "count": 2,
+      "pages": [
+        "p062"
+      ],
+      "wrongCount": 0,
+      "errorRate": 0.0
+    },
+    {
+      "topic": "全球环境治理与共同但有区别的责任",
+      "module": "新思想",
+      "count": 2,
+      "pages": [
+        "p048",
+        "p049"
+      ],
+      "wrongCount": 0,
+      "errorRate": 0.0
+    },
+    {
+      "topic": "对外开放",
+      "module": "新思想",
+      "count": 2,
+      "pages": [
+        "p059"
+      ],
+      "wrongCount": 0,
+      "errorRate": 0.0
+    },
+    {
+      "topic": "新时代我国社会主要矛盾",
+      "module": "新思想",
+      "count": 2,
+      "pages": [
+        "p058"
+      ],
+      "wrongCount": 0,
+      "errorRate": 0.0
+    },
+    {
+      "topic": "民营经济与非公有制经济",
+      "module": "新思想",
+      "count": 2,
+      "pages": [
+        "p066"
+      ],
+      "wrongCount": 0,
+      "errorRate": 0.0
+    },
+    {
+      "topic": "社会主义协商民主",
+      "module": "新思想",
+      "count": 2,
+      "pages": [
+        "p066"
+      ],
+      "wrongCount": 0,
+      "errorRate": 0.0
+    },
+    {
+      "topic": "社会主义核心价值观",
+      "module": "新思想",
+      "count": 2,
+      "pages": [
+        "p063",
+        "p066"
+      ],
+      "wrongCount": 0,
+      "errorRate": 0.0
+    },
+    {
+      "topic": "社会治理体系",
+      "module": "新思想",
+      "count": 2,
+      "pages": [
+        "p060"
+      ],
+      "wrongCount": 0,
+      "errorRate": 0.0
+    },
+    {
+      "topic": "能源转型与可再生能源",
+      "module": "新思想",
+      "count": 2,
+      "pages": [
+        "p064"
+      ],
+      "wrongCount": 0,
+      "errorRate": 0.0
+    },
+    {
+      "topic": "自贸区与制度型开放",
+      "module": "新思想",
+      "count": 2,
+      "pages": [
+        "p049",
+        "p050"
+      ],
+      "wrongCount": 0,
+      "errorRate": 0.0
+    },
+    {
+      "topic": "铸牢中华民族共同体意识",
+      "module": "新思想",
+      "count": 2,
+      "pages": [
+        "p056",
+        "p058"
+      ],
+      "wrongCount": 0,
+      "errorRate": 0.0
+    },
+    {
+      "topic": "农村包围城市道路",
+      "module": "毛中特",
+      "count": 2,
+      "pages": [
+        "p036",
+        "p039"
+      ],
+      "wrongCount": 0,
+      "errorRate": 0.0
+    },
+    {
+      "topic": "实事求是思想路线",
+      "module": "毛中特",
+      "count": 2,
+      "pages": [
+        "p036",
+        "p044"
+      ],
+      "wrongCount": 0,
+      "errorRate": 0.0
+    },
+    {
+      "topic": "新民主主义革命的伟大成就",
+      "module": "毛中特",
+      "count": 2,
+      "pages": [
+        "p042",
+        "p043"
+      ],
+      "wrongCount": 0,
+      "errorRate": 0.0
+    },
+    {
+      "topic": "新民主主义革命的性质",
+      "module": "毛中特",
+      "count": 2,
+      "pages": [
+        "p042",
+        "p045"
+      ],
+      "wrongCount": 0,
+      "errorRate": 0.0
+    },
+    {
+      "topic": "新民主主义革命道路",
+      "module": "毛中特",
+      "count": 2,
+      "pages": [
+        "p042",
+        "p045"
+      ],
+      "wrongCount": 0,
+      "errorRate": 0.0
+    },
+    {
+      "topic": "毛泽东历史功绩",
+      "module": "毛中特",
+      "count": 2,
+      "pages": [
+        "p038",
+        "p039"
+      ],
+      "wrongCount": 0,
+      "errorRate": 0.0
+    },
+    {
+      "topic": "毛泽东思想科学体系",
+      "module": "毛中特",
+      "count": 2,
+      "pages": [
+        "p044",
+        "p045"
+      ],
+      "wrongCount": 0,
+      "errorRate": 0.0
+    },
+    {
+      "topic": "社会主义初级阶段的长期性",
+      "module": "毛中特",
+      "count": 2,
+      "pages": [
+        "p043",
+        "p046"
+      ],
+      "wrongCount": 0,
+      "errorRate": 0.0
+    },
+    {
+      "topic": "社会主义本质理论",
+      "module": "毛中特",
+      "count": 2,
+      "pages": [
+        "p040"
+      ],
+      "wrongCount": 0,
+      "errorRate": 0.0
+    },
+    {
+      "topic": "过渡时期主要矛盾",
+      "module": "毛中特",
+      "count": 2,
+      "pages": [
+        "p036",
+        "p037"
+      ],
+      "wrongCount": 0,
+      "errorRate": 0.0
+    },
+    {
+      "topic": "过渡时期总路线",
+      "module": "毛中特",
+      "count": 2,
+      "pages": [
+        "p045",
+        "p046"
+      ],
+      "wrongCount": 0,
+      "errorRate": 0.0
+    },
+    {
+      "topic": "可能性和现实性",
+      "module": "马原",
+      "count": 2,
+      "pages": [
+        "p016",
+        "p019"
+      ],
+      "wrongCount": 0,
+      "errorRate": 0.0
+    },
+    {
+      "topic": "商品使用价值与价值",
+      "module": "马原",
+      "count": 2,
+      "pages": [
+        "p008",
+        "p009"
+      ],
+      "wrongCount": 0,
+      "errorRate": 0.0
+    },
+    {
+      "topic": "实践的基本特征",
+      "module": "马原",
+      "count": 2,
+      "pages": [
+        "p020",
+        "p026"
+      ],
+      "wrongCount": 0,
+      "errorRate": 0.0
+    },
+    {
+      "topic": "意识的本质",
+      "module": "马原",
+      "count": 2,
+      "pages": [
+        "p007",
+        "p021"
+      ],
+      "wrongCount": 0,
+      "errorRate": 0.0
+    },
+    {
+      "topic": "战后资本主义新变化",
+      "module": "马原",
+      "count": 2,
+      "pages": [
+        "p017",
+        "p018"
+      ],
+      "wrongCount": 0,
+      "errorRate": 0.0
+    },
+    {
+      "topic": "时间的一维性",
+      "module": "马原",
+      "count": 2,
+      "pages": [
+        "p019",
+        "p032"
+      ],
+      "wrongCount": 0,
+      "errorRate": 0.0
+    },
+    {
+      "topic": "普遍交往与世界历史",
+      "module": "马原",
+      "count": 2,
+      "pages": [
+        "p033",
+        "p034"
+      ],
+      "wrongCount": 0,
+      "errorRate": 0.0
+    },
+    {
+      "topic": "物质世界与虚拟现实",
+      "module": "马原",
+      "count": 2,
+      "pages": [
+        "p032",
+        "p033"
+      ],
+      "wrongCount": 0,
+      "errorRate": 0.0
+    },
+    {
+      "topic": "现象与本质",
+      "module": "马原",
+      "count": 2,
+      "pages": [
+        "p002",
+        "p008"
+      ],
+      "wrongCount": 0,
+      "errorRate": 0.0
+    },
+    {
+      "topic": "生产力与生产关系",
+      "module": "马原",
+      "count": 2,
+      "pages": [
+        "p020",
+        "p026"
+      ],
+      "wrongCount": 0,
+      "errorRate": 0.0
+    },
+    {
+      "topic": "真理的绝对性与相对性",
+      "module": "马原",
+      "count": 2,
+      "pages": [
+        "p002",
+        "p022"
+      ],
+      "wrongCount": 0,
+      "errorRate": 0.0
+    },
+    {
+      "topic": "社会存在与社会意识",
+      "module": "马原",
+      "count": 2,
+      "pages": [
+        "p005",
+        "p033"
+      ],
+      "wrongCount": 0,
+      "errorRate": 0.0
+    },
+    {
+      "topic": "绝对剩余价值与相对剩余价值",
+      "module": "马原",
+      "count": 2,
+      "pages": [
+        "p005",
+        "p027"
+      ],
+      "wrongCount": 0,
+      "errorRate": 0.0
+    },
+    {
+      "topic": "自由与必然",
+      "module": "马原",
+      "count": 2,
+      "pages": [
+        "p008",
+        "p020"
+      ],
+      "wrongCount": 0,
+      "errorRate": 0.0
+    },
+    {
+      "topic": "资本主义经济危机",
+      "module": "马原",
+      "count": 2,
+      "pages": [
+        "p006",
+        "p031"
+      ],
+      "wrongCount": 0,
+      "errorRate": 0.0
+    },
+    {
+      "topic": "非理性因素",
+      "module": "马原",
+      "count": 2,
+      "pages": [
+        "p019",
+        "p020"
+      ],
+      "wrongCount": 0,
+      "errorRate": 0.0
+    },
+    {
+      "topic": "马克思主义中国化",
+      "module": "史纲",
+      "count": 1,
+      "pages": [
+        "p080"
+      ],
+      "wrongCount": 2,
+      "errorRate": 1.0
+    },
+    {
+      "topic": "马克思主义中国化",
+      "module": "毛中特",
+      "count": 1,
+      "pages": [
+        "p038"
+      ],
+      "wrongCount": 2,
+      "errorRate": 1.0
+    },
+    {
+      "topic": "运动和静止",
+      "module": "马原",
+      "count": 1,
+      "pages": [
+        "p019"
+      ],
+      "wrongCount": 2,
+      "errorRate": 1.0
+    },
+    {
+      "topic": "1946年政治协商会议",
+      "module": "史纲",
+      "count": 1,
+      "pages": [
+        "p070"
+      ],
+      "wrongCount": 1,
+      "errorRate": 1.0
+    },
+    {
+      "topic": "抗日民族统一战线与国民革命统一战线比较",
+      "module": "史纲",
+      "count": 1,
+      "pages": [
+        "p072"
+      ],
+      "wrongCount": 1,
+      "errorRate": 1.0
+    },
+    {
+      "topic": "皖南事变与抗日民族统一战线",
+      "module": "史纲",
+      "count": 1,
+      "pages": [
+        "p080"
+      ],
+      "wrongCount": 1,
+      "errorRate": 1.0
+    },
+    {
+      "topic": "维新运动",
+      "module": "史纲",
+      "count": 1,
+      "pages": [
+        "p077"
+      ],
+      "wrongCount": 1,
+      "errorRate": 1.0
+    },
+    {
+      "topic": "总体国家安全观",
+      "module": "思道法",
+      "count": 1,
+      "pages": [
+        "p087"
+      ],
+      "wrongCount": 1,
+      "errorRate": 1.0
+    },
+    {
+      "topic": "制造业高质量发展",
+      "module": "新思想",
+      "count": 1,
+      "pages": [
+        "p050"
+      ],
+      "wrongCount": 1,
+      "errorRate": 1.0
+    },
+    {
+      "topic": "只有社会主义才能救中国、发展中国",
+      "module": "新思想",
+      "count": 1,
+      "pages": [
+        "p048"
+      ],
+      "wrongCount": 1,
+      "errorRate": 1.0
+    },
+    {
+      "topic": "台湾问题与祖国统一",
+      "module": "新思想",
+      "count": 1,
+      "pages": [
+        "p053"
+      ],
+      "wrongCount": 1,
+      "errorRate": 1.0
+    },
+    {
+      "topic": "在发展中保障和改善民生",
+      "module": "新思想",
+      "count": 1,
+      "pages": [
+        "p054"
+      ],
+      "wrongCount": 1,
+      "errorRate": 1.0
+    },
+    {
+      "topic": "生态文明建设重要性",
+      "module": "新思想",
+      "count": 1,
+      "pages": [
+        "p057"
+      ],
+      "wrongCount": 1,
+      "errorRate": 1.0
+    },
+    {
+      "topic": "绿色低碳与生态文明建设",
+      "module": "新思想",
+      "count": 1,
+      "pages": [
+        "p057"
+      ],
+      "wrongCount": 1,
+      "errorRate": 1.0
+    },
+    {
+      "topic": "马克思主义中国化时代化",
+      "module": "新思想",
+      "count": 1,
+      "pages": [
+        "p049"
+      ],
+      "wrongCount": 1,
+      "errorRate": 1.0
+    },
+    {
+      "topic": "高质量发展",
+      "module": "新思想",
+      "count": 1,
+      "pages": [
+        "p067"
+      ],
+      "wrongCount": 1,
+      "errorRate": 1.0
+    },
+    {
+      "topic": "中国特色社会主义的提出",
+      "module": "毛中特",
+      "count": 1,
+      "pages": [
+        "p043"
+      ],
+      "wrongCount": 1,
+      "errorRate": 1.0
+    },
+    {
+      "topic": "市场配置资源",
+      "module": "毛中特",
+      "count": 1,
+      "pages": [
+        "p044"
+      ],
+      "wrongCount": 1,
+      "errorRate": 1.0
+    },
+    {
+      "topic": "新民主主义社会的经济成分",
+      "module": "毛中特",
+      "count": 1,
+      "pages": [
+        "p043"
+      ],
+      "wrongCount": 1,
+      "errorRate": 1.0
+    },
+    {
+      "topic": "毛泽东探索社会主义建设道路成果的意义",
+      "module": "毛中特",
+      "count": 1,
+      "pages": [
+        "p046"
+      ],
+      "wrongCount": 1,
+      "errorRate": 1.0
+    },
+    {
+      "topic": "社会主义初级阶段理论",
+      "module": "毛中特",
+      "count": 1,
+      "pages": [
+        "p043"
+      ],
+      "wrongCount": 1,
+      "errorRate": 1.0
+    },
+    {
+      "topic": "马克思主义中国化时代化",
+      "module": "毛中特",
+      "count": 1,
+      "pages": [
+        "p045"
+      ],
+      "wrongCount": 1,
+      "errorRate": 1.0
+    },
+    {
+      "topic": "主观辩证法与客观辩证法",
+      "module": "马原",
+      "count": 1,
+      "pages": [
+        "p030"
+      ],
+      "wrongCount": 1,
+      "errorRate": 1.0
+    },
+    {
+      "topic": "历史创造者",
+      "module": "马原",
+      "count": 1,
+      "pages": [
+        "p023"
+      ],
+      "wrongCount": 1,
+      "errorRate": 1.0
+    },
+    {
+      "topic": "历史发展的合力",
+      "module": "马原",
+      "count": 1,
+      "pages": [
+        "p034"
+      ],
+      "wrongCount": 1,
+      "errorRate": 1.0
+    },
+    {
+      "topic": "感性认识与理性认识",
+      "module": "马原",
+      "count": 1,
+      "pages": [
+        "p033"
+      ],
+      "wrongCount": 1,
+      "errorRate": 1.0
+    },
+    {
+      "topic": "社会发展道路的选择",
+      "module": "马原",
+      "count": 1,
+      "pages": [
+        "p031"
+      ],
+      "wrongCount": 1,
+      "errorRate": 1.0
+    },
+    {
+      "topic": "社会存在与地理环境",
+      "module": "马原",
+      "count": 1,
+      "pages": [
+        "p008"
+      ],
+      "wrongCount": 1,
+      "errorRate": 1.0
+    },
+    {
+      "topic": "社会形态更替的历史选择性",
+      "module": "马原",
+      "count": 1,
+      "pages": [
+        "p022"
+      ],
+      "wrongCount": 1,
+      "errorRate": 1.0
+    },
+    {
+      "topic": "科学技术是第一生产力",
+      "module": "马原",
+      "count": 1,
+      "pages": [
+        "p028"
+      ],
+      "wrongCount": 1,
+      "errorRate": 1.0
+    },
+    {
+      "topic": "认识的本质与感性认识",
+      "module": "马原",
+      "count": 1,
+      "pages": [
+        "p010"
+      ],
+      "wrongCount": 1,
+      "errorRate": 1.0
+    },
+    {
+      "topic": "“五四指示”与《中国土地法大纲》",
+      "module": "史纲",
+      "count": 1,
+      "pages": [
+        "p075"
+      ],
+      "wrongCount": 0,
+      "errorRate": 0.0
+    },
+    {
+      "topic": "《中华民国临时约法》的进步性",
+      "module": "史纲",
+      "count": 1,
+      "pages": [
+        "p075"
+      ],
+      "wrongCount": 0,
+      "errorRate": 0.0
+    },
+    {
+      "topic": "《孙文越飞联合宣言》",
+      "module": "史纲",
+      "count": 1,
+      "pages": [
+        "p074"
+      ],
+      "wrongCount": 0,
+      "errorRate": 0.0
+    },
+    {
+      "topic": "《实践论》《矛盾论》",
+      "module": "史纲",
+      "count": 1,
+      "pages": [
+        "p075"
+      ],
+      "wrongCount": 0,
+      "errorRate": 0.0
+    },
+    {
+      "topic": "《论持久战》",
+      "module": "史纲",
+      "count": 1,
+      "pages": [
+        "p075"
+      ],
+      "wrongCount": 0,
+      "errorRate": 0.0
+    },
+    {
+      "topic": "《辛丑条约》",
+      "module": "史纲",
+      "count": 1,
+      "pages": [
+        "p071"
+      ],
+      "wrongCount": 0,
+      "errorRate": 0.0
+    },
+    {
+      "topic": "一届人大与1954年宪法",
+      "module": "史纲",
+      "count": 1,
+      "pages": [
+        "p077"
+      ],
+      "wrongCount": 0,
+      "errorRate": 0.0
+    },
+    {
+      "topic": "七届三中全会战略策略方针",
+      "module": "史纲",
+      "count": 1,
+      "pages": [
+        "p072"
+      ],
+      "wrongCount": 0,
+      "errorRate": 0.0
+    },
+    {
+      "topic": "七届二中全会工作重心转移",
+      "module": "史纲",
+      "count": 1,
+      "pages": [
+        "p074"
+      ],
+      "wrongCount": 0,
+      "errorRate": 0.0
+    },
+    {
+      "topic": "中共七大",
+      "module": "史纲",
+      "count": 1,
+      "pages": [
+        "p081"
+      ],
+      "wrongCount": 0,
+      "errorRate": 0.0
+    },
+    {
+      "topic": "中共三大与国共合作",
+      "module": "史纲",
+      "count": 1,
+      "pages": [
+        "p074"
+      ],
+      "wrongCount": 0,
+      "errorRate": 0.0
+    },
+    {
+      "topic": "中共二大民主革命纲领",
+      "module": "史纲",
+      "count": 1,
+      "pages": [
+        "p071"
+      ],
+      "wrongCount": 0,
+      "errorRate": 0.0
+    },
+    {
+      "topic": "中共八大",
+      "module": "史纲",
+      "count": 1,
+      "pages": [
+        "p078"
+      ],
+      "wrongCount": 0,
+      "errorRate": 0.0
+    },
+    {
+      "topic": "中共八大前后探索",
+      "module": "史纲",
+      "count": 1,
+      "pages": [
+        "p080"
+      ],
+      "wrongCount": 0,
+      "errorRate": 0.0
+    },
+    {
+      "topic": "中共十二大“中国特色社会主义”",
+      "module": "史纲",
+      "count": 1,
+      "pages": [
+        "p074"
+      ],
+      "wrongCount": 0,
+      "errorRate": 0.0
+    },
+    {
+      "topic": "中共十八大的意义",
+      "module": "史纲",
+      "count": 1,
+      "pages": [
+        "p074"
+      ],
+      "wrongCount": 0,
+      "errorRate": 0.0
+    },
+    {
+      "topic": "中华苏维埃共和国的意义",
+      "module": "史纲",
+      "count": 1,
+      "pages": [
+        "p075"
+      ],
+      "wrongCount": 0,
+      "errorRate": 0.0
+    },
+    {
+      "topic": "中国共产党成立",
+      "module": "史纲",
+      "count": 1,
+      "pages": [
+        "p078"
+      ],
+      "wrongCount": 0,
+      "errorRate": 0.0
+    },
+    {
+      "topic": "义和团运动",
+      "module": "史纲",
+      "count": 1,
+      "pages": [
+        "p077"
+      ],
+      "wrongCount": 0,
+      "errorRate": 0.0
+    },
+    {
+      "topic": "井冈山革命根据地创建的意义",
+      "module": "史纲",
+      "count": 1,
+      "pages": [
+        "p072"
+      ],
+      "wrongCount": 0,
+      "errorRate": 0.0
+    },
+    {
+      "topic": "人民政协与《共同纲领》",
+      "module": "史纲",
+      "count": 1,
+      "pages": [
+        "p082"
+      ],
+      "wrongCount": 0,
+      "errorRate": 0.0
+    },
+    {
+      "topic": "人民民主专政",
+      "module": "史纲",
+      "count": 1,
+      "pages": [
+        "p077"
+      ],
+      "wrongCount": 0,
+      "errorRate": 0.0
+    },
+    {
+      "topic": "党内“左”倾错误的思想根源",
+      "module": "史纲",
+      "count": 1,
+      "pages": [
+        "p074"
+      ],
+      "wrongCount": 0,
+      "errorRate": 0.0
+    },
+    {
+      "topic": "全面建设社会主义的成就",
+      "module": "史纲",
+      "count": 1,
+      "pages": [
+        "p082"
+      ],
+      "wrongCount": 0,
+      "errorRate": 0.0
+    },
+    {
+      "topic": "公私合营企业的性质",
+      "module": "史纲",
+      "count": 1,
+      "pages": [
+        "p074"
+      ],
+      "wrongCount": 0,
+      "errorRate": 0.0
+    },
+    {
+      "topic": "六届七中全会与《决议》",
+      "module": "史纲",
+      "count": 1,
+      "pages": [
+        "p080"
+      ],
+      "wrongCount": 0,
+      "errorRate": 0.0
+    },
+    {
+      "topic": "农村包围城市道路",
+      "module": "史纲",
+      "count": 1,
+      "pages": [
+        "p069"
+      ],
+      "wrongCount": 0,
+      "errorRate": 0.0
+    },
+    {
+      "topic": "北洋军阀与辛亥革命",
+      "module": "史纲",
+      "count": 1,
+      "pages": [
+        "p081"
+      ],
+      "wrongCount": 0,
+      "errorRate": 0.0
+    },
+    {
+      "topic": "十一届六中全会《历史决议》",
+      "module": "史纲",
+      "count": 1,
+      "pages": [
+        "p073"
+      ],
+      "wrongCount": 0,
+      "errorRate": 0.0
+    },
+    {
+      "topic": "半封建社会的含义",
+      "module": "史纲",
+      "count": 1,
+      "pages": [
+        "p073"
+      ],
+      "wrongCount": 0,
+      "errorRate": 0.0
+    },
+    {
+      "topic": "南京临时政府",
+      "module": "史纲",
+      "count": 1,
+      "pages": [
+        "p077"
+      ],
+      "wrongCount": 0,
+      "errorRate": 0.0
+    },
+    {
+      "topic": "南方谈话",
+      "module": "史纲",
+      "count": 1,
+      "pages": [
+        "p079"
+      ],
+      "wrongCount": 0,
+      "errorRate": 0.0
+    },
+    {
+      "topic": "南昌起义的历史意义",
+      "module": "史纲",
+      "count": 1,
+      "pages": [
+        "p075"
+      ],
+      "wrongCount": 0,
+      "errorRate": 0.0
+    },
+    {
+      "topic": "反对本本主义",
+      "module": "史纲",
+      "count": 1,
+      "pages": [
+        "p078"
+      ],
+      "wrongCount": 0,
+      "errorRate": 0.0
+    },
+    {
+      "topic": "古田会议",
+      "module": "史纲",
+      "count": 1,
+      "pages": [
+        "p072"
+      ],
+      "wrongCount": 0,
+      "errorRate": 0.0
+    },
+    {
+      "topic": "国民党正面战场失败的主观原因",
+      "module": "史纲",
+      "count": 1,
+      "pages": [
+        "p071"
+      ],
+      "wrongCount": 0,
+      "errorRate": 0.0
+    },
+    {
+      "topic": "国民党陷入第二条战线包围的原因",
+      "module": "史纲",
+      "count": 1,
+      "pages": [
+        "p073"
+      ],
+      "wrongCount": 0,
+      "errorRate": 0.0
+    },
+    {
+      "topic": "土地改革",
+      "module": "史纲",
+      "count": 1,
+      "pages": [
+        "p082"
+      ],
+      "wrongCount": 0,
+      "errorRate": 0.0
+    },
+    {
+      "topic": "孙中山所说“失败之根源”",
+      "module": "史纲",
+      "count": 1,
+      "pages": [
+        "p073"
+      ],
+      "wrongCount": 0,
+      "errorRate": 0.0
+    },
+    {
+      "topic": "孙中山由改良转向革命",
+      "module": "史纲",
+      "count": 1,
+      "pages": [
+        "p071"
+      ],
+      "wrongCount": 0,
+      "errorRate": 0.0
+    },
+    {
+      "topic": "工农武装割据",
+      "module": "史纲",
+      "count": 1,
+      "pages": [
+        "p077"
+      ],
+      "wrongCount": 0,
+      "errorRate": 0.0
+    },
+    {
+      "topic": "帝国主义侵华目的",
+      "module": "史纲",
+      "count": 1,
+      "pages": [
+        "p070"
+      ],
+      "wrongCount": 0,
+      "errorRate": 0.0
+    },
+    {
+      "topic": "帝国主义侵略中国的最终目的",
+      "module": "史纲",
+      "count": 1,
+      "pages": [
+        "p073"
+      ],
+      "wrongCount": 0,
+      "errorRate": 0.0
+    },
+    {
+      "topic": "延安整风运动",
+      "module": "史纲",
+      "count": 1,
+      "pages": [
+        "p080"
+      ],
+      "wrongCount": 0,
+      "errorRate": 0.0
+    },
+    {
+      "topic": "建党初期群众路线",
+      "module": "史纲",
+      "count": 1,
+      "pages": [
+        "p077"
+      ],
+      "wrongCount": 0,
+      "errorRate": 0.0
+    },
+    {
+      "topic": "戊戌维新与洋务运动的不同点",
+      "module": "史纲",
+      "count": 1,
+      "pages": [
+        "p075"
+      ],
+      "wrongCount": 0,
+      "errorRate": 0.0
+    },
+    {
+      "topic": "抗战土地政策",
+      "module": "史纲",
+      "count": 1,
+      "pages": [
+        "p080"
+      ],
+      "wrongCount": 0,
+      "errorRate": 0.0
+    },
+    {
+      "topic": "抗日战争胜利的意义",
+      "module": "史纲",
+      "count": 1,
+      "pages": [
+        "p081"
+      ],
+      "wrongCount": 0,
+      "errorRate": 0.0
+    },
+    {
+      "topic": "新中国成立初期的外交",
+      "module": "史纲",
+      "count": 1,
+      "pages": [
+        "p069"
+      ],
+      "wrongCount": 0,
+      "errorRate": 0.0
+    },
+    {
+      "topic": "新文化运动的历史意义",
+      "module": "史纲",
+      "count": 1,
+      "pages": [
+        "p075"
+      ],
+      "wrongCount": 0,
+      "errorRate": 0.0
+    },
+    {
+      "topic": "新民主主义政权性质",
+      "module": "史纲",
+      "count": 1,
+      "pages": [
+        "p071"
+      ],
+      "wrongCount": 0,
+      "errorRate": 0.0
+    },
+    {
+      "topic": "李大钊《我的马克思主义观》",
+      "module": "史纲",
+      "count": 1,
+      "pages": [
+        "p071"
+      ],
+      "wrongCount": 0,
+      "errorRate": 0.0
+    },
+    {
+      "topic": "根据地土地政策修改的出发点",
+      "module": "史纲",
+      "count": 1,
+      "pages": [
+        "p074"
+      ],
+      "wrongCount": 0,
+      "errorRate": 0.0
+    },
+    {
+      "topic": "民主党派与中共合作",
+      "module": "史纲",
+      "count": 1,
+      "pages": [
+        "p071"
+      ],
+      "wrongCount": 0,
+      "errorRate": 0.0
+    },
+    {
+      "topic": "民主党派与政治协商",
+      "module": "史纲",
+      "count": 1,
+      "pages": [
+        "p078"
+      ],
+      "wrongCount": 0,
+      "errorRate": 0.0
+    },
+    {
+      "topic": "民族资本主义发展",
+      "module": "史纲",
+      "count": 1,
+      "pages": [
+        "p079"
+      ],
+      "wrongCount": 0,
+      "errorRate": 0.0
+    },
+    {
+      "topic": "洋务运动失败的根本原因",
+      "module": "史纲",
+      "count": 1,
+      "pages": [
+        "p071"
+      ],
+      "wrongCount": 0,
+      "errorRate": 0.0
+    },
+    {
+      "topic": "洋务运动失败的表明",
+      "module": "史纲",
+      "count": 1,
+      "pages": [
+        "p072"
+      ],
+      "wrongCount": 0,
+      "errorRate": 0.0
+    },
+    {
+      "topic": "洋务运动的性质",
+      "module": "史纲",
+      "count": 1,
+      "pages": [
+        "p073"
+      ],
+      "wrongCount": 0,
+      "errorRate": 0.0
+    },
+    {
+      "topic": "瓦窑堡会议",
+      "module": "史纲",
+      "count": 1,
+      "pages": [
+        "p072"
+      ],
+      "wrongCount": 0,
+      "errorRate": 0.0
+    },
+    {
+      "topic": "甲午战争对中国的影响",
+      "module": "史纲",
+      "count": 1,
+      "pages": [
+        "p081"
+      ],
+      "wrongCount": 0,
+      "errorRate": 0.0
+    },
+    {
+      "topic": "甲午战争惨败的影响",
+      "module": "史纲",
+      "count": 1,
+      "pages": [
+        "p075"
+      ],
+      "wrongCount": 0,
+      "errorRate": 0.0
+    },
+    {
+      "topic": "百团大战",
+      "module": "史纲",
+      "count": 1,
+      "pages": [
+        "p074"
+      ],
+      "wrongCount": 0,
+      "errorRate": 0.0
+    },
+    {
+      "topic": "社会主义改造",
+      "module": "史纲",
+      "count": 1,
+      "pages": [
+        "p078"
+      ],
+      "wrongCount": 0,
+      "errorRate": 0.0
+    },
+    {
+      "topic": "第一次世界大战与中国",
+      "module": "史纲",
+      "count": 1,
+      "pages": [
+        "p079"
+      ],
+      "wrongCount": 0,
+      "errorRate": 0.0
+    },
+    {
+      "topic": "第二条战线形成的原因",
+      "module": "史纲",
+      "count": 1,
+      "pages": [
+        "p071"
+      ],
+      "wrongCount": 0,
+      "errorRate": 0.0
+    },
+    {
+      "topic": "红色政权存在和发展的根本原因",
+      "module": "史纲",
+      "count": 1,
+      "pages": [
+        "p074"
+      ],
+      "wrongCount": 0,
+      "errorRate": 0.0
+    },
+    {
+      "topic": "维新派与守旧派论战",
+      "module": "史纲",
+      "count": 1,
+      "pages": [
+        "p071"
+      ],
+      "wrongCount": 0,
+      "errorRate": 0.0
+    },
+    {
+      "topic": "英法要求扩大在华权益",
+      "module": "史纲",
+      "count": 1,
+      "pages": [
+        "p073"
+      ],
+      "wrongCount": 0,
+      "errorRate": 0.0
+    },
+    {
+      "topic": "解放区土地改革政策",
+      "module": "史纲",
+      "count": 1,
+      "pages": [
+        "p072"
+      ],
+      "wrongCount": 0,
+      "errorRate": 0.0
+    },
+    {
+      "topic": "解放战争战略进攻的序幕",
+      "module": "史纲",
+      "count": 1,
+      "pages": [
+        "p074"
+      ],
+      "wrongCount": 0,
+      "errorRate": 0.0
+    },
+    {
+      "topic": "解放战争时期的土地政策",
+      "module": "史纲",
+      "count": 1,
+      "pages": [
+        "p070"
+      ],
+      "wrongCount": 0,
+      "errorRate": 0.0
+    },
+    {
+      "topic": "论持久战",
+      "module": "史纲",
+      "count": 1,
+      "pages": [
+        "p077"
+      ],
+      "wrongCount": 0,
+      "errorRate": 0.0
+    },
+    {
+      "topic": "资产阶级革命团体",
+      "module": "史纲",
+      "count": 1,
+      "pages": [
+        "p076"
+      ],
+      "wrongCount": 0,
+      "errorRate": 0.0
+    },
+    {
+      "topic": "辛亥革命为中共成立准备的条件",
+      "module": "史纲",
+      "count": 1,
+      "pages": [
+        "p072"
+      ],
+      "wrongCount": 0,
+      "errorRate": 0.0
+    },
+    {
+      "topic": "辛亥革命的历史评价",
+      "module": "史纲",
+      "count": 1,
+      "pages": [
+        "p071"
+      ],
+      "wrongCount": 0,
+      "errorRate": 0.0
+    },
+    {
+      "topic": "近代中国国情",
+      "module": "史纲",
+      "count": 1,
+      "pages": [
+        "p079"
+      ],
+      "wrongCount": 0,
+      "errorRate": 0.0
+    },
+    {
+      "topic": "近代思想演进的共同主题",
+      "module": "史纲",
+      "count": 1,
+      "pages": [
+        "p073"
+      ],
+      "wrongCount": 0,
+      "errorRate": 0.0
+    },
+    {
+      "topic": "革命派与改良派的根本不同",
+      "module": "史纲",
+      "count": 1,
+      "pages": [
+        "p071"
+      ],
+      "wrongCount": 0,
+      "errorRate": 0.0
+    },
+    {
+      "topic": "魏源与海国图志",
+      "module": "史纲",
+      "count": 1,
+      "pages": [
+        "p079"
+      ],
+      "wrongCount": 0,
+      "errorRate": 0.0
+    },
+    {
+      "topic": "中华民族精神",
+      "module": "思道法",
+      "count": 1,
+      "pages": [
+        "p086"
+      ],
+      "wrongCount": 0,
+      "errorRate": 0.0
+    },
+    {
+      "topic": "中国特色社会主义法治道路",
+      "module": "思道法",
+      "count": 1,
+      "pages": [
+        "p085"
+      ],
+      "wrongCount": 0,
+      "errorRate": 0.0
+    },
+    {
+      "topic": "中国革命道德",
+      "module": "思道法",
+      "count": 1,
+      "pages": [
+        "p084"
+      ],
+      "wrongCount": 0,
+      "errorRate": 0.0
+    },
+    {
+      "topic": "为人民服务",
+      "module": "思道法",
+      "count": 1,
+      "pages": [
+        "p084"
+      ],
+      "wrongCount": 0,
+      "errorRate": 0.0
+    },
+    {
+      "topic": "人格尊严权",
+      "module": "思道法",
+      "count": 1,
+      "pages": [
+        "p089"
+      ],
+      "wrongCount": 0,
+      "errorRate": 0.0
+    },
+    {
+      "topic": "人生目的",
+      "module": "思道法",
+      "count": 1,
+      "pages": [
+        "p083"
+      ],
+      "wrongCount": 0,
+      "errorRate": 0.0
+    },
+    {
+      "topic": "人生苦乐观",
+      "module": "思道法",
+      "count": 1,
+      "pages": [
+        "p086"
+      ],
+      "wrongCount": 0,
+      "errorRate": 0.0
+    },
+    {
+      "topic": "人生观",
+      "module": "思道法",
+      "count": 1,
+      "pages": [
+        "p083"
+      ],
+      "wrongCount": 0,
+      "errorRate": 0.0
+    },
+    {
+      "topic": "传统人伦道德",
+      "module": "思道法",
+      "count": 1,
+      "pages": [
+        "p086"
+      ],
+      "wrongCount": 0,
+      "errorRate": 0.0
+    },
+    {
+      "topic": "住宅安全权",
+      "module": "思道法",
+      "count": 1,
+      "pages": [
+        "p088"
+      ],
+      "wrongCount": 0,
+      "errorRate": 0.0
+    },
+    {
+      "topic": "信念的内涵与层次",
+      "module": "思道法",
+      "count": 1,
+      "pages": [
+        "p083"
+      ],
+      "wrongCount": 0,
+      "errorRate": 0.0
+    },
+    {
+      "topic": "党的领导与法治",
+      "module": "思道法",
+      "count": 1,
+      "pages": [
+        "p090"
+      ],
+      "wrongCount": 0,
+      "errorRate": 0.0
+    },
+    {
+      "topic": "公共生活价值",
+      "module": "思道法",
+      "count": 1,
+      "pages": [
+        "p090"
+      ],
+      "wrongCount": 0,
+      "errorRate": 0.0
+    },
+    {
+      "topic": "公序良俗",
+      "module": "思道法",
+      "count": 1,
+      "pages": [
+        "p089"
+      ],
+      "wrongCount": 0,
+      "errorRate": 0.0
+    },
+    {
+      "topic": "公正司法",
+      "module": "思道法",
+      "count": 1,
+      "pages": [
+        "p083"
+      ],
+      "wrongCount": 0,
+      "errorRate": 0.0
+    },
+    {
+      "topic": "公民道德建设",
+      "module": "思道法",
+      "count": 1,
+      "pages": [
+        "p089"
+      ],
+      "wrongCount": 0,
+      "errorRate": 0.0
+    },
+    {
+      "topic": "共同理想",
+      "module": "思道法",
+      "count": 1,
+      "pages": [
+        "p089"
+      ],
+      "wrongCount": 0,
+      "errorRate": 0.0
+    },
+    {
+      "topic": "司法",
+      "module": "思道法",
+      "count": 1,
+      "pages": [
+        "p090"
+      ],
+      "wrongCount": 0,
+      "errorRate": 0.0
+    },
+    {
+      "topic": "国家机构职权",
+      "module": "思道法",
+      "count": 1,
+      "pages": [
+        "p083"
+      ],
+      "wrongCount": 0,
+      "errorRate": 0.0
+    },
+    {
+      "topic": "宪法基本原则",
+      "module": "思道法",
+      "count": 1,
+      "pages": [
+        "p084"
+      ],
+      "wrongCount": 0,
+      "errorRate": 0.0
+    },
+    {
+      "topic": "平等法律属性",
+      "module": "思道法",
+      "count": 1,
+      "pages": [
+        "p087"
+      ],
+      "wrongCount": 0,
+      "errorRate": 0.0
+    },
+    {
+      "topic": "建党精神",
+      "module": "思道法",
+      "count": 1,
+      "pages": [
+        "p089"
+      ],
+      "wrongCount": 0,
+      "errorRate": 0.0
+    },
+    {
+      "topic": "新时代爱国主义",
+      "module": "思道法",
+      "count": 1,
+      "pages": [
+        "p086"
+      ],
+      "wrongCount": 0,
+      "errorRate": 0.0
+    },
+    {
+      "topic": "时代精神",
+      "module": "思道法",
+      "count": 1,
+      "pages": [
+        "p087"
+      ],
+      "wrongCount": 0,
+      "errorRate": 0.0
+    },
+    {
+      "topic": "权利义务关系",
+      "module": "思道法",
+      "count": 1,
+      "pages": [
+        "p088"
+      ],
+      "wrongCount": 0,
+      "errorRate": 0.0
+    },
+    {
+      "topic": "权利冲突",
+      "module": "思道法",
+      "count": 1,
+      "pages": [
+        "p090"
+      ],
+      "wrongCount": 0,
+      "errorRate": 0.0
+    },
+    {
+      "topic": "权利行使界限",
+      "module": "思道法",
+      "count": 1,
+      "pages": [
+        "p090"
+      ],
+      "wrongCount": 0,
+      "errorRate": 0.0
+    },
+    {
+      "topic": "权力与权利",
+      "module": "思道法",
+      "count": 1,
+      "pages": [
+        "p088"
+      ],
+      "wrongCount": 0,
+      "errorRate": 0.0
+    },
+    {
+      "topic": "核心价值观",
+      "module": "思道法",
+      "count": 1,
+      "pages": [
+        "p086"
+      ],
+      "wrongCount": 0,
+      "errorRate": 0.0
+    },
+    {
+      "topic": "法律制定",
+      "module": "思道法",
+      "count": 1,
+      "pages": [
+        "p086"
+      ],
+      "wrongCount": 0,
+      "errorRate": 0.0
+    },
+    {
+      "topic": "法律执行",
+      "module": "思道法",
+      "count": 1,
+      "pages": [
+        "p086"
+      ],
+      "wrongCount": 0,
+      "errorRate": 0.0
+    },
+    {
+      "topic": "法律文化",
+      "module": "思道法",
+      "count": 1,
+      "pages": [
+        "p085"
+      ],
+      "wrongCount": 0,
+      "errorRate": 0.0
+    },
+    {
+      "topic": "法律权威",
+      "module": "思道法",
+      "count": 1,
+      "pages": [
+        "p088"
+      ],
+      "wrongCount": 0,
+      "errorRate": 0.0
+    },
+    {
+      "topic": "法律的产生",
+      "module": "思道法",
+      "count": 1,
+      "pages": [
+        "p083"
+      ],
+      "wrongCount": 0,
+      "errorRate": 0.0
+    },
+    {
+      "topic": "法律至上",
+      "module": "思道法",
+      "count": 1,
+      "pages": [
+        "p084"
+      ],
+      "wrongCount": 0,
+      "errorRate": 0.0
+    },
+    {
+      "topic": "法治基本要求",
+      "module": "思道法",
+      "count": 1,
+      "pages": [
+        "p089"
+      ],
+      "wrongCount": 0,
+      "errorRate": 0.0
+    },
+    {
+      "topic": "法治实践",
+      "module": "思道法",
+      "count": 1,
+      "pages": [
+        "p090"
+      ],
+      "wrongCount": 0,
+      "errorRate": 0.0
+    },
+    {
+      "topic": "法治监督体系",
+      "module": "思道法",
+      "count": 1,
+      "pages": [
+        "p090"
+      ],
+      "wrongCount": 0,
+      "errorRate": 0.0
+    },
+    {
+      "topic": "职业道德",
+      "module": "思道法",
+      "count": 1,
+      "pages": [
+        "p089"
+      ],
+      "wrongCount": 0,
+      "errorRate": 0.0
+    },
+    {
+      "topic": "荣誉观",
+      "module": "思道法",
+      "count": 1,
+      "pages": [
+        "p089"
+      ],
+      "wrongCount": 0,
+      "errorRate": 0.0
+    },
+    {
+      "topic": "道德与市场经济",
+      "module": "思道法",
+      "count": 1,
+      "pages": [
+        "p087"
+      ],
+      "wrongCount": 0,
+      "errorRate": 0.0
+    },
+    {
+      "topic": "道德修养方法",
+      "module": "思道法",
+      "count": 1,
+      "pages": [
+        "p083"
+      ],
+      "wrongCount": 0,
+      "errorRate": 0.0
+    },
+    {
+      "topic": "道德建设",
+      "module": "思道法",
+      "count": 1,
+      "pages": [
+        "p086"
+      ],
+      "wrongCount": 0,
+      "errorRate": 0.0
+    },
+    {
+      "topic": "革命道德",
+      "module": "思道法",
+      "count": 1,
+      "pages": [
+        "p086"
+      ],
+      "wrongCount": 0,
+      "errorRate": 0.0
+    },
+    {
+      "topic": "马克思主义信仰",
+      "module": "思道法",
+      "count": 1,
+      "pages": [
+        "p087"
+      ],
+      "wrongCount": 0,
+      "errorRate": 0.0
+    },
+    {
+      "topic": "“卡脖子”技术问题的根子",
+      "module": "新思想",
+      "count": 1,
+      "pages": [
+        "p065"
+      ],
+      "wrongCount": 0,
+      "errorRate": 0.0
+    },
+    {
+      "topic": "“第二个结合”",
+      "module": "新思想",
+      "count": 1,
+      "pages": [
+        "p065"
+      ],
+      "wrongCount": 0,
+      "errorRate": 0.0
+    },
+    {
+      "topic": "一国两制与香港问题",
+      "module": "新思想",
+      "count": 1,
+      "pages": [
+        "p060"
+      ],
+      "wrongCount": 0,
+      "errorRate": 0.0
+    },
+    {
+      "topic": "一带一路",
+      "module": "新思想",
+      "count": 1,
+      "pages": [
+        "p057"
+      ],
+      "wrongCount": 0,
+      "errorRate": 0.0
+    },
+    {
+      "topic": "两岸关系行稳致远",
+      "module": "新思想",
+      "count": 1,
+      "pages": [
+        "p062"
+      ],
+      "wrongCount": 0,
+      "errorRate": 0.0
+    },
+    {
+      "topic": "中华文明的突出特性",
+      "module": "新思想",
+      "count": 1,
+      "pages": [
+        "p048"
+      ],
+      "wrongCount": 0,
+      "errorRate": 0.0
+    },
+    {
+      "topic": "中国共产党领导的多党合作和政治协商制度",
+      "module": "新思想",
+      "count": 1,
+      "pages": [
+        "p051"
+      ],
+      "wrongCount": 0,
+      "errorRate": 0.0
+    },
+    {
+      "topic": "中国制造迈向中国智造",
+      "module": "新思想",
+      "count": 1,
+      "pages": [
+        "p063"
+      ],
+      "wrongCount": 0,
+      "errorRate": 0.0
+    },
+    {
+      "topic": "中国式现代化",
+      "module": "新思想",
+      "count": 1,
+      "pages": [
+        "p049"
+      ],
+      "wrongCount": 0,
+      "errorRate": 0.0
+    },
+    {
+      "topic": "中国式现代化是全新的人类文明形态",
+      "module": "新思想",
+      "count": 1,
+      "pages": [
+        "p062"
+      ],
+      "wrongCount": 0,
+      "errorRate": 0.0
+    },
+    {
+      "topic": "中国式现代化的中国特色",
+      "module": "新思想",
+      "count": 1,
+      "pages": [
+        "p054"
+      ],
+      "wrongCount": 0,
+      "errorRate": 0.0
+    },
+    {
+      "topic": "乡村振兴战略",
+      "module": "新思想",
+      "count": 1,
+      "pages": [
+        "p061"
+      ],
+      "wrongCount": 0,
+      "errorRate": 0.0
+    },
+    {
+      "topic": "产业链供应链安全",
+      "module": "新思想",
+      "count": 1,
+      "pages": [
+        "p058"
+      ],
+      "wrongCount": 0,
+      "errorRate": 0.0
+    },
+    {
+      "topic": "人与自然和谐共生",
+      "module": "新思想",
+      "count": 1,
+      "pages": [
+        "p065"
+      ],
+      "wrongCount": 0,
+      "errorRate": 0.0
+    },
+    {
+      "topic": "人才强国",
+      "module": "新思想",
+      "count": 1,
+      "pages": [
+        "p059"
+      ],
+      "wrongCount": 0,
+      "errorRate": 0.0
+    },
+    {
+      "topic": "人民代表大会制度",
+      "module": "新思想",
+      "count": 1,
+      "pages": [
+        "p066"
+      ],
+      "wrongCount": 0,
+      "errorRate": 0.0
+    },
+    {
+      "topic": "人民代表大会制度是根本政治制度",
+      "module": "新思想",
+      "count": 1,
+      "pages": [
+        "p051"
+      ],
+      "wrongCount": 0,
+      "errorRate": 0.0
+    },
+    {
+      "topic": "人民代表大会制度的显著政治优势",
+      "module": "新思想",
+      "count": 1,
+      "pages": [
+        "p051"
+      ],
+      "wrongCount": 0,
+      "errorRate": 0.0
+    },
+    {
+      "topic": "供给侧结构性改革",
+      "module": "新思想",
+      "count": 1,
+      "pages": [
+        "p054"
+      ],
+      "wrongCount": 0,
+      "errorRate": 0.0
+    },
+    {
+      "topic": "健全党的全面领导制度",
+      "module": "新思想",
+      "count": 1,
+      "pages": [
+        "p065"
+      ],
+      "wrongCount": 0,
+      "errorRate": 0.0
+    },
+    {
+      "topic": "党史重大成就",
+      "module": "新思想",
+      "count": 1,
+      "pages": [
+        "p064"
+      ],
+      "wrongCount": 0,
+      "errorRate": 0.0
+    },
+    {
+      "topic": "党的二十届三中全会目标",
+      "module": "新思想",
+      "count": 1,
+      "pages": [
+        "p065"
+      ],
+      "wrongCount": 0,
+      "errorRate": 0.0
+    },
+    {
+      "topic": "党的作风建设",
+      "module": "新思想",
+      "count": 1,
+      "pages": [
+        "p055"
+      ],
+      "wrongCount": 0,
+      "errorRate": 0.0
+    },
+    {
+      "topic": "党的领导",
+      "module": "新思想",
+      "count": 1,
+      "pages": [
+        "p058"
+      ],
+      "wrongCount": 0,
+      "errorRate": 0.0
+    },
+    {
+      "topic": "党的领导与依法治国",
+      "module": "新思想",
+      "count": 1,
+      "pages": [
+        "p060"
+      ],
+      "wrongCount": 0,
+      "errorRate": 0.0
+    },
+    {
+      "topic": "全球治理",
+      "module": "新思想",
+      "count": 1,
+      "pages": [
+        "p060"
+      ],
+      "wrongCount": 0,
+      "errorRate": 0.0
+    },
+    {
+      "topic": "全过程人民民主",
+      "module": "新思想",
+      "count": 1,
+      "pages": [
+        "p056"
+      ],
+      "wrongCount": 0,
+      "errorRate": 0.0
+    },
+    {
+      "topic": "全面加强练兵备战",
+      "module": "新思想",
+      "count": 1,
+      "pages": [
+        "p053"
+      ],
+      "wrongCount": 0,
+      "errorRate": 0.0
+    },
+    {
+      "topic": "全面提高对外开放水平",
+      "module": "新思想",
+      "count": 1,
+      "pages": [
+        "p062"
+      ],
+      "wrongCount": 0,
+      "errorRate": 0.0
+    },
+    {
+      "topic": "公有制与私有制的区别",
+      "module": "新思想",
+      "count": 1,
+      "pages": [
+        "p054"
+      ],
+      "wrongCount": 0,
+      "errorRate": 0.0
+    },
+    {
+      "topic": "公益性文化事业",
+      "module": "新思想",
+      "count": 1,
+      "pages": [
+        "p057"
+      ],
+      "wrongCount": 0,
+      "errorRate": 0.0
+    },
+    {
+      "topic": "共建“一带一路”",
+      "module": "新思想",
+      "count": 1,
+      "pages": [
+        "p053"
+      ],
+      "wrongCount": 0,
+      "errorRate": 0.0
+    },
+    {
+      "topic": "创新驱动发展",
+      "module": "新思想",
+      "count": 1,
+      "pages": [
+        "p059"
+      ],
+      "wrongCount": 0,
+      "errorRate": 0.0
+    },
+    {
+      "topic": "制造业提质升级",
+      "module": "新思想",
+      "count": 1,
+      "pages": [
+        "p063"
+      ],
+      "wrongCount": 0,
+      "errorRate": 0.0
+    },
+    {
+      "topic": "区域协调发展",
+      "module": "新思想",
+      "count": 1,
+      "pages": [
+        "p058"
+      ],
+      "wrongCount": 0,
+      "errorRate": 0.0
+    },
+    {
+      "topic": "十四五发展成就",
+      "module": "新思想",
+      "count": 1,
+      "pages": [
+        "p058"
+      ],
+      "wrongCount": 0,
+      "errorRate": 0.0
+    },
+    {
+      "topic": "发展新质生产力的主阵地",
+      "module": "新思想",
+      "count": 1,
+      "pages": [
+        "p050"
+      ],
+      "wrongCount": 0,
+      "errorRate": 0.0
+    },
+    {
+      "topic": "发展新质生产力的基本路径",
+      "module": "新思想",
+      "count": 1,
+      "pages": [
+        "p048"
+      ],
+      "wrongCount": 0,
+      "errorRate": 0.0
+    },
+    {
+      "topic": "发展混合所有制经济",
+      "module": "新思想",
+      "count": 1,
+      "pages": [
+        "p063"
+      ],
+      "wrongCount": 0,
+      "errorRate": 0.0
+    },
+    {
+      "topic": "国家治理体系和治理能力",
+      "module": "新思想",
+      "count": 1,
+      "pages": [
+        "p059"
+      ],
+      "wrongCount": 0,
+      "errorRate": 0.0
+    },
+    {
+      "topic": "国家治理体系和治理能力现代化",
+      "module": "新思想",
+      "count": 1,
+      "pages": [
+        "p055"
+      ],
+      "wrongCount": 0,
+      "errorRate": 0.0
+    },
+    {
+      "topic": "国有企业技能人才薪酬分配改革",
+      "module": "新思想",
+      "count": 1,
+      "pages": [
+        "p048"
+      ],
+      "wrongCount": 0,
+      "errorRate": 0.0
+    },
+    {
+      "topic": "国有经济与基本经济制度",
+      "module": "新思想",
+      "count": 1,
+      "pages": [
+        "p058"
+      ],
+      "wrongCount": 0,
+      "errorRate": 0.0
+    },
+    {
+      "topic": "国有资本布局优化",
+      "module": "新思想",
+      "count": 1,
+      "pages": [
+        "p056"
+      ],
+      "wrongCount": 0,
+      "errorRate": 0.0
+    },
+    {
+      "topic": "坚定“四个自信”",
+      "module": "新思想",
+      "count": 1,
+      "pages": [
+        "p064"
+      ],
+      "wrongCount": 0,
+      "errorRate": 0.0
+    },
+    {
+      "topic": "坚持以人民为中心",
+      "module": "新思想",
+      "count": 1,
+      "pages": [
+        "p058"
+      ],
+      "wrongCount": 0,
+      "errorRate": 0.0
+    },
+    {
+      "topic": "城乡融合发展",
+      "module": "新思想",
+      "count": 1,
+      "pages": [
+        "p051"
+      ],
+      "wrongCount": 0,
+      "errorRate": 0.0
+    },
+    {
+      "topic": "基层治理",
+      "module": "新思想",
+      "count": 1,
+      "pages": [
+        "p058"
+      ],
+      "wrongCount": 0,
+      "errorRate": 0.0
+    },
+    {
+      "topic": "基本经济制度与所有制",
+      "module": "新思想",
+      "count": 1,
+      "pages": [
+        "p056"
+      ],
+      "wrongCount": 0,
+      "errorRate": 0.0
+    },
+    {
+      "topic": "实施就业优先战略",
+      "module": "新思想",
+      "count": 1,
+      "pages": [
+        "p063"
+      ],
+      "wrongCount": 0,
+      "errorRate": 0.0
+    },
+    {
+      "topic": "实现共同富裕",
+      "module": "新思想",
+      "count": 1,
+      "pages": [
+        "p049"
+      ],
+      "wrongCount": 0,
+      "errorRate": 0.0
+    },
+    {
+      "topic": "对外开放基本国策",
+      "module": "新思想",
+      "count": 1,
+      "pages": [
+        "p049"
+      ],
+      "wrongCount": 0,
+      "errorRate": 0.0
+    },
+    {
+      "topic": "巩固和发展爱国统一战线",
+      "module": "新思想",
+      "count": 1,
+      "pages": [
+        "p063"
+      ],
+      "wrongCount": 0,
+      "errorRate": 0.0
+    },
+    {
+      "topic": "建设人才强国",
+      "module": "新思想",
+      "count": 1,
+      "pages": [
+        "p063"
+      ],
+      "wrongCount": 0,
+      "errorRate": 0.0
+    },
+    {
+      "topic": "意识形态工作",
+      "module": "新思想",
+      "count": 1,
+      "pages": [
+        "p061"
+      ],
+      "wrongCount": 0,
+      "errorRate": 0.0
+    },
+    {
+      "topic": "意识形态工作的主阵地",
+      "module": "新思想",
+      "count": 1,
+      "pages": [
+        "p065"
+      ],
+      "wrongCount": 0,
+      "errorRate": 0.0
+    },
+    {
+      "topic": "我国宗教政策",
+      "module": "新思想",
+      "count": 1,
+      "pages": [
+        "p063"
+      ],
+      "wrongCount": 0,
+      "errorRate": 0.0
+    },
+    {
+      "topic": "扩大对外开放的举措",
+      "module": "新思想",
+      "count": 1,
+      "pages": [
+        "p050"
+      ],
+      "wrongCount": 0,
+      "errorRate": 0.0
+    },
+    {
+      "topic": "按劳分配的理论依据",
+      "module": "新思想",
+      "count": 1,
+      "pages": [
+        "p050"
+      ],
+      "wrongCount": 0,
+      "errorRate": 0.0
+    },
+    {
+      "topic": "政治安全",
+      "module": "新思想",
+      "count": 1,
+      "pages": [
+        "p060"
+      ],
+      "wrongCount": 0,
+      "errorRate": 0.0
+    },
+    {
+      "topic": "教育的根本任务",
+      "module": "新思想",
+      "count": 1,
+      "pages": [
+        "p054"
+      ],
+      "wrongCount": 0,
+      "errorRate": 0.0
+    },
+    {
+      "topic": "数字中国",
+      "module": "新思想",
+      "count": 1,
+      "pages": [
+        "p059"
+      ],
+      "wrongCount": 0,
+      "errorRate": 0.0
+    },
+    {
+      "topic": "文化强国与文化贸易",
+      "module": "新思想",
+      "count": 1,
+      "pages": [
+        "p067"
+      ],
+      "wrongCount": 0,
+      "errorRate": 0.0
+    },
+    {
+      "topic": "新发展理念",
+      "module": "新思想",
+      "count": 1,
+      "pages": [
+        "p059"
+      ],
+      "wrongCount": 0,
+      "errorRate": 0.0
+    },
+    {
+      "topic": "新型政党制度",
+      "module": "新思想",
+      "count": 1,
+      "pages": [
+        "p056"
+      ],
+      "wrongCount": 0,
+      "errorRate": 0.0
+    },
+    {
+      "topic": "新质生产力",
+      "module": "新思想",
+      "count": 1,
+      "pages": [
+        "p056"
+      ],
+      "wrongCount": 0,
+      "errorRate": 0.0
+    },
+    {
+      "topic": "更好发挥政府作用",
+      "module": "新思想",
+      "count": 1,
+      "pages": [
+        "p063"
+      ],
+      "wrongCount": 0,
+      "errorRate": 0.0
+    },
+    {
+      "topic": "服务贸易",
+      "module": "新思想",
+      "count": 1,
+      "pages": [
+        "p062"
+      ],
+      "wrongCount": 0,
+      "errorRate": 0.0
+    },
+    {
+      "topic": "构建高水平社会主义市场经济体制",
+      "module": "新思想",
+      "count": 1,
+      "pages": [
+        "p056"
+      ],
+      "wrongCount": 0,
+      "errorRate": 0.0
+    },
+    {
+      "topic": "民族区域自治制度",
+      "module": "新思想",
+      "count": 1,
+      "pages": [
+        "p059"
+      ],
+      "wrongCount": 0,
+      "errorRate": 0.0
+    },
+    {
+      "topic": "民族团结与边疆稳定",
+      "module": "新思想",
+      "count": 1,
+      "pages": [
+        "p051"
+      ],
+      "wrongCount": 0,
+      "errorRate": 0.0
+    },
+    {
+      "topic": "深圳中国特色社会主义先行示范区",
+      "module": "新思想",
+      "count": 1,
+      "pages": [
+        "p055"
+      ],
+      "wrongCount": 0,
+      "errorRate": 0.0
+    },
+    {
+      "topic": "混合所有制经济",
+      "module": "新思想",
+      "count": 1,
+      "pages": [
+        "p059"
+      ],
+      "wrongCount": 0,
+      "errorRate": 0.0
+    },
+    {
+      "topic": "环境治理攻坚战",
+      "module": "新思想",
+      "count": 1,
+      "pages": [
+        "p057"
+      ],
+      "wrongCount": 0,
+      "errorRate": 0.0
+    },
+    {
+      "topic": "生态保护红线与环境质量底线",
+      "module": "新思想",
+      "count": 1,
+      "pages": [
+        "p052"
+      ],
+      "wrongCount": 0,
+      "errorRate": 0.0
+    },
+    {
+      "topic": "生态环境问题的根源",
+      "module": "新思想",
+      "count": 1,
+      "pages": [
+        "p055"
+      ],
+      "wrongCount": 0,
+      "errorRate": 0.0
+    },
+    {
+      "topic": "社会主义精神文明建设",
+      "module": "新思想",
+      "count": 1,
+      "pages": [
+        "p052"
+      ],
+      "wrongCount": 0,
+      "errorRate": 0.0
+    },
+    {
+      "topic": "社会主要矛盾与社会主义初级阶段",
+      "module": "新思想",
+      "count": 1,
+      "pages": [
+        "p055"
+      ],
+      "wrongCount": 0,
+      "errorRate": 0.0
+    },
+    {
+      "topic": "社会保障体系",
+      "module": "新思想",
+      "count": 1,
+      "pages": [
+        "p056"
+      ],
+      "wrongCount": 0,
+      "errorRate": 0.0
+    },
+    {
+      "topic": "社会保障体系建设",
+      "module": "新思想",
+      "count": 1,
+      "pages": [
+        "p052"
+      ],
+      "wrongCount": 0,
+      "errorRate": 0.0
+    },
+    {
+      "topic": "社会组织党建与社会治理",
+      "module": "新思想",
+      "count": 1,
+      "pages": [
+        "p057"
+      ],
+      "wrongCount": 0,
+      "errorRate": 0.0
+    },
+    {
+      "topic": "科技创新与新质生产力",
+      "module": "新思想",
+      "count": 1,
+      "pages": [
+        "p063"
+      ],
+      "wrongCount": 0,
+      "errorRate": 0.0
+    },
+    {
+      "topic": "简政放权与政府职能转变",
+      "module": "新思想",
+      "count": 1,
+      "pages": [
+        "p052"
+      ],
+      "wrongCount": 0,
+      "errorRate": 0.0
+    },
+    {
+      "topic": "精神文明建设",
+      "module": "新思想",
+      "count": 1,
+      "pages": [
+        "p063"
+      ],
+      "wrongCount": 0,
+      "errorRate": 0.0
+    },
+    {
+      "topic": "经济快速发展和社会长期稳定两大奇迹",
+      "module": "新思想",
+      "count": 1,
+      "pages": [
+        "p061"
+      ],
+      "wrongCount": 0,
+      "errorRate": 0.0
+    },
+    {
+      "topic": "统筹发展和安全",
+      "module": "新思想",
+      "count": 1,
+      "pages": [
+        "p064"
+      ],
+      "wrongCount": 0,
+      "errorRate": 0.0
+    },
+    {
+      "topic": "绿水青山就是金山银山",
+      "module": "新思想",
+      "count": 1,
+      "pages": [
+        "p063"
+      ],
+      "wrongCount": 0,
+      "errorRate": 0.0
+    },
+    {
+      "topic": "西部大开发与区域协调发展",
+      "module": "新思想",
+      "count": 1,
+      "pages": [
+        "p050"
+      ],
+      "wrongCount": 0,
+      "errorRate": 0.0
+    },
+    {
+      "topic": "资本规范健康发展",
+      "module": "新思想",
+      "count": 1,
+      "pages": [
+        "p066"
+      ],
+      "wrongCount": 0,
+      "errorRate": 0.0
+    },
+    {
+      "topic": "进一步全面深化改革的牵引",
+      "module": "新思想",
+      "count": 1,
+      "pages": [
+        "p065"
+      ],
+      "wrongCount": 0,
+      "errorRate": 0.0
+    },
+    {
+      "topic": "非公有制经济",
+      "module": "新思想",
+      "count": 1,
+      "pages": [
+        "p062"
+      ],
+      "wrongCount": 0,
+      "errorRate": 0.0
+    },
+    {
+      "topic": "非公有制经济“两个毫不动摇”",
+      "module": "新思想",
+      "count": 1,
+      "pages": [
+        "p065"
+      ],
+      "wrongCount": 0,
+      "errorRate": 0.0
+    },
+    {
+      "topic": "非公有制经济的地位",
+      "module": "新思想",
+      "count": 1,
+      "pages": [
+        "p048"
+      ],
+      "wrongCount": 0,
+      "errorRate": 0.0
+    },
+    {
+      "topic": "香港特别行政区高度自治权",
+      "module": "新思想",
+      "count": 1,
+      "pages": [
+        "p065"
+      ],
+      "wrongCount": 0,
+      "errorRate": 0.0
+    },
+    {
+      "topic": "高技术制造业与科技创新",
+      "module": "新思想",
+      "count": 1,
+      "pages": [
+        "p062"
+      ],
+      "wrongCount": 0,
+      "errorRate": 0.0
+    },
+    {
+      "topic": "高水平对外开放与外贸",
+      "module": "新思想",
+      "count": 1,
+      "pages": [
+        "p065"
+      ],
+      "wrongCount": 0,
+      "errorRate": 0.0
+    },
+    {
+      "topic": "一国两制与中央全面管治权",
+      "module": "毛中特",
+      "count": 1,
+      "pages": [
+        "p044"
+      ],
+      "wrongCount": 0,
+      "errorRate": 0.0
+    },
+    {
+      "topic": "一次革命论与二次革命论",
+      "module": "毛中特",
+      "count": 1,
+      "pages": [
+        "p036"
+      ],
+      "wrongCount": 0,
+      "errorRate": 0.0
+    },
+    {
+      "topic": "中国工业化道路",
+      "module": "毛中特",
+      "count": 1,
+      "pages": [
+        "p037"
+      ],
+      "wrongCount": 0,
+      "errorRate": 0.0
+    },
+    {
+      "topic": "中国革命分两步走",
+      "module": "毛中特",
+      "count": 1,
+      "pages": [
+        "p036"
+      ],
+      "wrongCount": 0,
+      "errorRate": 0.0
+    },
+    {
+      "topic": "党对军队绝对领导",
+      "module": "毛中特",
+      "count": 1,
+      "pages": [
+        "p036"
+      ],
+      "wrongCount": 0,
+      "errorRate": 0.0
+    },
+    {
+      "topic": "党的八大与主要矛盾",
+      "module": "毛中特",
+      "count": 1,
+      "pages": [
+        "p043"
+      ],
+      "wrongCount": 0,
+      "errorRate": 0.0
+    },
+    {
+      "topic": "公有制主体地位",
+      "module": "毛中特",
+      "count": 1,
+      "pages": [
+        "p037"
+      ],
+      "wrongCount": 0,
+      "errorRate": 0.0
+    },
+    {
+      "topic": "实现党的领导权的条件",
+      "module": "毛中特",
+      "count": 1,
+      "pages": [
+        "p046"
+      ],
+      "wrongCount": 0,
+      "errorRate": 0.0
+    },
+    {
+      "topic": "市场与政府的辩证关系",
+      "module": "毛中特",
+      "count": 1,
+      "pages": [
+        "p044"
+      ],
+      "wrongCount": 0,
+      "errorRate": 0.0
+    },
+    {
+      "topic": "思想建党",
+      "module": "毛中特",
+      "count": 1,
+      "pages": [
+        "p039"
+      ],
+      "wrongCount": 0,
+      "errorRate": 0.0
+    },
+    {
+      "topic": "改革两条根本原则",
+      "module": "毛中特",
+      "count": 1,
+      "pages": [
+        "p037"
+      ],
+      "wrongCount": 0,
+      "errorRate": 0.0
+    },
+    {
+      "topic": "改革开放的意义",
+      "module": "毛中特",
+      "count": 1,
+      "pages": [
+        "p047"
+      ],
+      "wrongCount": 0,
+      "errorRate": 0.0
+    },
+    {
+      "topic": "改革是中国的第二次革命",
+      "module": "毛中特",
+      "count": 1,
+      "pages": [
+        "p044"
+      ],
+      "wrongCount": 0,
+      "errorRate": 0.0
+    },
+    {
+      "topic": "改革的实质目标",
+      "module": "毛中特",
+      "count": 1,
+      "pages": [
+        "p038"
+      ],
+      "wrongCount": 0,
+      "errorRate": 0.0
+    },
+    {
+      "topic": "新民主主义社会过渡性",
+      "module": "毛中特",
+      "count": 1,
+      "pages": [
+        "p040"
+      ],
+      "wrongCount": 0,
+      "errorRate": 0.0
+    },
+    {
+      "topic": "新民主主义经济纲领",
+      "module": "毛中特",
+      "count": 1,
+      "pages": [
+        "p045"
+      ],
+      "wrongCount": 0,
+      "errorRate": 0.0
+    },
+    {
+      "topic": "新民主主义革命三大法宝·统一战线",
+      "module": "毛中特",
+      "count": 1,
+      "pages": [
+        "p042"
+      ],
+      "wrongCount": 0,
+      "errorRate": 0.0
+    },
+    {
+      "topic": "新民主主义革命对象",
+      "module": "毛中特",
+      "count": 1,
+      "pages": [
+        "p039"
+      ],
+      "wrongCount": 0,
+      "errorRate": 0.0
+    },
+    {
+      "topic": "新民主主义革命性质",
+      "module": "毛中特",
+      "count": 1,
+      "pages": [
+        "p039"
+      ],
+      "wrongCount": 0,
+      "errorRate": 0.0
+    },
+    {
+      "topic": "毛泽东思想的历史地位",
+      "module": "毛中特",
+      "count": 1,
+      "pages": [
+        "p042"
+      ],
+      "wrongCount": 0,
+      "errorRate": 0.0
+    },
+    {
+      "topic": "社会主义初级阶段基本路线",
+      "module": "毛中特",
+      "count": 1,
+      "pages": [
+        "p041"
+      ],
+      "wrongCount": 0,
+      "errorRate": 0.0
+    },
+    {
+      "topic": "社会主义制度确立",
+      "module": "毛中特",
+      "count": 1,
+      "pages": [
+        "p040"
+      ],
+      "wrongCount": 0,
+      "errorRate": 0.0
+    },
+    {
+      "topic": "社会主义发展阶段",
+      "module": "毛中特",
+      "count": 1,
+      "pages": [
+        "p043"
+      ],
+      "wrongCount": 0,
+      "errorRate": 0.0
+    },
+    {
+      "topic": "社会主义基本经济制度的基本依据",
+      "module": "毛中特",
+      "count": 1,
+      "pages": [
+        "p047"
+      ],
+      "wrongCount": 0,
+      "errorRate": 0.0
+    },
+    {
+      "topic": "社会主义市场经济的基本特征",
+      "module": "毛中特",
+      "count": 1,
+      "pages": [
+        "p047"
+      ],
+      "wrongCount": 0,
+      "errorRate": 0.0
+    },
+    {
+      "topic": "社会主义改造的目的",
+      "module": "毛中特",
+      "count": 1,
+      "pages": [
+        "p046"
+      ],
+      "wrongCount": 0,
+      "errorRate": 0.0
+    },
+    {
+      "topic": "社会主义时期民族问题的实质",
+      "module": "毛中特",
+      "count": 1,
+      "pages": [
+        "p046"
+      ],
+      "wrongCount": 0,
+      "errorRate": 0.0
+    },
+    {
+      "topic": "社会主义本质",
+      "module": "毛中特",
+      "count": 1,
+      "pages": [
+        "p037"
+      ],
+      "wrongCount": 0,
+      "errorRate": 0.0
+    },
+    {
+      "topic": "社会主义本质区别",
+      "module": "毛中特",
+      "count": 1,
+      "pages": [
+        "p038"
+      ],
+      "wrongCount": 0,
+      "errorRate": 0.0
+    },
+    {
+      "topic": "解放思想",
+      "module": "毛中特",
+      "count": 1,
+      "pages": [
+        "p038"
+      ],
+      "wrongCount": 0,
+      "errorRate": 0.0
+    },
+    {
+      "topic": "计划与市场关系",
+      "module": "毛中特",
+      "count": 1,
+      "pages": [
+        "p038"
+      ],
+      "wrongCount": 0,
+      "errorRate": 0.0
+    },
+    {
+      "topic": "论十大关系",
+      "module": "毛中特",
+      "count": 1,
+      "pages": [
+        "p040"
+      ],
+      "wrongCount": 0,
+      "errorRate": 0.0
+    },
+    {
+      "topic": "邓小平理论形成",
+      "module": "毛中特",
+      "count": 1,
+      "pages": [
+        "p040"
+      ],
+      "wrongCount": 0,
+      "errorRate": 0.0
+    },
+    {
+      "topic": "邓小平的历史功勋",
+      "module": "毛中特",
+      "count": 1,
+      "pages": [
+        "p041"
+      ],
+      "wrongCount": 0,
+      "errorRate": 0.0
+    },
+    {
+      "topic": "革命统一战线",
+      "module": "毛中特",
+      "count": 1,
+      "pages": [
+        "p039"
+      ],
+      "wrongCount": 0,
+      "errorRate": 0.0
+    },
+    {
+      "topic": "一切从实际出发",
+      "module": "马原",
+      "count": 1,
+      "pages": [
+        "p007"
+      ],
+      "wrongCount": 0,
+      "errorRate": 0.0
+    },
+    {
+      "topic": "不变资本与流动资本",
+      "module": "马原",
+      "count": 1,
+      "pages": [
+        "p034"
+      ],
+      "wrongCount": 0,
+      "errorRate": 0.0
+    },
+    {
+      "topic": "世界历史发展规律",
+      "module": "马原",
+      "count": 1,
+      "pages": [
+        "p010"
+      ],
+      "wrongCount": 0,
+      "errorRate": 0.0
+    },
+    {
+      "topic": "世界的物质统一性",
+      "module": "马原",
+      "count": 1,
+      "pages": [
+        "p032"
+      ],
+      "wrongCount": 0,
+      "errorRate": 0.0
+    },
+    {
+      "topic": "两个必然",
+      "module": "马原",
+      "count": 1,
+      "pages": [
+        "p023"
+      ],
+      "wrongCount": 0,
+      "errorRate": 0.0
+    },
+    {
+      "topic": "个别劳动时间与社会必要劳动时间",
+      "module": "马原",
+      "count": 1,
+      "pages": [
+        "p031"
+      ],
+      "wrongCount": 0,
+      "errorRate": 0.0
+    },
+    {
+      "topic": "主观世界与客观世界",
+      "module": "马原",
+      "count": 1,
+      "pages": [
+        "p007"
+      ],
+      "wrongCount": 0,
+      "errorRate": 0.0
+    },
+    {
+      "topic": "主观唯心主义",
+      "module": "马原",
+      "count": 1,
+      "pages": [
+        "p001"
+      ],
+      "wrongCount": 0,
+      "errorRate": 0.0
+    },
+    {
+      "topic": "主观能动性与客观规律的辩证关系",
+      "module": "马原",
+      "count": 1,
+      "pages": [
+        "p013"
+      ],
+      "wrongCount": 0,
+      "errorRate": 0.0
+    },
+    {
+      "topic": "事物发展的过程性",
+      "module": "马原",
+      "count": 1,
+      "pages": [
+        "p016"
+      ],
+      "wrongCount": 0,
+      "errorRate": 0.0
+    },
+    {
+      "topic": "事物的普遍联系",
+      "module": "马原",
+      "count": 1,
+      "pages": [
+        "p001"
+      ],
+      "wrongCount": 0,
+      "errorRate": 0.0
+    },
+    {
+      "topic": "人与自然的关系",
+      "module": "马原",
+      "count": 1,
+      "pages": [
+        "p030"
+      ],
+      "wrongCount": 0,
+      "errorRate": 0.0
+    },
+    {
+      "topic": "人工智能与人类智能",
+      "module": "马原",
+      "count": 1,
+      "pages": [
+        "p027"
+      ],
+      "wrongCount": 0,
+      "errorRate": 0.0
+    },
+    {
+      "topic": "价值形式的发展",
+      "module": "马原",
+      "count": 1,
+      "pages": [
+        "p009"
+      ],
+      "wrongCount": 0,
+      "errorRate": 0.0
+    },
+    {
+      "topic": "价值的多维性",
+      "module": "马原",
+      "count": 1,
+      "pages": [
+        "p008"
+      ],
+      "wrongCount": 0,
+      "errorRate": 0.0
+    },
+    {
+      "topic": "价值的特性",
+      "module": "马原",
+      "count": 1,
+      "pages": [
+        "p003"
+      ],
+      "wrongCount": 0,
+      "errorRate": 0.0
+    },
+    {
+      "topic": "价值规律",
+      "module": "马原",
+      "count": 1,
+      "pages": [
+        "p023"
+      ],
+      "wrongCount": 0,
+      "errorRate": 0.0
+    },
+    {
+      "topic": "价值评价",
+      "module": "马原",
+      "count": 1,
+      "pages": [
+        "p033"
+      ],
+      "wrongCount": 0,
+      "errorRate": 0.0
+    },
+    {
+      "topic": "共产主义社会特征",
+      "module": "马原",
+      "count": 1,
+      "pages": [
+        "p009"
+      ],
+      "wrongCount": 0,
+      "errorRate": 0.0
+    },
+    {
+      "topic": "共性和个性",
+      "module": "马原",
+      "count": 1,
+      "pages": [
+        "p025"
+      ],
+      "wrongCount": 0,
+      "errorRate": 0.0
+    },
+    {
+      "topic": "内容与形式的辩证统一",
+      "module": "马原",
+      "count": 1,
+      "pages": [
+        "p030"
+      ],
+      "wrongCount": 0,
+      "errorRate": 0.0
+    },
+    {
+      "topic": "列宁的物质定义",
+      "module": "马原",
+      "count": 1,
+      "pages": [
+        "p015"
+      ],
+      "wrongCount": 0,
+      "errorRate": 0.0
+    },
+    {
+      "topic": "利润率平均化",
+      "module": "马原",
+      "count": 1,
+      "pages": [
+        "p034"
+      ],
+      "wrongCount": 0,
+      "errorRate": 0.0
+    },
+    {
+      "topic": "剩余价值与利润的关系",
+      "module": "马原",
+      "count": 1,
+      "pages": [
+        "p015"
+      ],
+      "wrongCount": 0,
+      "errorRate": 0.0
+    },
+    {
+      "topic": "劳动二重性",
+      "module": "马原",
+      "count": 1,
+      "pages": [
+        "p005"
+      ],
+      "wrongCount": 0,
+      "errorRate": 0.0
+    },
+    {
+      "topic": "劳动力使用价值的特殊性",
+      "module": "马原",
+      "count": 1,
+      "pages": [
+        "p003"
+      ],
+      "wrongCount": 0,
+      "errorRate": 0.0
+    },
+    {
+      "topic": "劳动力商品",
+      "module": "马原",
+      "count": 1,
+      "pages": [
+        "p031"
+      ],
+      "wrongCount": 0,
+      "errorRate": 0.0
+    },
+    {
+      "topic": "历史人物的作用",
+      "module": "马原",
+      "count": 1,
+      "pages": [
+        "p034"
+      ],
+      "wrongCount": 0,
+      "errorRate": 0.0
+    },
+    {
+      "topic": "历史规律与主体选择",
+      "module": "马原",
+      "count": 1,
+      "pages": [
+        "p002"
+      ],
+      "wrongCount": 0,
+      "errorRate": 0.0
+    },
+    {
+      "topic": "否定之否定",
+      "module": "马原",
+      "count": 1,
+      "pages": [
+        "p019"
+      ],
+      "wrongCount": 0,
+      "errorRate": 0.0
+    },
+    {
+      "topic": "唯心主义先验论",
+      "module": "马原",
+      "count": 1,
+      "pages": [
+        "p008"
+      ],
+      "wrongCount": 0,
+      "errorRate": 0.0
+    },
+    {
+      "topic": "唯物史观",
+      "module": "马原",
+      "count": 1,
+      "pages": [
+        "p010"
+      ],
+      "wrongCount": 0,
+      "errorRate": 0.0
+    },
+    {
+      "topic": "商品",
+      "module": "马原",
+      "count": 1,
+      "pages": [
+        "p023"
+      ],
+      "wrongCount": 0,
+      "errorRate": 0.0
+    },
+    {
+      "topic": "商品价值与商品交换",
+      "module": "马原",
+      "count": 1,
+      "pages": [
+        "p026"
+      ],
+      "wrongCount": 0,
+      "errorRate": 0.0
+    },
+    {
+      "topic": "商品价值量与劳动生产率",
+      "module": "马原",
+      "count": 1,
+      "pages": [
+        "p020"
+      ],
+      "wrongCount": 0,
+      "errorRate": 0.0
+    },
+    {
+      "topic": "商品拜物教",
+      "module": "马原",
+      "count": 1,
+      "pages": [
+        "p011"
+      ],
+      "wrongCount": 0,
+      "errorRate": 0.0
+    },
+    {
+      "topic": "国家垄断资本主义",
+      "module": "马原",
+      "count": 1,
+      "pages": [
+        "p021"
+      ],
+      "wrongCount": 0,
+      "errorRate": 0.0
+    },
+    {
+      "topic": "国家的起源与本质",
+      "module": "马原",
+      "count": 1,
+      "pages": [
+        "p016"
+      ],
+      "wrongCount": 0,
+      "errorRate": 0.0
+    },
+    {
+      "topic": "垄断价格与价值规律",
+      "module": "马原",
+      "count": 1,
+      "pages": [
+        "p006"
+      ],
+      "wrongCount": 0,
+      "errorRate": 0.0
+    },
+    {
+      "topic": "垄断价格与垄断利润",
+      "module": "马原",
+      "count": 1,
+      "pages": [
+        "p027"
+      ],
+      "wrongCount": 0,
+      "errorRate": 0.0
+    },
+    {
+      "topic": "垄断资本扩张的后果",
+      "module": "马原",
+      "count": 1,
+      "pages": [
+        "p029"
+      ],
+      "wrongCount": 0,
+      "errorRate": 0.0
+    },
+    {
+      "topic": "复杂劳动与简单劳动",
+      "module": "马原",
+      "count": 1,
+      "pages": [
+        "p009"
+      ],
+      "wrongCount": 0,
+      "errorRate": 0.0
+    },
+    {
+      "topic": "实践基础上自然与社会的统一",
+      "module": "马原",
+      "count": 1,
+      "pages": [
+        "p027"
+      ],
+      "wrongCount": 0,
+      "errorRate": 0.0
+    },
+    {
+      "topic": "实践是认识的基础和来源",
+      "module": "马原",
+      "count": 1,
+      "pages": [
+        "p014"
+      ],
+      "wrongCount": 0,
+      "errorRate": 0.0
+    },
+    {
+      "topic": "实践标准的确定性与不确定性",
+      "module": "马原",
+      "count": 1,
+      "pages": [
+        "p026"
+      ],
+      "wrongCount": 0,
+      "errorRate": 0.0
+    },
+    {
+      "topic": "实践检验真理的过程",
+      "module": "马原",
+      "count": 1,
+      "pages": [
+        "p002"
+      ],
+      "wrongCount": 0,
+      "errorRate": 0.0
+    },
+    {
+      "topic": "实践的社会历史性与认识发展",
+      "module": "马原",
+      "count": 1,
+      "pages": [
+        "p004"
+      ],
+      "wrongCount": 0,
+      "errorRate": 0.0
+    },
+    {
+      "topic": "客观辩证法与主观辩证法",
+      "module": "马原",
+      "count": 1,
+      "pages": [
+        "p010"
+      ],
+      "wrongCount": 0,
+      "errorRate": 0.0
+    },
+    {
+      "topic": "平均利润与生产价格",
+      "module": "马原",
+      "count": 1,
+      "pages": [
+        "p029"
+      ],
+      "wrongCount": 0,
+      "errorRate": 0.0
+    },
+    {
+      "topic": "度与平衡",
+      "module": "马原",
+      "count": 1,
+      "pages": [
+        "p022"
+      ],
+      "wrongCount": 0,
+      "errorRate": 0.0
+    },
+    {
+      "topic": "当代资本主义新变化",
+      "module": "马原",
+      "count": 1,
+      "pages": [
+        "p011"
+      ],
+      "wrongCount": 0,
+      "errorRate": 0.0
+    },
+    {
+      "topic": "必然与偶然",
+      "module": "马原",
+      "count": 1,
+      "pages": [
+        "p025"
+      ],
+      "wrongCount": 0,
+      "errorRate": 0.0
+    },
+    {
+      "topic": "必然王国与自由王国",
+      "module": "马原",
+      "count": 1,
+      "pages": [
+        "p033"
+      ],
+      "wrongCount": 0,
+      "errorRate": 0.0
+    },
+    {
+      "topic": "必要劳动时间与劳动力价值",
+      "module": "马原",
+      "count": 1,
+      "pages": [
+        "p027"
+      ],
+      "wrongCount": 0,
+      "errorRate": 0.0
+    },
+    {
+      "topic": "意识与人工智能",
+      "module": "马原",
+      "count": 1,
+      "pages": [
+        "p021"
+      ],
+      "wrongCount": 0,
+      "errorRate": 0.0
+    },
+    {
+      "topic": "意识与物质：黑洞照片的哲学意义",
+      "module": "马原",
+      "count": 1,
+      "pages": [
+        "p015"
+      ],
+      "wrongCount": 0,
+      "errorRate": 0.0
+    },
+    {
+      "topic": "意识是对存在的反映（鬼神观念）",
+      "module": "马原",
+      "count": 1,
+      "pages": [
+        "p013"
+      ],
+      "wrongCount": 0,
+      "errorRate": 0.0
+    },
+    {
+      "topic": "意识是对客观对象的能动反映",
+      "module": "马原",
+      "count": 1,
+      "pages": [
+        "p013"
+      ],
+      "wrongCount": 0,
+      "errorRate": 0.0
+    },
+    {
+      "topic": "感性认识和理性认识",
+      "module": "马原",
+      "count": 1,
+      "pages": [
+        "p022"
+      ],
+      "wrongCount": 0,
+      "errorRate": 0.0
+    },
+    {
+      "topic": "文化与经济、地理环境",
+      "module": "马原",
+      "count": 1,
+      "pages": [
+        "p005"
+      ],
+      "wrongCount": 0,
+      "errorRate": 0.0
+    },
+    {
+      "topic": "新旧事物的区分",
+      "module": "马原",
+      "count": 1,
+      "pages": [
+        "p013"
+      ],
+      "wrongCount": 0,
+      "errorRate": 0.0
+    },
+    {
+      "topic": "新旧事物的区分标准",
+      "module": "马原",
+      "count": 1,
+      "pages": [
+        "p014"
+      ],
+      "wrongCount": 0,
+      "errorRate": 0.0
+    },
+    {
+      "topic": "旧唯物主义的缺陷",
+      "module": "马原",
+      "count": 1,
+      "pages": [
+        "p001"
+      ],
+      "wrongCount": 0,
+      "errorRate": 0.0
+    },
+    {
+      "topic": "旧唯物主义认识论",
+      "module": "马原",
+      "count": 1,
+      "pages": [
+        "p010"
+      ],
+      "wrongCount": 0,
+      "errorRate": 0.0
+    },
+    {
+      "topic": "时空是运动着的物质的存在形式",
+      "module": "马原",
+      "count": 1,
+      "pages": [
+        "p013"
+      ],
+      "wrongCount": 0,
+      "errorRate": 0.0
+    },
+    {
+      "topic": "时间的特性",
+      "module": "马原",
+      "count": 1,
+      "pages": [
+        "p025"
+      ],
+      "wrongCount": 0,
+      "errorRate": 0.0
+    },
+    {
+      "topic": "普遍联系",
+      "module": "马原",
+      "count": 1,
+      "pages": [
+        "p030"
+      ],
+      "wrongCount": 0,
+      "errorRate": 0.0
+    },
+    {
+      "topic": "杰出人物的历史作用",
+      "module": "马原",
+      "count": 1,
+      "pages": [
+        "p029"
+      ],
+      "wrongCount": 0,
+      "errorRate": 0.0
+    },
+    {
+      "topic": "物质与意识的相对对立",
+      "module": "马原",
+      "count": 1,
+      "pages": [
+        "p015"
+      ],
+      "wrongCount": 0,
+      "errorRate": 0.0
+    },
+    {
+      "topic": "物质世界的时空与可知性",
+      "module": "马原",
+      "count": 1,
+      "pages": [
+        "p004"
+      ],
+      "wrongCount": 0,
+      "errorRate": 0.0
+    },
+    {
+      "topic": "物质的存在方式",
+      "module": "马原",
+      "count": 1,
+      "pages": [
+        "p015"
+      ],
+      "wrongCount": 0,
+      "errorRate": 0.0
+    },
+    {
+      "topic": "物质范畴与具体物质形态",
+      "module": "马原",
+      "count": 1,
+      "pages": [
+        "p001"
+      ],
+      "wrongCount": 0,
+      "errorRate": 0.0
+    },
+    {
+      "topic": "理论与实践、精神力量转化为物质力量",
+      "module": "马原",
+      "count": 1,
+      "pages": [
+        "p028"
+      ],
+      "wrongCount": 0,
+      "errorRate": 0.0
+    },
+    {
+      "topic": "生产价格",
+      "module": "马原",
+      "count": 1,
+      "pages": [
+        "p009"
+      ],
+      "wrongCount": 0,
+      "errorRate": 0.0
+    },
+    {
+      "topic": "生产性劳动",
+      "module": "马原",
+      "count": 1,
+      "pages": [
+        "p026"
+      ],
+      "wrongCount": 0,
+      "errorRate": 0.0
+    },
+    {
+      "topic": "生产资料价值向新产品的转移",
+      "module": "马原",
+      "count": 1,
+      "pages": [
+        "p014"
+      ],
+      "wrongCount": 0,
+      "errorRate": 0.0
+    },
+    {
+      "topic": "直接经验与间接经验",
+      "module": "马原",
+      "count": 1,
+      "pages": [
+        "p032"
+      ],
+      "wrongCount": 0,
+      "errorRate": 0.0
+    },
+    {
+      "topic": "真理的客观性与实用主义真理观",
+      "module": "马原",
+      "count": 1,
+      "pages": [
+        "p004"
+      ],
+      "wrongCount": 0,
+      "errorRate": 0.0
+    },
+    {
+      "topic": "矛盾同一性与斗争性",
+      "module": "马原",
+      "count": 1,
+      "pages": [
+        "p004"
+      ],
+      "wrongCount": 0,
+      "errorRate": 0.0
+    },
+    {
+      "topic": "矛盾的同一性与转化",
+      "module": "马原",
+      "count": 1,
+      "pages": [
+        "p019"
+      ],
+      "wrongCount": 0,
+      "errorRate": 0.0
+    },
+    {
+      "topic": "矛盾的普遍性与特殊性",
+      "module": "马原",
+      "count": 1,
+      "pages": [
+        "p002"
+      ],
+      "wrongCount": 0,
+      "errorRate": 0.0
+    },
+    {
+      "topic": "矛盾的特殊性",
+      "module": "马原",
+      "count": 1,
+      "pages": [
+        "p030"
+      ],
+      "wrongCount": 0,
+      "errorRate": 0.0
+    },
+    {
+      "topic": "社会主义代替资本主义的长期性",
+      "module": "马原",
+      "count": 1,
+      "pages": [
+        "p035"
+      ],
+      "wrongCount": 0,
+      "errorRate": 0.0
+    },
+    {
+      "topic": "社会主义的历史贡献",
+      "module": "马原",
+      "count": 1,
+      "pages": [
+        "p003"
+      ],
+      "wrongCount": 0,
+      "errorRate": 0.0
+    },
+    {
+      "topic": "社会关系与生产关系",
+      "module": "马原",
+      "count": 1,
+      "pages": [
+        "p028"
+      ],
+      "wrongCount": 0,
+      "errorRate": 0.0
+    },
+    {
+      "topic": "社会劳动生产率与商品价值量",
+      "module": "马原",
+      "count": 1,
+      "pages": [
+        "p029"
+      ],
+      "wrongCount": 0,
+      "errorRate": 0.0
+    },
+    {
+      "topic": "社会历史发展的前进性与曲折性",
+      "module": "马原",
+      "count": 1,
+      "pages": [
+        "p026"
+      ],
+      "wrongCount": 0,
+      "errorRate": 0.0
+    },
+    {
+      "topic": "社会基本矛盾运动",
+      "module": "马原",
+      "count": 1,
+      "pages": [
+        "p011"
+      ],
+      "wrongCount": 0,
+      "errorRate": 0.0
+    },
+    {
+      "topic": "社会基本矛盾（生产力与生产关系）",
+      "module": "马原",
+      "count": 1,
+      "pages": [
+        "p014"
+      ],
+      "wrongCount": 0,
+      "errorRate": 0.0
+    },
+    {
+      "topic": "社会形态更替与历史选择性",
+      "module": "马原",
+      "count": 1,
+      "pages": [
+        "p017"
+      ],
+      "wrongCount": 0,
+      "errorRate": 0.0
+    },
+    {
+      "topic": "社会形态更替的多样性",
+      "module": "马原",
+      "count": 1,
+      "pages": [
+        "p011"
+      ],
+      "wrongCount": 0,
+      "errorRate": 0.0
+    },
+    {
+      "topic": "社会意识与上层建筑",
+      "module": "马原",
+      "count": 1,
+      "pages": [
+        "p002"
+      ],
+      "wrongCount": 0,
+      "errorRate": 0.0
+    },
+    {
+      "topic": "社会意识与社会存在",
+      "module": "马原",
+      "count": 1,
+      "pages": [
+        "p028"
+      ],
+      "wrongCount": 0,
+      "errorRate": 0.0
+    },
+    {
+      "topic": "社会规律与历史主体能动作用",
+      "module": "马原",
+      "count": 1,
+      "pages": [
+        "p028"
+      ],
+      "wrongCount": 0,
+      "errorRate": 0.0
+    },
+    {
+      "topic": "社会革命",
+      "module": "马原",
+      "count": 1,
+      "pages": [
+        "p005"
+      ],
+      "wrongCount": 0,
+      "errorRate": 0.0
+    },
+    {
+      "topic": "私人劳动与社会劳动",
+      "module": "马原",
+      "count": 1,
+      "pages": [
+        "p020"
+      ],
+      "wrongCount": 0,
+      "errorRate": 0.0
+    },
+    {
+      "topic": "科学技术的社会作用",
+      "module": "马原",
+      "count": 1,
+      "pages": [
+        "p016"
+      ],
+      "wrongCount": 0,
+      "errorRate": 0.0
+    },
+    {
+      "topic": "科学社会主义与空想社会主义",
+      "module": "马原",
+      "count": 1,
+      "pages": [
+        "p018"
+      ],
+      "wrongCount": 0,
+      "errorRate": 0.0
+    },
+    {
+      "topic": "科学社会主义基本原则",
+      "module": "马原",
+      "count": 1,
+      "pages": [
+        "p009"
+      ],
+      "wrongCount": 0,
+      "errorRate": 0.0
+    },
+    {
+      "topic": "科技革命与生产方式变革",
+      "module": "马原",
+      "count": 1,
+      "pages": [
+        "p017"
+      ],
+      "wrongCount": 0,
+      "errorRate": 0.0
+    },
+    {
+      "topic": "简单劳动与复杂劳动",
+      "module": "马原",
+      "count": 1,
+      "pages": [
+        "p017"
+      ],
+      "wrongCount": 0,
+      "errorRate": 0.0
+    },
+    {
+      "topic": "经济基础与上层建筑",
+      "module": "马原",
+      "count": 1,
+      "pages": [
+        "p017"
+      ],
+      "wrongCount": 0,
+      "errorRate": 0.0
+    },
+    {
+      "topic": "经济文化落后国家社会主义革命",
+      "module": "马原",
+      "count": 1,
+      "pages": [
+        "p029"
+      ],
+      "wrongCount": 0,
+      "errorRate": 0.0
+    },
+    {
+      "topic": "绝对剩余价值生产",
+      "module": "马原",
+      "count": 1,
+      "pages": [
+        "p021"
+      ],
+      "wrongCount": 0,
+      "errorRate": 0.0
+    },
+    {
+      "topic": "联系的客观性与普遍性",
+      "module": "马原",
+      "count": 1,
+      "pages": [
+        "p028"
+      ],
+      "wrongCount": 0,
+      "errorRate": 0.0
+    },
+    {
+      "topic": "联系的普遍性与多样性",
+      "module": "马原",
+      "count": 1,
+      "pages": [
+        "p032"
+      ],
+      "wrongCount": 0,
+      "errorRate": 0.0
+    },
+    {
+      "topic": "联系的条件性",
+      "module": "马原",
+      "count": 1,
+      "pages": [
+        "p007"
+      ],
+      "wrongCount": 0,
+      "errorRate": 0.0
+    },
+    {
+      "topic": "自然地理环境",
+      "module": "马原",
+      "count": 1,
+      "pages": [
+        "p033"
+      ],
+      "wrongCount": 0,
+      "errorRate": 0.0
+    },
+    {
+      "topic": "自然规律与社会规律",
+      "module": "马原",
+      "count": 1,
+      "pages": [
+        "p025"
+      ],
+      "wrongCount": 0,
+      "errorRate": 0.0
+    },
+    {
+      "topic": "苏联模式",
+      "module": "马原",
+      "count": 1,
+      "pages": [
+        "p023"
+      ],
+      "wrongCount": 0,
+      "errorRate": 0.0
+    },
+    {
+      "topic": "虚拟实践",
+      "module": "马原",
+      "count": 1,
+      "pages": [
+        "p004"
+      ],
+      "wrongCount": 0,
+      "errorRate": 0.0
+    },
+    {
+      "topic": "规律与理论思维",
+      "module": "马原",
+      "count": 1,
+      "pages": [
+        "p025"
+      ],
+      "wrongCount": 0,
+      "errorRate": 0.0
+    },
+    {
+      "topic": "认识的反复性和无限性",
+      "module": "马原",
+      "count": 1,
+      "pages": [
+        "p016"
+      ],
+      "wrongCount": 0,
+      "errorRate": 0.0
+    },
+    {
+      "topic": "认识的发展",
+      "module": "马原",
+      "count": 1,
+      "pages": [
+        "p031"
+      ],
+      "wrongCount": 0,
+      "errorRate": 0.0
+    },
+    {
+      "topic": "认识过程中的非理性因素",
+      "module": "马原",
+      "count": 1,
+      "pages": [
+        "p014"
+      ],
+      "wrongCount": 0,
+      "errorRate": 0.0
+    },
+    {
+      "topic": "认识过程的反复性与无限性",
+      "module": "马原",
+      "count": 1,
+      "pages": [
+        "p026"
+      ],
+      "wrongCount": 0,
+      "errorRate": 0.0
+    },
+    {
+      "topic": "货币的流通手段职能",
+      "module": "马原",
+      "count": 1,
+      "pages": [
+        "p014"
+      ],
+      "wrongCount": 0,
+      "errorRate": 0.0
+    },
+    {
+      "topic": "货币的职能",
+      "module": "马原",
+      "count": 1,
+      "pages": [
+        "p003"
+      ],
+      "wrongCount": 0,
+      "errorRate": 0.0
+    },
+    {
+      "topic": "资本主义基本矛盾与经济危机",
+      "module": "马原",
+      "count": 1,
+      "pages": [
+        "p005"
+      ],
+      "wrongCount": 0,
+      "errorRate": 0.0
+    },
+    {
+      "topic": "资本主义工资",
+      "module": "马原",
+      "count": 1,
+      "pages": [
+        "p003"
+      ],
+      "wrongCount": 0,
+      "errorRate": 0.0
+    },
+    {
+      "topic": "资本主义政治制度及其局限",
+      "module": "马原",
+      "count": 1,
+      "pages": [
+        "p011"
+      ],
+      "wrongCount": 0,
+      "errorRate": 0.0
+    },
+    {
+      "topic": "资本主义的历史地位",
+      "module": "马原",
+      "count": 1,
+      "pages": [
+        "p034"
+      ],
+      "wrongCount": 0,
+      "errorRate": 0.0
+    },
+    {
+      "topic": "资本主义被社会主义代替",
+      "module": "马原",
+      "count": 1,
+      "pages": [
+        "p031"
+      ],
+      "wrongCount": 0,
+      "errorRate": 0.0
+    },
+    {
+      "topic": "资本划分",
+      "module": "马原",
+      "count": 1,
+      "pages": [
+        "p009"
+      ],
+      "wrongCount": 0,
+      "errorRate": 0.0
+    },
+    {
+      "topic": "资本循环",
+      "module": "马原",
+      "count": 1,
+      "pages": [
+        "p023"
+      ],
+      "wrongCount": 0,
+      "errorRate": 0.0
+    },
+    {
+      "topic": "资本技术构成与超额剩余价值",
+      "module": "马原",
+      "count": 1,
+      "pages": [
+        "p021"
+      ],
+      "wrongCount": 0,
+      "errorRate": 0.0
+    },
+    {
+      "topic": "资本有机构成与剩余价值率",
+      "module": "马原",
+      "count": 1,
+      "pages": [
+        "p014"
+      ],
+      "wrongCount": 0,
+      "errorRate": 0.0
+    },
+    {
+      "topic": "资本积累",
+      "module": "马原",
+      "count": 1,
+      "pages": [
+        "p017"
+      ],
+      "wrongCount": 0,
+      "errorRate": 0.0
+    },
+    {
+      "topic": "超额剩余价值",
+      "module": "马原",
+      "count": 1,
+      "pages": [
+        "p011"
+      ],
+      "wrongCount": 0,
+      "errorRate": 0.0
+    },
+    {
+      "topic": "运动与静止、辩证法与诡辩论",
+      "module": "马原",
+      "count": 1,
+      "pages": [
+        "p027"
+      ],
+      "wrongCount": 0,
+      "errorRate": 0.0
+    },
+    {
+      "topic": "运动的时空性",
+      "module": "马原",
+      "count": 1,
+      "pages": [
+        "p032"
+      ],
+      "wrongCount": 0,
+      "errorRate": 0.0
+    },
+    {
+      "topic": "量变质变规律",
+      "module": "马原",
+      "count": 1,
+      "pages": [
+        "p014"
+      ],
+      "wrongCount": 0,
+      "errorRate": 0.0
+    },
+    {
+      "topic": "阶级斗争",
+      "module": "马原",
+      "count": 1,
+      "pages": [
+        "p022"
+      ],
+      "wrongCount": 0,
+      "errorRate": 0.0
+    },
+    {
+      "topic": "马克思主义哲学与旧唯物主义的区别",
+      "module": "马原",
+      "count": 1,
+      "pages": [
+        "p015"
+      ],
+      "wrongCount": 0,
+      "errorRate": 0.0
+    },
+    {
+      "topic": "马克思主义基本原理",
+      "module": "马原",
+      "count": 1,
+      "pages": [
+        "p009"
+      ],
+      "wrongCount": 0,
+      "errorRate": 0.0
+    },
+    {
+      "topic": "马克思主义基本立场",
+      "module": "马原",
+      "count": 1,
+      "pages": [
+        "p001"
+      ],
+      "wrongCount": 0,
+      "errorRate": 0.0
+    },
+    {
+      "topic": "马克思主义的内在品质与价值指向",
+      "module": "马原",
+      "count": 1,
+      "pages": [
+        "p013"
+      ],
+      "wrongCount": 0,
+      "errorRate": 0.0
+    },
+    {
+      "topic": "马克思主义的创立",
+      "module": "马原",
+      "count": 1,
+      "pages": [
+        "p025"
+      ],
+      "wrongCount": 0,
+      "errorRate": 0.0
+    },
+    {
+      "topic": "马克思主义的实践观点",
+      "module": "马原",
+      "count": 1,
+      "pages": [
+        "p007"
+      ],
+      "wrongCount": 0,
+      "errorRate": 0.0
+    },
+    {
+      "topic": "马克思主义预见未来社会",
+      "module": "马原",
+      "count": 1,
+      "pages": [
+        "p003"
+      ],
+      "wrongCount": 0,
+      "errorRate": 0.0
+    }
+  ],
+  "notes": [
+    {
+      "page": "p008",
+      "module": "马原",
+      "question": "11",
+      "note": "基本矛盾",
+      "meaning": "社会发展的根本动力是社会基本矛盾，不是实践；地理环境和人口因素只是必要条件，不起决定作用。",
+      "source": "错题旁注"
+    },
+    {
+      "page": "p012",
+      "module": "马原",
+      "question": "",
+      "note": "B项“剪息票为生的食利者”旁有红笔批注，字迹不清，似为“食利者”",
+      "meaning": "垄断资本主义阶段，资本家由直接生产经营者变为靠剪息票为生的食利者阶层，脱离生产经营",
+      "source": "照片统计"
+    },
+    {
+      "page": "p017",
+      "module": "马原",
+      "question": "24",
+      "note": "政治上层建筑；观念上层建筑",
+      "meaning": "上层建筑中政治上层建筑居主导；政治法律思想属于观念上层建筑，上层建筑的核心是国家政权。",
+      "source": "错题旁注"
+    },
+    {
+      "page": "p020",
+      "module": "马原",
+      "question": "8",
+      "note": "与题无关",
+      "meaning": "B项“实践使认识得以产生和发展”虽正确，但材料讲的是实践检验真理，故与题意无关。",
+      "source": "错题旁注"
+    },
+    {
+      "page": "p024",
+      "module": "马原",
+      "question": "",
+      "note": "红笔斜划C项“马克思主义追求的根本价值目标”",
+      "meaning": "C项作为干扰项被排除；“根本价值目标”指实现人的自由而全面发展",
+      "source": "照片统计"
+    },
+    {
+      "page": "p030",
+      "module": "马原",
+      "question": "5",
+      "note": "意识、物质",
+      "meaning": "主观辩证法属于意识和思维领域，客观辩证法是物质世界的辩证法，二者是反映与被反映的关系",
+      "source": "错题旁注"
+    },
+    {
+      "page": "p036",
+      "module": "毛中特",
+      "question": "1",
+      "note": "C项下红笔注“群众”；D项旁红笔注“统一战线、武装斗争、党的建设”",
+      "meaning": "群众路线是党的生命线和根本工作路线；三大法宝是统一战线、武装斗争、党的建设；A项“全部理论和实践的立足点”指独立自主；B项“基本思想方法、工作方法、领导方法”才是实事求是的思想路线",
+      "source": "照片统计"
+    },
+    {
+      "page": "p037",
+      "module": "毛中特",
+      "question": "8",
+      "note": "红笔注“公有制为主导地位，而非主体”，并指向A项",
+      "meaning": "新民主主义社会公有制经济居领导地位但非主体，社会主义初级阶段才成为主体；故C项“是否成为社会经济的主体”是根本区别，A项“领导地位”不是",
+      "source": "照片统计"
+    },
+    {
+      "page": "p038",
+      "module": "毛中特",
+      "question": "15",
+      "note": "红笔批注“十一届三中全会恢复实事求是思想路线”，并在A项下划线、箭头指向该批注",
+      "meaning": "恢复实事求是思想路线是十一届三中全会的历史贡献；本题引文强调解放思想，A为干扰项，答案应为B",
+      "source": "照片统计"
+    },
+    {
+      "page": "p039",
+      "module": "毛中特",
+      "question": "",
+      "note": "红笔对比：旧——反帝反封——资产阶级；新——反帝反封反资——无产阶级",
+      "meaning": "新旧民主主义革命的对象和领导阶级不同；新民主主义革命由无产阶级领导，革命对象包括官僚资本主义",
+      "source": "照片统计"
+    },
+    {
+      "page": "p039",
+      "module": "毛中特",
+      "question": "19",
+      "note": "D项旁蓝笔写“无产阶级”并将D项划掉",
+      "meaning": "民主革命领导权属于无产阶级，民族资产阶级不能始终领导革命",
+      "source": "照片统计"
+    },
+    {
+      "page": "p039",
+      "module": "毛中特",
+      "question": "20",
+      "note": "蓝笔写“大革命失败”“农村包围城市、武装夺取政权”“遵义会议”",
+      "meaning": "农村包围城市道路开辟的背景与核心内容；遵义会议是毛泽东思想走向成熟的重要节点",
+      "source": "照片统计"
+    },
+    {
+      "page": "p039",
+      "module": "毛中特",
+      "question": "20",
+      "note": "蓝笔写“延安整风，七大确立毛泽东思想”“第一次飞跃”，并画“萌芽—初步形成—成熟”进程",
+      "meaning": "毛泽东思想在延安整风、七大后确立为党的指导思想；注意其形成发展的阶段划分",
+      "source": "照片统计"
+    },
+    {
+      "page": "p039",
+      "module": "毛中特",
+      "question": "21",
+      "note": "红笔批注“思想上建党”",
+      "meaning": "党的建设要着重从思想上建党，改造各种非无产阶级思想",
+      "source": "照片统计"
+    },
+    {
+      "page": "p040",
+      "module": "毛中特",
+      "question": "23",
+      "note": "蓝笔圈注“由新民主主义转变到社会主义”，旁写“过渡性”“国营经济、合作社”",
+      "meaning": "新民主主义社会是过渡性社会形态，多种经济成分分别向社会主义经济过渡",
+      "source": "照片统计"
+    },
+    {
+      "page": "p040",
+      "module": "毛中特",
+      "question": "25",
+      "note": "红笔写“《论十大关系》”",
+      "meaning": "本题考查《论十大关系》的主要内容，报告初步总结我国社会主义建设经验",
+      "source": "照片统计"
+    },
+    {
+      "page": "p040",
+      "module": "毛中特",
+      "question": "25",
+      "note": "红笔写“以苏为鉴，重工业、轻工业、农业”",
+      "meaning": "《论十大关系》提出以苏为鉴，正确处理重工业、轻工业和农业的关系",
+      "source": "照片统计"
+    },
+    {
+      "page": "p040",
+      "module": "毛中特",
+      "question": "25",
+      "note": "红笔在B项旁写“《关于正确处理人民内部矛盾的问题》”",
+      "meaning": "系统论述社会主义社会矛盾理论的是1957年《关于正确处理人民内部矛盾的问题》，不是《论十大关系》",
+      "source": "照片统计"
+    },
+    {
+      "page": "p040",
+      "module": "毛中特",
+      "question": "26",
+      "note": "蓝笔在D项旁写“南方谈话”",
+      "meaning": "社会主义本质理论是1992年南方谈话提出的，不是1987年十三大",
+      "source": "照片统计"
+    },
+    {
+      "page": "p040",
+      "module": "毛中特",
+      "question": "27",
+      "note": "红笔写“生产力”“共同富裕”",
+      "meaning": "社会主义本质理论的核心是解放和发展生产力、最终达到共同富裕",
+      "source": "照片统计"
+    },
+    {
+      "page": "p040",
+      "module": "毛中特",
+      "question": "28",
+      "note": "红笔划线“社会主义的本质，是解放生产力……最终达到共同富裕”",
+      "meaning": "社会主义本质的科学内涵包括解放和发展生产力、消灭剥削、消除两极分化、最终共同富裕",
+      "source": "照片统计"
+    },
+    {
+      "page": "p043",
+      "module": "毛中特",
+      "question": "10",
+      "note": "A旁：十一届六中；B旁：十三大；D旁：毛",
+      "meaning": "概念首提于十一届六中全会；十三大首次系统阐述初级阶段理论；毛泽东首次划分社会主义发展阶段。",
+      "source": "错题旁注"
+    },
+    {
+      "page": "p044",
+      "module": "毛中特",
+      "question": "15",
+      "note": "B旁：不符现代市场；C旁：错误；下方：市场配置资源的一般规律",
+      "meaning": "市场配置资源是最有效率的形式，是市场经济一般规律；计划配置、政府配置均不符合现代市场经济。",
+      "source": "错题旁注"
+    },
+    {
+      "page": "p045",
+      "module": "毛中特",
+      "question": "18",
+      "note": "A项旁红批：提供方法",
+      "meaning": "马克思主义中国化时代化提供的是立场观点方法，不是现成发展模式，A项表述错误。",
+      "source": "错题旁注"
+    },
+    {
+      "page": "p046",
+      "module": "毛中特",
+      "question": "26",
+      "note": "A项“完成”被圈，旁批“提出”；C项旁批“改革开放”",
+      "meaning": "“第二次结合”任务只是提出、并未完成；中国特色社会主义制度是改革开放后确立的，非毛泽东时期成果。",
+      "source": "错题旁注"
+    },
+    {
+      "page": "p050",
+      "module": "新思想",
+      "question": "15",
+      "note": "科技自立自强",
+      "meaning": "制造业高质量发展的必由之路是科技自立自强，不是制造业本身；A项偷换主体。",
+      "source": "错题旁注"
+    },
+    {
+      "page": "p053",
+      "module": "新思想",
+      "question": "27",
+      "note": "人民宗旨",
+      "meaning": "党的根本宗旨是全心全意为人民服务，“根本出发点”不能安到国家安全上。",
+      "source": "错题旁注"
+    },
+    {
+      "page": "p067",
+      "module": "新思想",
+      "question": "25",
+      "note": "高质量发展",
+      "meaning": "建设美丽中国不是全面建设社会主义现代化国家的首要任务，高质量发展才是首要任务。",
+      "source": "错题旁注"
+    },
+    {
+      "page": "p068",
+      "module": "史纲",
+      "question": "1",
+      "note": "蓝笔划线：要争得民族独立和人民解放，必须首先",
+      "meaning": "两大历史任务中，争取民族独立、人民解放是前提，须首先进行反帝反封建的民主革命。",
+      "source": "错题旁注"
+    },
+    {
+      "page": "p069",
+      "module": "史纲",
+      "question": "21",
+      "note": "红笔批注：没有明确提出反帝",
+      "meaning": "旧三民主义的民族主义未鲜明反帝，放走了最主要的敌人帝国主义，故不能指明正确方向。",
+      "source": "错题旁注"
+    },
+    {
+      "page": "p080",
+      "module": "史纲",
+      "question": "11",
+      "note": "A旁红字“七大”；D旁红字“延安整风”",
+      "meaning": "毛泽东思想确立为党的指导思想是中共七大；彻底纠正“左”倾教条主义错误是延安整风运动。",
+      "source": "错题旁注"
+    },
+    {
+      "page": "p086",
+      "module": "思道法",
+      "question": "1",
+      "note": "红笔圈出“我们自身的完美”",
+      "meaning": "强调人生的自我价值，即对自身人格、才智、生活的满足",
+      "source": "照片统计"
+    },
+    {
+      "page": "p086",
+      "module": "思道法",
+      "question": "2",
+      "note": "红笔圈出“是否符合社会发展的客观规律”",
+      "meaning": "人生价值评价的根本尺度是看实践是否符合社会发展客观规律",
+      "source": "照片统计"
+    },
+    {
+      "page": "p086",
+      "module": "思道法",
+      "question": "3",
+      "note": "红笔圈出“艰难困苦、玉汝于成”",
+      "meaning": "面对艰难困苦要树立正确的苦乐观",
+      "source": "照片统计"
+    },
+    {
+      "page": "p086",
+      "module": "思道法",
+      "question": "4",
+      "note": "红笔圈出“历史际遇”等关键词",
+      "meaning": "理想具有时代性，与时代使命相联系",
+      "source": "照片统计"
+    },
+    {
+      "page": "p086",
+      "module": "思道法",
+      "question": "5",
+      "note": "红笔圈出“行动则是架在川上的桥梁”",
+      "meaning": "理想不能自发实现，必须落实在行动上",
+      "source": "照片统计"
+    },
+    {
+      "page": "p086",
+      "module": "思道法",
+      "question": "6",
+      "note": "红笔圈出“以其有仁义礼智”",
+      "meaning": "中华传统美德提倡人伦价值、重视道德义务",
+      "source": "照片统计"
+    },
+    {
+      "page": "p086",
+      "module": "思道法",
+      "question": "7",
+      "note": "红笔圈出“革故鼎新、自强不息”",
+      "meaning": "体现中华民族的伟大奋斗精神",
+      "source": "照片统计"
+    },
+    {
+      "page": "p086",
+      "module": "思道法",
+      "question": "8",
+      "note": "红笔圈出“新时代爱国主义的鲜明主题”",
+      "meaning": "新时代爱国主义的鲜明主题是实现中华民族伟大复兴的中国梦",
+      "source": "照片统计"
+    },
+    {
+      "page": "p086",
+      "module": "思道法",
+      "question": "9",
+      "note": "红笔圈出“历史底蕴”",
+      "meaning": "社会主义核心价值观的历史底蕴是中华优秀传统文化",
+      "source": "照片统计"
+    },
+    {
+      "page": "p086",
+      "module": "思道法",
+      "question": "10",
+      "note": "红笔圈出“根本分界线”",
+      "meaning": "全心全意为人民服务是区别革命道德和剥削阶级道德的根本分界线",
+      "source": "照片统计"
+    },
+    {
+      "page": "p086",
+      "module": "思道法",
+      "question": "11",
+      "note": "红笔圈出“从孔夫子到孙中山”",
+      "meaning": "道德建设要与中华民族传统美德相承接，不能割断历史",
+      "source": "照片统计"
+    },
+    {
+      "page": "p086",
+      "module": "思道法",
+      "question": "12",
+      "note": "红笔圈出“行政法规”",
+      "meaning": "行政法规的制定主体是国务院",
+      "source": "照片统计"
+    },
+    {
+      "page": "p086",
+      "module": "思道法",
+      "question": "13",
+      "note": "红笔圈出“合法性、合理性、信赖保护、效率”",
+      "meaning": "法律执行必须坚持合法性、合理性、信赖保护、效率等原则",
+      "source": "照片统计"
+    },
+    {
+      "page": "p086",
+      "module": "思道法",
+      "question": "14",
+      "note": "红笔圈出“重点”",
+      "meaning": "建设中国特色社会主义法治体系的重点是形成完备的法律规范体系",
+      "source": "照片统计"
+    },
+    {
+      "page": "p087",
+      "module": "思道法",
+      "question": "15",
+      "note": "A、D项画线，C项被圈出",
+      "meaning": "思想道德为法律提供价值基础、法律为思想道德提供制度保障；C项把法律与道德的教化、规范作用颠倒",
+      "source": "照片统计"
+    },
+    {
+      "page": "p087",
+      "module": "思道法",
+      "question": "16",
+      "note": "手写ABC；B、C项下划线",
+      "meaning": "马克思主义是科学的理论、人民的理论；D项“超阶级”错误",
+      "source": "照片统计"
+    },
+    {
+      "page": "p087",
+      "module": "思道法",
+      "question": "17",
+      "note": "手写ABD；B项“只有…才”被圈",
+      "meaning": "B项条件关系绝对化，正确应为ACD",
+      "source": "照片统计"
+    },
+    {
+      "page": "p087",
+      "module": "思道法",
+      "question": "18",
+      "note": "手写ABCD；四句诗均画线",
+      "meaning": "四句均体现爱国主义优良传统",
+      "source": "照片统计"
+    },
+    {
+      "page": "p087",
+      "module": "思道法",
+      "question": "19",
+      "note": "手写AC；A、D项下划线",
+      "meaning": "A项描述民族精神；时代精神应选C、D",
+      "source": "照片统计"
+    },
+    {
+      "page": "p087",
+      "module": "思道法",
+      "question": "20",
+      "note": "手写ABD；B、D项圈选",
+      "meaning": "增强国家安全意识须确立总体国家安全观、履行维护国家安全的义务",
+      "source": "照片统计"
+    },
+    {
+      "page": "p087",
+      "module": "思道法",
+      "question": "21",
+      "note": "手写AB；C、D项被圈画",
+      "meaning": "社会主义核心价值观平等是实实在在的平等，非绝对平均或形式平等",
+      "source": "照片统计"
+    },
+    {
+      "page": "p087",
+      "module": "思道法",
+      "question": "22",
+      "note": "手写AC；B、D项画叉",
+      "meaning": "道德建设与市场经济相适应，不是独立系统，也不束缚市场经济",
+      "source": "照片统计"
+    },
+    {
+      "page": "p087",
+      "module": "思道法",
+      "question": "23",
+      "note": "手写ABD；C项画叉",
+      "meaning": "个人品德是稳定行为倾向和知情意行统一，不是偶然短暂现象",
+      "source": "照片统计"
+    },
+    {
+      "page": "p087",
+      "module": "思道法",
+      "question": "24",
+      "note": "手写AB；D项画叉",
+      "meaning": "平等是社会主义法律的基本属性、法治基本要求，非“全面依法治国的前提”",
+      "source": "照片统计"
+    },
+    {
+      "page": "p087",
+      "module": "思道法",
+      "question": "25",
+      "note": "手写ACD；B项画叉",
+      "meaning": "法治思维是正当性、逻辑性、科学性思维，不是暴力性思维",
+      "source": "照片统计"
+    },
+    {
+      "page": "p088",
+      "module": "思道法",
+      "question": "26",
+      "note": "手写ABD；C项画线",
+      "meaning": "法治与德治在方式、范围、途径上不同，“所处地位不同”错误",
+      "source": "照片统计"
+    },
+    {
+      "page": "p088",
+      "module": "思道法",
+      "question": "27",
+      "note": "手写ABCD；A、C、D项圈选",
+      "meaning": "尊重法律权威是法治观念核心要求、长治久安重要保障、保障人民权利基本途径",
+      "source": "照片统计"
+    },
+    {
+      "page": "p088",
+      "module": "思道法",
+      "question": "28",
+      "note": "手写AC；B、D项画叉",
+      "meaning": "权力应以权利为界限并受权利制约，不能决定或优先于权利",
+      "source": "照片统计"
+    },
+    {
+      "page": "p088",
+      "module": "思道法",
+      "question": "29",
+      "note": "手写ABD；C项画叉",
+      "meaning": "法律权利义务相互依存、是目的与手段的关系并具有复合性；C项“顺序性”错误",
+      "source": "照片统计"
+    },
+    {
+      "page": "p088",
+      "module": "思道法",
+      "question": "1",
+      "note": "手写D；D项圈选",
+      "meaning": "人生价值是自我价值与社会价值的统一",
+      "source": "照片统计"
+    },
+    {
+      "page": "p088",
+      "module": "思道法",
+      "question": "3",
+      "note": "手写A；A项圈选",
+      "meaning": "共同理想与远大理想是阶段性理想与最高理想的关系",
+      "source": "照片统计"
+    },
+    {
+      "page": "p088",
+      "module": "思道法",
+      "question": "4",
+      "note": "手写A；B、C、D项画叉",
+      "meaning": "“功崇惟志，业广惟勤”强调立志",
+      "source": "照片统计"
+    },
+    {
+      "page": "p088",
+      "module": "思道法",
+      "question": "6",
+      "note": "手写A；B项画叉",
+      "meaning": "当代中国爱国主义本质是爱国和爱党、爱社会主义高度统一",
+      "source": "照片统计"
+    },
+    {
+      "page": "p089",
+      "module": "思道法",
+      "question": "7",
+      "note": "手写A；A项圈选",
+      "meaning": "爱国主义是启迪指引人生的共同思想因素",
+      "source": "照片统计"
+    },
+    {
+      "page": "p089",
+      "module": "思道法",
+      "question": "8",
+      "note": "D项“真实性”画线",
+      "meaning": "核心价值观道义力量源于真实性",
+      "source": "照片统计"
+    },
+    {
+      "page": "p089",
+      "module": "思道法",
+      "question": "9",
+      "note": "手写B；B项圈选",
+      "meaning": "重视荣誉，宁可毁人不可毁誉",
+      "source": "照片统计"
+    },
+    {
+      "page": "p089",
+      "module": "思道法",
+      "question": "10",
+      "note": "手写C；C项双圈",
+      "meaning": "公孙仪拒鱼体现不谋私利、不徇私情",
+      "source": "照片统计"
+    },
+    {
+      "page": "p089",
+      "module": "思道法",
+      "question": "11",
+      "note": "手写D；D项圈选",
+      "meaning": "违法必究是社会主义法治基本要求",
+      "source": "照片统计"
+    },
+    {
+      "page": "p089",
+      "module": "思道法",
+      "question": "15",
+      "note": "手写B；B项圈选，D项未见于页面",
+      "meaning": "隐私权属于人格尊严权；人身自由不属于人格尊严权",
+      "source": "照片统计"
+    },
+    {
+      "page": "p089",
+      "module": "思道法",
+      "question": "16",
+      "note": "手写ABCD；四项均圈选",
+      "meaning": "公序良俗原则体现依法治国与以德治国统一、对传统民法原则的继承发展",
+      "source": "照片统计"
+    },
+    {
+      "page": "p089",
+      "module": "思道法",
+      "question": "18",
+      "note": "手写ABD；C项画线",
+      "meaning": "精神谱系不是理论创新成果，C项不选",
+      "source": "照片统计"
+    },
+    {
+      "page": "p089",
+      "module": "思道法",
+      "question": "19",
+      "note": "手写ACD；B项画叉",
+      "meaning": "共同理想不是迈向最高理想的“一条道路”，B项不选",
+      "source": "照片统计"
+    },
+    {
+      "page": "p089",
+      "module": "思道法",
+      "question": "20",
+      "note": "手写BCD；A项画线",
+      "meaning": "A项是社会公德要求，不是个人品德作用",
+      "source": "照片统计"
+    },
+    {
+      "page": "p090",
+      "module": "思道法",
+      "question": "21",
+      "note": "手写ABD；C项画叉",
+      "meaning": "公共生活价值不包括以牺牲个人利益为前提",
+      "source": "照片统计"
+    },
+    {
+      "page": "p090",
+      "module": "思道法",
+      "question": "22",
+      "note": "手写ABD；C项未选",
+      "meaning": "法治与德治相互促进要强化道德支撑、把道德要求贯彻到法治建设、运用法治手段解决道德问题",
+      "source": "照片统计"
+    },
+    {
+      "page": "p090",
+      "module": "思道法",
+      "question": "23",
+      "note": "手写ACD；D项有划线",
+      "meaning": "司法是公平正义最后防线，司法机关包括法院检察院；法律面前人人平等是法治原则",
+      "source": "照片统计"
+    },
+    {
+      "page": "p090",
+      "module": "思道法",
+      "question": "24",
+      "note": "手写ACD；B项画叉",
+      "meaning": "权利行使方式不具唯一性，须目的正当、不超限度、程序正当",
+      "source": "照片统计"
+    },
+    {
+      "page": "p090",
+      "module": "思道法",
+      "question": "25",
+      "note": "手写ABCD；四项均圈选",
+      "meaning": "法治监督体系包括党内监督、民主监督、人大监督、舆论监督",
+      "source": "照片统计"
+    },
+    {
+      "page": "p090",
+      "module": "思道法",
+      "question": "26",
+      "note": "手写ABCD；C、D项圈选",
+      "meaning": "尊重他人权利是权利意识内容、法律和道德义务，权利实现需相互尊重",
+      "source": "照片统计"
+    },
+    {
+      "page": "p090",
+      "module": "思道法",
+      "question": "28",
+      "note": "手写ABCD；各环节均勾选",
+      "meaning": "法律运行包括法律制定、执行、适用、遵守",
+      "source": "照片统计"
+    },
+    {
+      "page": "p090",
+      "module": "思道法",
+      "question": "29",
+      "note": "手写BD；A、C项画叉",
+      "meaning": "我国社会主义法律本质特征是阶级性与人民性、科学性与先进性的统一",
+      "source": "照片统计"
+    }
+  ],
+  "method": "78 页使用逐页识别代理的题目计数；12 个缺计数页（p012、p024、p036–p040、p086–p090）由补齐代理逐题统计。计数为逐页约数，跨页续题可能在同一页被重复计入一次。"
+}
